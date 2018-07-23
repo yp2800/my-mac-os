@@ -1,9 +1,9 @@
 # My wonderful world of macOS [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
 > List of applications and tools that make my macOS experience even more amazing
 
-![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/mac.png)
+![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/desktop.png)
 
-> [Wallpaper link](https://ello.co/maalavidaa/post/0avsbcnwu5jet6j-uckz2g)
+> [Wallpaper link](https://unsplash.com/photos/u27Rrbs9Dwc)
 
 ##### Contents
 - [Applications](#applications)
