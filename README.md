@@ -223,7 +223,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 Here is how my library looks:
 ![](https://i.imgur.com/LBQVFPo.png)
 
-- I share my entire library of snippets as [GitHub Gists](https://wiki.nikitavoloboev.xyz/sharing/my-gists.html). And I share my local library too that you can download [here](https://wiki.nikitavoloboev.xyz/macOS/apps/snippetslab.html).
+- I share my entire library of snippets as [GitHub Gists](https://wiki.nikitavoloboev.xyz/sharing/my-gists.html).
 
 #### [Tower](https://www.git-tower.com) - Git client
 - Use the app to help me version control any project I am working on. Love the ability to search through commits, check out branches with ease and searching through all the Git repositories I have on my mac with quick search.
