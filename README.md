@@ -36,7 +36,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 
 - It has a great [community](http://www.alfredforum.com/) and [amazing workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can use.
 
-- I wrote [an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language and [AwGo](https://github.com/deanishe/awgo) library.
+- I wrote [an article](https://medium.com/@nikitavoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language and [AwGo](https://github.com/deanishe/awgo) library.
 
 #### [Karabiner](https://pqrs.org/osx/karabiner/) - Keyboard remapping
 - Karabiner is an absolutely amazing app that lets you remap keys at a very low level on macOS.
@@ -83,11 +83,11 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 ![](https://i.imgur.com/mQWt0vx.jpg)
 
 #### [Typinator](http://www.ergonis.com/products/typinator/) - Text expansions
-- I use the app to [fully automate writing repetitive text](https://medium.com/@NikitaVoloboev/write-once-never-write-again-c2fa1f6c4e8).
+- I use the app to [fully automate writing repetitive text](https://medium.com/@nikitavoloboev/write-once-never-write-again-c2fa1f6c4e8).
 - I share all the Typinator sets I made with the app [here](typinator).
 
 #### [BetterTouchTool](https://www.boastr.net/) - Mac input customizer
-- I use this app a lot for mapping [various trackpad gestures](https://medium.com/@NikitaVoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze) to hotkeys and actions both globally and per specific applications.
+- I use this app a lot for mapping [various trackpad gestures](https://medium.com/@nikitavoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze) to hotkeys and actions both globally and per specific applications.
 <img src="https://i.imgur.com/BXdQ1LZ.png" width="500" alt="img">
 
 - I love scrolling through my tabs in Safari with three finger swipes left and right as well as opening and closing tabs with swiping up and down respectively.
@@ -99,7 +99,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 
 #### [Fantastical](https://flexibits.com/fantastical) - Calendar
 - I use the app to manage events in my life.
-- I take great use of Fantastical's natural language input and I use [many Typinator expansions](https://medium.com/@NikitaVoloboev/fantastical-natural-input-text-expansions-3ea8cf7ccac3#.pv5937ncr) to ease this process.
+- I take great use of Fantastical's natural language input and I use [many Typinator expansions](https://medium.com/@nikitavoloboev/fantastical-natural-input-text-expansions-3ea8cf7ccac3#.pv5937ncr) to ease this process.
 - I always view my events from `Week` view. And show 5 days only with all 24h shown for all days. This lets me have a perspective over what I have to do now. What deadlines I have to complete soon. And gives me the freedom to adjust my schedule in light of upcoming deadlines and events.
 
 #### [Contexts](https://contexts.co) - Window switcher
@@ -180,7 +180,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 - I now run most applications in full screen and switch between them with [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html).
 
 #### [Paprika Recipe Manager](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222628?ls=1&mt=12)
-- Use the app to fully plan any meal or recipe I want to make throughout the day as well as [collect recipes](https://github.com/nikitavoloboev/recipes#readme) and manage my shopping list.
+- Use the app to store the many [vegan recipes](https://github.com/nikitavoloboev/vegan-recipes#readme) I like to make.
 
 ### Code
 #### [VS Code](https://github.com/Microsoft/vscode) - Code editor
@@ -191,7 +191,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 ![](https://i.imgur.com/aBTMkTk.png)
 
 #### [iTerm](https://www.iterm2.com/) - Terminal Emulator
-- Use Zsh as my shell together with [Antibody](https://github.com/getantibody/antibody) plugin manager and [Pure](https://github.com/sindresorhus/pure) theme.
+- Use Zsh as my shell together with [Antibody](https://github.com/getantibody/antibody) to install [Zsh plugins I use](https://wiki.nikitavoloboev.xyz/unix/shell/zsh/zsh-plugins.html).
 - Assigned w + j with [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) to open the app from Keyboard Maestro in seconds.
 - I made my own [Monokai theme](iterm#readme) for it. Which goes well with [Ayu theme for Vim](https://github.com/ayu-theme/ayu-vim).
 
@@ -208,7 +208,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 - I use [many plugins](https://wiki.nikitavoloboev.xyz/text-editors/sublime-text/sublime-text-plugins.html) together with [Ayu theme](https://github.com/dempfi/ayu).
 
 #### [Dash](https://kapeli.com/dash) - API Documentation Browser
-- Allows you to download any docset that you might want to use, search for any method, class or anything that you need very quickly, comes with the amazing [Alfred worfklow](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) to simplify the process of searching for the right things.
+- Allows you to download any docset that you might want to use, search for any method, class or anything that you need very quickly, comes with the amazing [Alfred workflow](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) to simplify the process of searching for the right things.
 <img src="http://i.imgur.com/tBEkKtL.png" width="500" alt="img">
 
 - I also use [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/master/dash-profile-switch#readme) I made to quickly switch between Dash profiles.
@@ -270,11 +270,11 @@ Here is how my library looks:
 - Day One is my digital life journal.
 - My entire life's experiences lives encrypted in the journal. Adding photographs I made, the thoughts I had and events that happened to me.
 - I document and review [my life](https://wiki.nikitavoloboev.xyz/looking-back/looking-back.html) publicly too.
-- The app has integration with [IFTTT](https://ifttt.com/day_one) which I use to automatically log all [my tweets](https://twitter.com/nikitavoloboev) and [Insgragram posts](https://instagram.com/nikitavoloboev).
+- The app has integration with [IFTTT](https://ifttt.com/day_one) which I use to automatically log all [my tweets](https://twitter.com/nikitavoloboev) and [Instagram posts](https://instagram.com/nikitavoloboev).
 - If you don't journal, I suggest you to start, it is a very powerful mind cleanser and acts as a wonderful history record of your life.
 
 #### [Ulysses](http://www.ulyssesapp.com/) - Writing app
-- The app I use to write all my [Medium](https://medium.com/@NikitaVoloboev) articles in.
+- The app I use to write all my [Medium](https://medium.com/@nikitavoloboev) articles in.
 - All your writing in one place is the motto and the underlying design of the app. I hook up my [wiki](https://github.com/nikitavoloboev/knowledge) as an external folder and I love how it creates an index of everything that I can search over:
 <img src="http://i.imgur.com/Aa17RCQ.png" width="500" alt="img">
 
@@ -369,7 +369,7 @@ Here is how my library looks:
 - Experimental Peer to Peer browser. Experimenting with using it more and more as I find the [technology and the implications of it fascinating](https://www.youtube.com/watch?v=-ep0ZIe6i10).
 
 #### [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
-- Use it for web development for its superior Dev Tools in debugging CSS Grid. Prefer Chrome dev tools still.
+- Use it for web development for its superior Dev Tools in debugging CSS Grid. Prefer Chrome Dev tools still.
 
 ## Command Line Apps
 I use [Nix](https://nixos.org/nix/) package manager to install all the [packages I use on my system](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034).
