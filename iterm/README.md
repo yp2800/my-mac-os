@@ -7,4 +7,4 @@ You can install the theme from [here](https://cdn.rawgit.com/nikitavoloboev/my-m
 
 It goes well with [Pure Zsh plugin](https://github.com/sindresorhus/pure) and [Monokai theme for Vim](https://github.com/nikitavoloboev/monokai-vim#readme).
 
-![](https://i.imgur.com/jjNZJdn.png)
+![](https://i.imgur.com/ljvCUoS.png)
