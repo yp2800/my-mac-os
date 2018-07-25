@@ -195,7 +195,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 - Assigned w + j with [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) to open the app from Keyboard Maestro in seconds.
 - I made my own [Monokai theme](iterm#readme) for it. Which goes well with [Monokai theme for Vim](https://github.com/nikitavoloboev/monokai-vim#readme).
 
-<img src="https://i.imgur.com/jjNZJdn.png" width="500" alt="img">
+<img src="https://i.imgur.com/ljvCUoS.png" width="500" alt="img">
 
 - I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions.
 <img src="https://i.imgur.com/UUDBHcq.png" width="500" alt="img">
