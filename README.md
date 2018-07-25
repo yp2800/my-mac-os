@@ -437,8 +437,8 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 > Using [Neofetch](https://github.com/dylanaraps/neofetch)
 
 ## Alfred launcher
-![](https://i.imgur.com/AKPopVX.jpg)
-> Searching [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything). Using [Monokai theme](https://www.alfredapp.com/extras/theme/uMt5dktM8d/).
+![](https://i.imgur.com/mu27Tub.jpg)
+> Searching [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything). Using [Monokai theme](https://www.alfredapp.com/extras/theme/2eFqeKVw04/).
 
 ## Launchpad
 ![](https://i.imgur.com/e5Ezw6c.jpg)
