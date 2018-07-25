@@ -438,10 +438,10 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 
 ## Alfred launcher
 ![](https://i.imgur.com/AKPopVX.jpg)
-> Searching [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything). Using [Monokai](https://www.alfredapp.com/extras/theme/z9bO0oSGRW/) theme.
+> Searching [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything). Using [Monokai theme](https://www.alfredapp.com/extras/theme/uMt5dktM8d/).
 
 ## Launchpad
-![](https://i.imgur.com/glXw4jB.jpg)
+![](https://i.imgur.com/e5Ezw6c.jpg)
 > Using [this](https://www.macrumors.com/how-to/group-app-icons-macos-dock) to add spaces between apps in Dock.
 
 ## [My wonderful world of iOS 📱](https://github.com/nikitavoloboev/my-ios#readme)
