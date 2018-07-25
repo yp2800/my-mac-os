@@ -433,12 +433,12 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [RCDefaultApp](http://www.rubicode.com/Software/RCDefaultApp/) - Set the default application used for various URL schemes, file extensions, file types, MIME types, and Uniform Type Identifiers.
 
 ## Desktop Screenshot
-![](https://i.imgur.com/3cPVMJQ.jpg)
+![](https://i.imgur.com/xFNdWWv.jpg)
 > Using [Neofetch](https://github.com/dylanaraps/neofetch)
 
 ## Alfred launcher
-![](https://i.imgur.com/FpAKitO.jpg)
-> Searching [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything). Using [Ayu](https://www.alfredapp.com/extras/theme/6aSDGHwmmC/) theme.
+![](https://i.imgur.com/AKPopVX.jpg)
+> Searching [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything). Using [Monokai](https://www.alfredapp.com/extras/theme/z9bO0oSGRW/) theme.
 
 ## Launchpad
 ![](https://i.imgur.com/glXw4jB.jpg)
