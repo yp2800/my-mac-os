@@ -32,7 +32,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 ### Productivity
 #### [Alfred](https://www.alfredapp.com) - Launcher
 - Alfred is a very powerful launcher that you can program to show anything you want. It saved me a lot of time in my life.
-![](https://i.imgur.com/nMhC1yD.png)
+<img src="https://i.imgur.com/nMhC1yD.png" width="700" alt="img">
 
 - It has a great [community](http://www.alfredforum.com/) and [amazing workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can use.
 
