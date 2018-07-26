@@ -279,7 +279,7 @@ Here is how my library looks:
 - It also has pretty awesome export functions that let you export the text you write to PDF, ePub and HTML. I mostly use it's ability to export text to Medium.
 - I use [Ayu](https://styles.ulyssesapp.com/bundle/Ayu/5ae3545d5075368b0270daa9) theme when I write. Here is how it looks:
 
-![](https://i.imgur.com/fp5CY5h.png)
+![](https://i.imgur.com/CkDa9Hs.png)
 
 - I describe my thoughts and approach to writing [here](https://wiki.nikitavoloboev.xyz/writing/writing.html).
 
