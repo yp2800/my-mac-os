@@ -27,7 +27,7 @@
 ## Applications
 I use a lot of applications on my mac. Below is a list of the ones that I love and use the most in my day to day life.
 
-I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together with my [iOS setup](https://github.com/nikitavoloboev/my-ios#readme). And I made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS.
+I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) together with my [iOS setup](https://github.com/nikitavoloboev/my-ios#readme). And I made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS.
 
 ### Productivity
 #### [Alfred](https://www.alfredapp.com) - Launcher
@@ -52,7 +52,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 
 #### [2Do](http://www.2doapp.com/mac) - Flexible task manager
 - I love GTD methodology. This app is phenomenal with helping me [organize my tasks](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html). Here is how my sidebar looks:
-<img src="https://i.imgur.com/URuzerx.png" width="150">
+<img src="https://i.imgur.com/1t9WFXW.png" width="150">
 
 - It also has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more.
 <img src="https://i.imgur.com/UPdjh6N.png" width="400" alt="img">
@@ -71,11 +71,13 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 #### [Timing](https://timingapp.com/whats-new) - Automatic time tracker
 - I use Timing app to fully automate tracking my time on my computer.
 - The fact that I can combine active and passive tracking together is very powerful and allows me to be more aware of where I spend my time.
-<img src="https://i.imgur.com/hIiDNoP.png" width="600" alt="img">
+
+![](https://i.imgur.com/hIiDNoP.png)
 
 #### [MindNode](https://mindnode.com) - Interactive Mind Mapping
 - An application which allowed me to originally create all of the maps for [Learn Anything](https://learn-anything.xyz).
-<img src="https://raw.githubusercontent.com/learn-anything/learn-anything/master/media/header.png" width="700" alt="img">
+
+![](https://raw.githubusercontent.com/learn-anything/learn-anything/master/media/header.png)
 
 - I have a __Think__ map that I open with Karabiner by pressing `f + :`. And I [brainstorm things](../../research/solving-problems.md) I am doing __now__ there.
 - I also use MindNode to visualize topics and their relations as an [interactive mind map](https://my.mindnode.com/uQPgJs5DnVaAqyR9yrqxySQB6sCDRy2bmb7yxqKg#1653.2,-925.0,2).
@@ -140,11 +142,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 - I never listen to music when I want to focus on something as it is distracting. Instead I listen to sounds of rain, train or fire.
 
 #### [Hammerspoon](http://www.hammerspoon.org) - Automation tool
-- Powerful automation engine, wanted to use it for window management at first but found BetterTouchTool to be more performant.
-- Right now I use it show the task I am currently working on in a little window in the middle of the screen for a brief moment:
-<img src="https://i.imgur.com/E7RsarV.png" width="300" alt="img">
-
-- My config for it can be seen [here](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/).
+- Powerful automation engine I am still exploring. My config for it can be seen [here](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/).
 
 #### [Reeder](http://reederapp.com/mac/) - RSS Reeder
 - The app I use to keep up with my RSS feeds. I use RSS to follow my favorite blogs, stay up to date on new podcast episodes and even track some software releases.
