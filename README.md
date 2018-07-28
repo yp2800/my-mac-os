@@ -79,7 +79,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 ![](https://raw.githubusercontent.com/learn-anything/learn-anything/master/media/header.png)
 
-- I have a __Think__ map that I open with Karabiner by pressing `f + :`. And I [brainstorm things](../../research/solving-problems.md) I am doing __now__ there.
+- I have a __Think__ map where I [brainstorm things](../../research/solving-problems.md) I am doing __now__ there.
 - I also use MindNode to visualize topics and their relations as an [interactive mind map](https://my.mindnode.com/uQPgJs5DnVaAqyR9yrqxySQB6sCDRy2bmb7yxqKg#1653.2,-925.0,2).
 
 ![](https://i.imgur.com/mQWt0vx.jpg)
