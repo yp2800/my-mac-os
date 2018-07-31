@@ -106,14 +106,16 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 #### [Contexts](https://contexts.co) - Window switcher
 - Allows me to fuzzy search through all the currently active windows that I have.
-<img src="https://i.imgur.com/q6nfG2P.png" width="500" alt="img">
+
+![](https://i.imgur.com/hwlVhMK.png)
 
 - Makes jumping to the right window I need effortless. I often may have many VS Code instances with different projects running and this lets me switch to the project I need in seconds.
 
 #### [Dictionary](http://www.wikiwand.com/en/Dictionary_(software))
 - Comes natively with macOS and I started to love using it for exploring and searching through Wikipedia.
 - It is incredibly fast to make the searches and it gives quick autosuggestions for any query I type that I can then select with up and down arrows.
-<img src="https://i.imgur.com/Brw1wLV.png" width="500" alt="img">
+
+![](https://i.imgur.com/Brw1wLV.png)
 
 #### [Bartender](https://www.macbartender.com/) - Menu bar organizer
 - A great utility app that allows you to customize and hide the contents of your menu bar and improve the aesthetics of your OS. It is also is quite beneficial for me as I customized it to have the most important information that I need to show in it.
