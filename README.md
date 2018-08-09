@@ -198,7 +198,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 <img src="https://i.imgur.com/ljvCUoS.png" width="500" alt="img">
 
 - I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions.
-<img src="https://i.imgur.com/UUDBHcq.png" width="500" alt="img">
+<img src="https://i.imgur.com/66enJCz.png" width="500" alt="img">
 
 - I go over how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/iterm.html).
 
