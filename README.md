@@ -32,7 +32,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 ### Productivity
 #### [Alfred](https://www.alfredapp.com) - Launcher
 - Alfred is a very powerful launcher that you can program to show anything you want. It saved me a lot of time in my life.
-<img src="https://i.imgur.com/nMhC1yD.png" width="700" alt="img">
+<img src="https://i.imgur.com/uzq1w5g.png" width="700" alt="img">
 
 - It has a great [community](http://www.alfredforum.com/) and [amazing workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can use.
 
@@ -52,15 +52,15 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 #### [2Do](http://www.2doapp.com/mac) - Flexible task manager
 - I love GTD methodology. This app is phenomenal with helping me [organize my tasks](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html). Here is how my sidebar looks:
-<img src="https://i.imgur.com/1t9WFXW.png" width="150">
+<img src="https://i.imgur.com/lJHn8NK.png" width="150">
 
 - It also has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more.
-<img src="https://i.imgur.com/UPdjh6N.png" width="400" alt="img">
+<img src="https://i.imgur.com/b9lGFs0.png" width="400" alt="img">
 
 #### [Trello](https://trello.com) - Project management tool
 - I use the app a lot to track various projects I have in my life.
 - I share many boards I made [publicly](https://wiki.nikitavoloboev.xyz/sharing/my-trello.html). Here is an example of a public board for tracking various [things I want to learn](https://trello.com/b/cu32qF3q).
-![](https://i.imgur.com/cZzCfJ3.jpg)
+![](https://i.imgur.com/aUqFMP1.jpg)
 
 - I nearly always use two labels: __Important__ and __Next__. And I mark the cards I am working on and set deadlines on most cards.
 
@@ -72,7 +72,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - I use Timing app to fully automate tracking my time on my computer.
 - The fact that I can combine active and passive tracking together is very powerful and allows me to be more aware of where I spend my time.
 
-![](https://i.imgur.com/hIiDNoP.png)
+![](https://i.imgur.com/QDR13sl.png)
 
 #### [MindNode](https://mindnode.com) - Interactive Mind Mapping
 - An application which allowed me to originally create all of the maps for [Learn Anything](https://learn-anything.xyz).
@@ -90,7 +90,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 #### [BetterTouchTool](https://www.boastr.net/) - Mac input customizer
 - I use this app a lot for mapping [various trackpad gestures](https://medium.com/@nikitavoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze) to hotkeys and actions both globally and per specific applications.
-<img src="https://i.imgur.com/BXdQ1LZ.png" width="500" alt="img">
+<img src="https://i.imgur.com/4q9BgUq.png" width="500" alt="img">
 
 - I love scrolling through my tabs in Safari with three finger swipes left and right as well as opening and closing tabs with swiping up and down respectively.
 - I share [all the different gestures I have setup to use with the app](btt#readme) that you can view and download.
@@ -119,7 +119,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 #### [Bartender](https://www.macbartender.com/) - Menu bar organizer
 - A great utility app that allows you to customize and hide the contents of your menu bar and improve the aesthetics of your OS. It is also is quite beneficial for me as I customized it to have the most important information that I need to show in it.
-<img src="https://i.imgur.com/vcwCL1s.png" width="500" alt="img">
+<img src="https://i.imgur.com/H0MFYAf.png" width="500" alt="img">
 
 - I can also activate Bartender and start searching for the menu bar item I need all from the keyboard.
 
@@ -128,17 +128,17 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 <img src="https://i.imgur.com/B9Tsaxf.png" width="500" alt="img">
 
 - I then have a schedule where I can only use these websites for 20 minutes every 2 hours. It also turns on Do Not Disturb mode whilst I am in Focus mode.
-<img src="https://i.imgur.com/rZkauBr.png" width="500" alt="img">
+<img src="https://i.imgur.com/Cl8Iqzb.png" width="500" alt="img">
 
 - If I go to any of my blocked websites during my `Focus` time, I am greeted with this message.
-<img src="https://i.imgur.com/MMSn0zl.png" width="500" alt="img">
+<img src="https://i.imgur.com/qUVjYeo.png" width="500" alt="img">
 
 #### [Annotate](https://itunes.apple.com/us/app/annotate-capture-screenshot/id918207447?mt=12) - Create and annotate screenshots
 - Best annotation tool I found to exist. After you make a screenshot, it allows for quick edits. Adding arrows, some text, blurring parts of the image as well as ability to quickly save the image or drag it to Dropzone to upload to Imgur to share the link quickly with anyone I want.
 
 #### [Popclip](https://pilotmoon.com/popclip/) - iOS like mouse text selection popover
 - Another great utility I cannot live without, brings up a quick menu whenever some text is selected on which I can do a number of quick actions, like searching on Google, DuckDuckGo, YouTube, Dictionary, Reddit, Google Images or it can translate text selected, copy it or even make a SnippetsLab snippet from it. Here is how it looks for me:
-<img src="https://i.imgur.com/VLFRDAC.png" width="400" alt="img">
+<img src="https://i.imgur.com/a0SBU19.png" width="400" alt="img">
 
 #### [Noizio](http://noiz.io/) - Ambient sounds
 - I never listen to music when I want to focus on something as it is distracting. Instead I listen to sounds of rain, train or fire.
@@ -150,7 +150,8 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - The app I use to keep up with my RSS feeds. I use RSS to follow my favorite blogs, stay up to date on new podcast episodes and even track some software releases.
 - I use [Inoreader](https://www.inoreader.com) to sync [blogs I follow](https://wiki.nikitavoloboev.xyz/research/blogs.html) between phone and mac.
 - Here is how Reeder looks like for me:
-<img src="https://i.imgur.com/WCGFLl8.png" width="500" alt="img">
+
+![](https://i.imgur.com/WCGFLl8.png)
 
 #### [Dropzone](https://aptonic.com) - Drag and drop actions
 - A quick utility that pops up when I drag some file into it or open it with a hotkey, use it to upload images to [Imgur](http://imgur.com), dropping files into a preset number of folders that I made quickly as well as going to them in an instant.
@@ -188,14 +189,14 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/vscode/settings.json).
 - I use [Monokai Pro](https://www.monokai.pro/vscode/) theme with [Fira Code](https://github.com/tonsky/FiraCode) font. Here is how it looks:
 
-![](https://i.imgur.com/aBTMkTk.png)
+![](https://i.imgur.com/wBvAIHR.png)
 
 #### [iTerm](https://www.iterm2.com/) - Terminal Emulator
 - Use Zsh as my shell together with [Antibody](https://github.com/getantibody/antibody) to install [Zsh plugins I use](https://wiki.nikitavoloboev.xyz/unix/shell/zsh/zsh-plugins.html).
 - Assigned w + j with [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) to open the app from Keyboard Maestro in seconds.
-- I made my own [Monokai theme](iterm#readme) for it. Which goes well with [Monokai theme for Vim](https://github.com/nikitavoloboev/monokai-vim#readme).
+- I made my own [Monokai theme](iterm#readme) for it.
 
-<img src="https://i.imgur.com/ljvCUoS.png" width="500" alt="img">
+<img src="https://i.imgur.com/RLVyH6N.png" width="500" alt="img">
 
 - I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions.
 <img src="https://i.imgur.com/66enJCz.png" width="500" alt="img">
@@ -239,7 +240,7 @@ Here is how my library looks:
 - I use some kind of vim bindings in any app I use and if there is a vim plugin for the app, I often use it. I use [vim editor](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim.html) often when connecting to remote sessions and when I need a console editor.
 - My [Neovim](https://github.com/neovim/neovim) config can be seen [here](nvim/init.vim). I use [Monokai theme](https://github.com/nikitavoloboev/monokai-vim) with [many plugins](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim-plugins.html). Here is how it looks:
 
-![](https://i.imgur.com/ljvCUoS.png)
+![](https://i.imgur.com/ra1KIww.png)
 
 #### [Bee](https://www.neat.io/bee/) - GitHub Issue Tracker
 - Use the app to stay on top of all issues across my GitHub repos. All issues I want to work on soon are put into __Next__ queue and I work through each one, one by one.
@@ -267,7 +268,7 @@ Here is how my library looks:
 - Twitter is my primary way to stay up to date on things and is my favorite social network after GitHub. I curate and publicly share all [Twitter lists](https://twitter.com/nikitavoloboev/lists) I personally use.
 - I have Tweetbot open in full screen with four columns (Mentions/[Top](https://twitter.com/nikitavoloboev/lists/top)/[ML](https://twitter.com/nikitavoloboev/lists/ml)/[Other](https://twitter.com/nikitavoloboev/lists/other1)). Here is how that looks for me:
 
-<img src="https://i.imgur.com/cy67ddm.png" width="600" alt="img">
+![](https://i.imgur.com/cy67ddm.png)
 
 ### Writing
 #### [Day One](http://dayoneapp.com/) - Digital journal
