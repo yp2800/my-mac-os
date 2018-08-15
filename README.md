@@ -140,6 +140,8 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - Another great utility I cannot live without, brings up a quick menu whenever some text is selected on which I can do a number of quick actions, like searching on Google, DuckDuckGo, YouTube, Dictionary, Reddit, Google Images or it can translate text selected, copy it or even make a SnippetsLab snippet from it. Here is how it looks for me:
 <img src="https://i.imgur.com/a0SBU19.png" width="400" alt="img">
 
+- I share all the extensions I use with it [here](popclip#readme.md).
+
 #### [Noizio](http://noiz.io/) - Ambient sounds
 - I never listen to music when I want to focus on something as it is distracting. Instead I listen to sounds of rain, train or fire.
 
