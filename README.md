@@ -52,7 +52,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 #### [2Do](http://www.2doapp.com/mac) - Flexible task manager
 - I love GTD methodology. This app is phenomenal with helping me [organize my tasks](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html). Here is how my sidebar looks:
-<img src="https://imgur.com/dWmlbyf" width="150">
+<img src="https://i.imgur.com/DUY4OyO.png" width="150">
 
 - It also has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more.
 <img src="https://i.imgur.com/b9lGFs0.png" width="400" alt="img">
@@ -72,7 +72,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - I use Timing app to fully automate tracking my time on my computer.
 - The fact that I can combine active and passive tracking together is very powerful and allows me to be more aware of where I spend my time.
 
-![](https://i.imgur.com/QDR13sl.png)
+![](https://i.imgur.com/1po5oME.png)
 
 #### [MindNode](https://mindnode.com) - Interactive Mind Mapping
 - An application which allowed me to originally create all of the maps for [Learn Anything](https://learn-anything.xyz).
@@ -80,7 +80,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 ![](https://raw.githubusercontent.com/learn-anything/learn-anything/master/media/header.png)
 
 - I have a __Think__ map where I [brainstorm things](../../research/solving-problems.md) I am doing __now__ there.
-- I also use MindNode to visualize topics and their relations as an [interactive mind map](https://my.mindnode.com/uQPgJs5DnVaAqyR9yrqxySQB6sCDRy2bmb7yxqKg#1653.2,-925.0,2).
+- I also use MindNode to visualize topics and their relations as an [interactive mind map](https://my.mindnode.com/dPmKpWZgTpZsaG4Rf1yaz7rXbYhnuqPDDpdss4w2#1594.8,-1084.6,1).
 
 ![](https://i.imgur.com/jfjbuzO.jpg)
 
@@ -90,8 +90,6 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 #### [BetterTouchTool](https://www.boastr.net/) - Mac input customizer
 - I use this app a lot for mapping [various trackpad gestures](https://medium.com/@nikitavoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze) to hotkeys and actions both globally and per specific applications.
-<img src="https://i.imgur.com/4q9BgUq.png" width="500" alt="img">
-
 - I love scrolling through my tabs in Safari with three finger swipes left and right as well as opening and closing tabs with swiping up and down respectively.
 - I share [all the different gestures I have setup to use with the app](btt#readme) that you can view and download.
 
@@ -119,7 +117,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 #### [Bartender](https://www.macbartender.com/) - Menu bar organizer
 - A great utility app that allows you to customize and hide the contents of your menu bar and improve the aesthetics of your OS. It is also is quite beneficial for me as I customized it to have the most important information that I need to show in it.
-<img src="https://i.imgur.com/H0MFYAf.png" width="500" alt="img">
+<img src="https://i.imgur.com/y2rUf32.png" width="500" alt="img">
 
 - I can also activate Bartender and start searching for the menu bar item I need all from the keyboard.
 
@@ -131,7 +129,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 <img src="https://i.imgur.com/Cl8Iqzb.png" width="500" alt="img">
 
 - If I go to any of my blocked websites during my `Focus` time, I am greeted with this message.
-<img src="https://i.imgur.com/qUVjYeo.png" width="500" alt="img">
+<img src="https://i.imgur.com/F7Cs9Ty.png" width="500" alt="img">
 
 #### [Annotate](https://itunes.apple.com/us/app/annotate-capture-screenshot/id918207447?mt=12) - Create and annotate screenshots
 - Best annotation tool I found to exist. After you make a screenshot, it allows for quick edits. Adding arrows, some text, blurring parts of the image as well as ability to quickly save the image or drag it to Dropzone to upload to Imgur to share the link quickly with anyone I want.
@@ -153,11 +151,11 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - I use [Inoreader](https://www.inoreader.com) to sync [blogs I follow](https://wiki.nikitavoloboev.xyz/research/blogs.html) between phone and mac.
 - Here is how Reeder looks like for me:
 
-![](https://i.imgur.com/WCGFLl8.png)
+![](https://i.imgur.com/UBVuAIC.png)
 
 #### [Dropzone](https://aptonic.com) - Drag and drop actions
 - A quick utility that pops up when I drag some file into it or open it with a hotkey, use it to upload images to [Imgur](http://imgur.com), dropping files into a preset number of folders that I made quickly as well as going to them in an instant.
-<img src="https://i.imgur.com/UTqei1d.png" width="300" alt="img">
+<img src="https://imgur.com/5InxMrE" width="300" alt="img">
 
 #### [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Control incoming/outgoing network traffic
 - Amazing networking tool that gives you a clear picture of what connections are incoming to your computer and what are outgoing.
@@ -270,7 +268,7 @@ Here is how my library looks:
 - Twitter is my primary way to stay up to date on things and is my favorite social network after GitHub. I curate and publicly share all [Twitter lists](https://twitter.com/nikitavoloboev/lists) I personally use.
 - I have Tweetbot open in full screen with four columns (Mentions/[Top](https://twitter.com/nikitavoloboev/lists/top)/[ML](https://twitter.com/nikitavoloboev/lists/ml)/[Other](https://twitter.com/nikitavoloboev/lists/other1)). Here is how that looks for me:
 
-![](https://i.imgur.com/cy67ddm.png)
+![](https://i.imgur.com/n60bl8w.jpg)
 
 ### Writing
 #### [Day One](http://dayoneapp.com/) - Digital journal
@@ -440,7 +438,7 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [RCDefaultApp](http://www.rubicode.com/Software/RCDefaultApp/) - Set the default application used for various URL schemes, file extensions, file types, MIME types, and Uniform Type Identifiers.
 
 ## Desktop Screenshot
-![](https://i.imgur.com/xFNdWWv.jpg)
+![](https://i.imgur.com/BoTHvjK.jpg)
 > Using [Neofetch](https://github.com/dylanaraps/neofetch)
 
 ## Alfred launcher
@@ -448,7 +446,7 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 > Searching [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything). Using [Monokai theme](https://www.alfredapp.com/extras/theme/2eFqeKVw04/).
 
 ## Launchpad
-![](https://i.imgur.com/e5Ezw6c.jpg)
+![](https://i.imgur.com/4jDG7Jg.jpg)
 > Using [this](https://www.macrumors.com/how-to/group-app-icons-macos-dock) to add spaces between apps in Dock.
 
 ## [My wonderful world of iOS 📱](https://github.com/nikitavoloboev/my-ios#readme)
