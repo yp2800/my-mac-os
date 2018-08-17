@@ -1,7 +1,7 @@
 # My wonderful world of macOS [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
 > List of applications and tools that make my macOS experience even more amazing
 
-![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/desktop.png)
+![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/mac.png)
 
 > [Wallpaper link](https://unsplash.com/photos/u27Rrbs9Dwc)
 
@@ -155,7 +155,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 #### [Dropzone](https://aptonic.com) - Drag and drop actions
 - A quick utility that pops up when I drag some file into it or open it with a hotkey, use it to upload images to [Imgur](http://imgur.com), dropping files into a preset number of folders that I made quickly as well as going to them in an instant.
-<img src="https://imgur.com/5InxMrE" width="300" alt="img">
+<img src="https://i.imgur.com/5InxMrE.png" width="300" alt="img">
 
 #### [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Control incoming/outgoing network traffic
 - Amazing networking tool that gives you a clear picture of what connections are incoming to your computer and what are outgoing.
@@ -442,7 +442,7 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 > Using [Neofetch](https://github.com/dylanaraps/neofetch)
 
 ## Alfred launcher
-![](https://i.imgur.com/mu27Tub.jpg)
+![](https://i.imgur.com/Yz4vN6N.jpg)
 > Searching [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything). Using [Monokai theme](https://www.alfredapp.com/extras/theme/2eFqeKVw04/).
 
 ## Launchpad
