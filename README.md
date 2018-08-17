@@ -3,8 +3,6 @@
 
 ![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/desktop.png)
 
-> [Wallpaper link](https://unsplash.com/photos/u27Rrbs9Dwc)
-
 ##### Contents
 - [Applications](#applications)
 	- [Productivity](#productivity)
@@ -258,8 +256,8 @@ Here is how my library looks:
 #### [Telegram](https://desktop.telegram.org/) - Messenger
 - The app has a very clean interface, a native client for macOS and stickers. Chats are not encrypted by default and don't use [approved cryptography](https://security.stackexchange.com/questions/49782/is-telegram-secure) but the client is amazing and fast.
 
-#### [Airmail](http://airmailapp.com/) - Email client
-- By far the most well designed and feature rich mail application that I have used so far. Has simple design, support for multiple accounts and a multitude of nice shortcuts that you can use.
+#### [Spark](https://sparkmailapp.com) - Email client
+- Love how it smartly categorizes emails by categories.
 - I approach all of my email tasks [in GTD style](https://wiki.nikitavoloboev.xyz/macOS/apps/airmail.html). Keeping my email Inbox close to 0 at all times.
 
 #### [Tweetbot](http://tapbots.com/tweetbot/mac/) - Twitter client
