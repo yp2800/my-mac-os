@@ -5,4 +5,4 @@ You can find the [PDF file](./gestures.pdf) with all the custom gestures I have 
 
 I also use BTT to modify my TouchBar. Here is how it looks:
 
-![](https://i.imgur.com/rxuhkGc.png)
+![](https://i.imgur.com/WOrObQM.png)
