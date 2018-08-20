@@ -117,10 +117,10 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 ![](https://i.imgur.com/Brw1wLV.png)
 
 #### [Bartender](https://www.macbartender.com/) - Menu bar organizer
-- A great utility app that allows you to customize and hide the contents of your menu bar and improve the aesthetics of your OS. It is also is quite beneficial for me as I customized it to have the most important information that I need to show in it.
-<img src="https://i.imgur.com/y2rUf32.png" width="500" alt="img">
+- Allows you to customize and hide the contents of your menu bar and improve the aesthetics of your OS. Here is how mine looks:
+<img src="https://i.imgur.com/23ospfI.png" width="500" alt="img">
 
-- I can also activate Bartender and start searching for the menu bar item I need all from the keyboard.
+- My menu bar is always hidden so I rarely ever use it and I show most needed info on the [touchbar](btt#readme) instead.
 
 #### [Focus](https://heyfocus.com) - Block distracting websites
 - I have front pages of [Hckrnews](http://hckrnews.com), [Reddit](https://www.reddit.com), [Twitter](https://twitter.com) and many more time sinking websites on the black list.
