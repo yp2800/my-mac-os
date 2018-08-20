@@ -92,7 +92,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - I share [all the different gestures I have setup to use with the app](btt#readme) that you can view and download.
 - I also use the app to modify how my TouchBar looks.
 
-![](https://i.imgur.com/5vqZA9R.png)
+![](https://i.imgur.com/X8O8QN9.png)
 
 #### [PDF Expert](https://pdfexpert.com/) - PDF reader/editor
 - I read a lot of PDFs like books, research papers and the like. This app is a huge upgrade over Preview app that I used before.
