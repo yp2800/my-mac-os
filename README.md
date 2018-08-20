@@ -317,19 +317,10 @@ Here is how my library looks:
 
 - The red tag means that the image was uploaded to my [Instagram page](https://instagram.com/prettiways).
 
-#### [Pixelmator](http://www.pixelmator.com/mac/) - Image editor
-- Mostly use the app to do quick, small edits on images like adding transparent background to an image.
-
-#### [ImageOptim](https://imageoptim.com/mac) - Compress images without losing quality & remove metadata
-- Quickly remove all the unneeded metadata from the image as well as compress images without losing any visual quality and saving a lot of bandwidth when uploading these images on your website or blog.
-
 ### Video
 #### [IINA](https://github.com/lhc70000/iina) - Video player
 - Open source alternative to VLC built specifically for macOS.
 - It is based on [mpv](https://github.com/mpv-player/mpv) and has a more modern and native look than VLC.
-
-#### [GIF Brewery](http://gifbrewery.com) - Create GIFs
-- Allows me to create some great GIFs from video clips as well as converting the entire video clip into a GIF if need be.
 
 #### [Kap](https://github.com/wulkano/kap) - Screen recorder
 - An open source screen recorder I use to record GIFs.
@@ -342,14 +333,8 @@ Here is how my library looks:
 - Here is one example of such rule:
 <img src="http://i.imgur.com/7oiSYV3.png" width="500" alt="img">
 
-#### [Next Meeting](https://itunes.apple.com/us/app/next-meeting-menu-bar-app/id1017470484?mt=12) - Show time until next event in menu bar
-- It has been quite a big addition to my workflow as I know can quickly know how much time is left until my next class or some other event starts.
-
 #### [DaisyDisk](https://daisydiskapp.com) - Visualize taken disk space
 - A great tool to quickly get a visual glance over what is taking up your disk space and where.
-
-#### [Gemini](http://macpaw.com/gemini) - Search & remove duplicate files
-- A great little utility to find duplicate files in the system. Didn't get much use of it so far but it may be quite useful on occasions where I do want to clean up my system from useless files and junk.
 
 #### [Default Folder X](http://stclairsoft.com/DefaultFolderX/) - Extend & improve open/save dialogues
 - Neat little utility I mostly use to quickly go to various folders from file save windows from hotkeys.
@@ -439,16 +424,15 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [RCDefaultApp](http://www.rubicode.com/Software/RCDefaultApp/) - Set the default application used for various URL schemes, file extensions, file types, MIME types, and Uniform Type Identifiers.
 
 ## Desktop Screenshot
-![](https://i.imgur.com/BoTHvjK.jpg)
-> Using [Neofetch](https://github.com/dylanaraps/neofetch)
+![](https://i.imgur.com/IKzGSND.jpg)
+> Using [screenfetch](https://github.com/KittyKatt/screenFetch)
 
 ## Alfred launcher
 ![](https://i.imgur.com/Yz4vN6N.jpg)
 > Searching [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything). Using [Monokai theme](https://www.alfredapp.com/extras/theme/2eFqeKVw04/).
 
 ## Launchpad
-![](https://i.imgur.com/4jDG7Jg.jpg)
-> Using [this](https://www.macrumors.com/how-to/group-app-icons-macos-dock) to add spaces between apps in Dock.
+![](https://i.imgur.com/OTNeEik.jpg)
 
 ## [My wonderful world of iOS 📱](https://github.com/nikitavoloboev/my-ios#readme)
 If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios#readme) going over what applications I use on iOS as well as how and why I use them.
