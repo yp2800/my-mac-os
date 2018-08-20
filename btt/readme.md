@@ -10,5 +10,5 @@ I also use BTT to modify my TouchBar. Here is how it looks:
 It includes, from left to right:
 1. My [current active TODO](https://github.com/nikitavoloboev/small-workflows/tree/master/todo-task#readme)
 2. Battery percentage
-3. Time until my break from a Focus session
+3. Time until my break from a [Focus session](https://wiki.nikitavoloboev.xyz/focusing/focusing.html)
 4. Current time and day
