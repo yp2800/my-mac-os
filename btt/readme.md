@@ -5,4 +5,10 @@ You can find the [PDF file](./gestures.pdf) with all the custom gestures I have 
 
 I also use BTT to modify my TouchBar. Here is how it looks:
 
-![](https://i.imgur.com/WOrObQM.png)
+![](https://i.imgur.com/5vqZA9R.png)
+
+It includes, from left to right:
+1. My [current active TODO](https://github.com/nikitavoloboev/small-workflows/tree/master/todo-task#readme).
+2. Battery percentage
+3. Time until my break from a Focus session.
+4. Current time and day.
