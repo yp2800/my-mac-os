@@ -87,9 +87,12 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - I share all the Typinator sets I made with the app [here](typinator).
 
 #### [BetterTouchTool](https://www.boastr.net/) - Mac input customizer
-- I use this app a lot for mapping [various trackpad gestures](https://medium.com/@nikitavoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze) to hotkeys and actions both globally and per specific applications.
+- I use this app a lot for mapping [various trackpad gestures](https://medium.com/@nikitavoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze) to hotkeys and actions both globally and per specific apps.
 - I love scrolling through my tabs in Safari with three finger swipes left and right as well as opening and closing tabs with swiping up and down respectively.
 - I share [all the different gestures I have setup to use with the app](btt#readme) that you can view and download.
+- I also use the app to modify how my TouchBar looks.
+
+![](https://i.imgur.com/5vqZA9R.png)
 
 #### [PDF Expert](https://pdfexpert.com/) - PDF reader/editor
 - I read a lot of PDFs like books, research papers and the like. This app is a huge upgrade over Preview app that I used before.
