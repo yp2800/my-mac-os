@@ -287,7 +287,7 @@ Here is how my library looks:
 - It also has pretty awesome export functions that let you export the text you write to PDF, ePub and HTML. I mostly use it's ability to export text to Medium.
 - I use [Monokai](https://styles.ulyssesapp.com/bundle/Monokai/5b68263e69ecfa3d1c5fdeee) theme when I write. Here is how it looks:
 
-![](https://i.imgur.com/zamdnUf.png)
+![](https://i.imgur.com/8Wwf5Mh.png)
 
 - I describe my thoughts and approach to writing [here](https://wiki.nikitavoloboev.xyz/writing/writing.html).
 
