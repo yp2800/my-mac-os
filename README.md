@@ -423,6 +423,8 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [GPG Suite](https://gpgtools.org/) - Encrypt, decrypt, sign and verify files or messages.
 - [RCDefaultApp](http://www.rubicode.com/Software/RCDefaultApp/) - Set the default application used for various URL schemes, file extensions, file types, MIME types, and Uniform Type Identifiers.
 
+I also [share screenshots of all the changes to System Preferences I have made](https://imgur.com/a/rlkOyUg).
+
 ## Desktop Screenshot
 ![](https://i.imgur.com/IKzGSND.jpg)
 > Using [screenfetch](https://github.com/KittyKatt/screenFetch)
