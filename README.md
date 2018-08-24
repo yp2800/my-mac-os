@@ -170,12 +170,9 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - A torrent client that I use. Very minimal in its UI but very powerful and has all the features that I need.
 
 #### [Transmit](https://www.panic.com/transmit/) - Transfer files
-- I often use this app to quickly send files from my local file system to the cloud and get a shareable link I can send to people.
+- I sometimes use this app to quickly send files from my local file system to the cloud and get a shareable link I can send to people.
 - I use [this Alfred workflow](https://github.com/bigluck/alfred2-transmit) to quickly open the cloud storage I need.
 <img src="http://i.imgur.com/RkkcdvA.png" width="400" alt="img">
-
-#### [Anki](http://ankisrs.net) - Intelligent flash cards
-- [Spaced repetition learning](http://www.wikiwand.com/en/Spaced_repetition) is quite powerful. Essentially all this software does is provide you the means to write your own digital flashcards that you can then test yourself on. It also has a lot of [amazing addons](https://ankiweb.net/shared/addons/) that you can get to add more functionality to the app.
 
 #### [TotalSpaces2](https://totalspaces.binaryage.com/) - Grid space manager
 - Allows me to completely remove the animation of switching between spaces/full screen apps.
@@ -341,7 +338,7 @@ Here is how my library looks:
 <img src="https://i.imgur.com/RATGaNJ.png" width="400" alt="img">
 
 #### [iStat Menus](https://bjango.com/mac/istatmenus/) - Mac system monitoring from menu bar
-- Great system monitoring tools of which I use to quickly see my CPU/network/memory usage as well as quickly see my calendar and weather. I find it very valuable to know if my CPU is being abused by some application and if so by which. I then use [ProcessControl](https://github.com/vitorgalvao/alfred-workflows/tree/master/ProcessControl#readme) workflow to quickly kill off misbehaving processes.
+- Great system monitoring tools which I use to quickly see my CPU/network/memory usage. I find it very valuable to know if my CPU is being abused by some application and if so by which. I then use [ProcessControl](https://github.com/vitorgalvao/alfred-workflows/tree/master/ProcessControl#readme) workflow to quickly kill off misbehaving processes. Often times iStat Menus is deactivated for me to preserve battery.
 
 #### [PodcastMenu](https://github.com/insidegui/PodcastMenu) - Puts Overcast in menu bar
 - Allows you to listen and control playback of podcasts from [Overcast](https://overcast.fm) right from your menu bar.
