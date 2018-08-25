@@ -258,7 +258,7 @@ Here is how my library looks:
 
 #### [Spark](https://sparkmailapp.com) - Email client
 - Love how it smartly categorizes emails by categories.
-- I approach all of my email tasks [in GTD style](https://wiki.nikitavoloboev.xyz/macOS/apps/airmail.html). Keeping my email Inbox close to 0 at all times.
+- I approach all of my email tasks in GTD style. Keeping my email Inbox close to 0 at all times.
 
 #### [Tweetbot](http://tapbots.com/tweetbot/mac/) - Twitter client
 - I use the app to stay up to date and communicate on Twitter.
