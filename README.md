@@ -298,7 +298,7 @@ Here is how my library looks:
 #### [Sip](https://sipapp.io/) - Collect, organize & share colors
 - A great color picker I use to collect my favorite colors and color schemes.
 
-<img src="https://i.imgur.com/YZe3vix.png" width="400" alt="img">
+<img src="https://i.imgur.com/xVhpKCt.png" width="400" alt="img">
 
 ### Music
 #### [Spotify](https://www.spotify.com/us/) - Music streaming
