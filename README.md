@@ -326,9 +326,7 @@ Here is how my library looks:
 ### Utilities
 #### [Hazel](https://www.noodlesoft.com) - Automated File Organization
 - Use it to fully automate my filing process and automatically commit changes in [many curated lists](https://github.com/learn-anything/curated-lists#readme).
-- I use prefixes for most files. This allows me to write some great rules for my Downloads folder that will file the files where I want them to be based on the prefix.
-- Here is one example of such rule:
-<img src="http://i.imgur.com/7oiSYV3.png" width="500" alt="img">
+- I share most Hazel rules and how I use them [here](hazel#readme).
 
 #### [DaisyDisk](https://daisydiskapp.com) - Visualize taken disk space
 - A great tool to quickly get a visual glance over what is taking up your disk space and where.
