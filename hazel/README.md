@@ -30,4 +30,5 @@ It checks if the file is a PDF file, and has its name starting with `r. `, it wi
 
 There are also rules I made that will automatically trash any opened `.alfredworkflow` files as I never want to keep them hanging after I opened the newly downloaded workflow in Alfred Preferences.
 
+## Syncing
 I [sync](https://www.noodlesoft.com/manual/hazel/work-with-folders-rules/manage-rules/sync-rules/) all my Hazel rules with Dropbox.
