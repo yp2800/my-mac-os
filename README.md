@@ -66,7 +66,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - Generate all of my passwords with it and keep everything in a secured and encrypted vault kept secure by my one master password.
 - No longer need to remember passwords and I now have a unique password for every website that I am signed up on whilst [activating two factor authentication](https://support.1password.com/one-time-passwords/) wherever possible.
 
-#### [Timing](https://timingapp.com/whats-new) - Automatic time tracker
+#### [Timing](https://timingapp.com/?) - Automatic time tracker
 - I use Timing app to fully automate tracking my time on my computer.
 - The fact that I can combine active and passive tracking together is very powerful and allows me to be more aware of where I spend my time.
 
