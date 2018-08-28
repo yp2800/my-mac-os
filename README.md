@@ -118,9 +118,9 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 #### [Bartender](https://www.macbartender.com/) - Menu bar organizer
 - Allows you to customize and hide the contents of your menu bar and improve the aesthetics of your OS. Here is how mine looks:
-<img src="https://i.imgur.com/23ospfI.png" width="500" alt="img">
+<img src="https://i.imgur.com/hOzJiDK.png" width="500" alt="img">
 
-- My menu bar is always hidden so I rarely ever use it and I show most needed info on the [touchbar](btt#readme) instead.
+- My menu bar is always hidden so I rarely ever use it and I show most needed info on the [TouchBar](btt#readme) instead.
 
 #### [Focus](https://heyfocus.com) - Block distracting websites
 - I have front pages of [Hckrnews](http://hckrnews.com), [Reddit](https://www.reddit.com), [Twitter](https://twitter.com) and many more time sinking websites on the black list.
@@ -192,12 +192,12 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 #### [iTerm](https://www.iterm2.com/) - Terminal Emulator
 - Use Zsh as my shell together with [Antibody](https://github.com/getantibody/antibody) to install [Zsh plugins I use](https://wiki.nikitavoloboev.xyz/unix/shell/zsh/zsh-plugins.html).
 - Assigned w + j with [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) to open the app from Keyboard Maestro in seconds.
-- I made my own [Monokai theme](iterm#readme) for it.
+- I made my own [Night Blue theme](iterm#readme) for it.
 
-<img src="https://i.imgur.com/RLVyH6N.png" width="500" alt="img">
+<img src="https://i.imgur.com/Emw7NAj.png" width="500" alt="img">
 
 - I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions.
-<img src="https://i.imgur.com/66enJCz.png" width="500" alt="img">
+<img src="https://i.imgur.com/Hqq4yow.png" width="500" alt="img">
 
 - I go over how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/iterm.html).
 
@@ -208,21 +208,21 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 #### [Dash](https://kapeli.com/dash) - API Documentation Browser
 - Allows you to download any docset that you might want to use, search for any method, class or anything that you need very quickly, comes with the amazing [Alfred workflow](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) to simplify the process of searching for the right things.
-<img src="http://i.imgur.com/tBEkKtL.png" width="500" alt="img">
+<img src="https://i.imgur.com/dOB64hB.png" width="500" alt="img">
 
 - I also use [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/master/dash-profile-switch#readme) I made to quickly switch between Dash profiles.
 
-<img src="https://i.imgur.com/wyqtfCM.png" width="500" alt="img">
+<img src="https://i.imgur.com/CeoPgS6.png" width="500" alt="img">
 
 #### [SnippetsLab](https://www.renfei.org/snippets-lab/) - Snippet manager
 - I use the app to manage my own personal library of snippets. I prefix all snippets I make. For example vim snippets are prefixed with `vim:`. Git related snippets with `git:` and so on.
 - This lets me then use the [Alfred workflow](https://www.renfei.org/snippets-lab/press-release/whats-new/osx-1.6.html) that the app's author provides to search for these snippets insanely fast.
 
-![](https://i.imgur.com/LBgw1BA.png)
+![](https://i.imgur.com/HKZtsHy.png)
 
 Here is how my library looks:
 
-![](https://i.imgur.com/h9mcBzJ.png)
+![](https://i.imgur.com/oeK1Un4.png)
 
 - I share my entire library of snippets as [GitHub Gists](https://wiki.nikitavoloboev.xyz/sharing/my-gists.html).
 
@@ -238,7 +238,7 @@ Here is how my library looks:
 - I use some kind of vim bindings in any app I use and if there is a vim plugin for the app, I often use it. I use [vim editor](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim.html) often when connecting to remote sessions and when I need a console editor.
 - My [Neovim](https://github.com/neovim/neovim) config can be seen [here](nvim/init.vim). I use [Monokai theme](https://github.com/nikitavoloboev/monokai-vim) with [many plugins](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim-plugins.html). Here is how it looks:
 
-![](https://i.imgur.com/ra1KIww.png)
+![](https://i.imgur.com/DR2E94n.png)
 
 #### [Bee](https://www.neat.io/bee/) - GitHub Issue Tracker
 - Use the app to stay on top of all issues across my GitHub repos. All issues I want to work on soon are put into __Next__ queue and I work through each one, one by one.
@@ -282,9 +282,9 @@ Here is how my library looks:
 <img src="http://i.imgur.com/Aa17RCQ.png" width="500" alt="img">
 
 - It also has pretty awesome export functions that let you export the text you write to PDF, ePub and HTML. I mostly use it's ability to export text to Medium.
-- I use [Monokai](https://styles.ulyssesapp.com/bundle/Monokai/5b68263e69ecfa3d1c5fdeee) theme when I write. Here is how it looks:
+- I use [Night Blue](https://styles.ulyssesapp.com/bundle/Night+Blue/5b8573cd4f286f5c23d613d5) theme when I write. Here is how it looks:
 
-![](https://i.imgur.com/8Wwf5Mh.png)
+![](https://i.imgur.com/fs7OwNj.png)
 
 - I describe my thoughts and approach to writing [here](https://wiki.nikitavoloboev.xyz/writing/writing.html).
 
@@ -304,7 +304,7 @@ Here is how my library looks:
 #### [Spotify](https://www.spotify.com/us/) - Music streaming
 - Found a [lot of great music](https://open.spotify.com/user/nikitavoloboev) with this application and the phenomenal [Alfred Workflow](http://alfred-spotify-mini-player.com/) makes using the application an absolute joy.
 - Quickly finding artists, songs I want to listen, instantly adding the song playing to my [Likes](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn?) playlist or any other playlist I want, seeing what other songs the artist has and more.
-<img src="https://i.imgur.com/UgRLB92.png" width="500" alt="img">
+<img src="https://i.imgur.com/BYGYS9s.png" width="500" alt="img">
 
 ### Images
 #### [Pixave](http://www.littlehj.com/mac) - Image/GIF/Video organizer
@@ -422,15 +422,15 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 I also [share screenshots of all the changes to System Preferences I have made](https://imgur.com/a/rlkOyUg).
 
 ## Desktop Screenshot
-![](https://i.imgur.com/IKzGSND.jpg)
+![](https://i.imgur.com/5xI4eJO.jpg)
 > Using [screenfetch](https://github.com/KittyKatt/screenFetch)
 
 ## Alfred launcher
-![](https://i.imgur.com/Yz4vN6N.jpg)
+![](https://i.imgur.com/LmxZ9aa.jpg)
 > Searching [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything). Using [Monokai theme](https://www.alfredapp.com/extras/theme/2eFqeKVw04/).
 
 ## Launchpad
-![](https://i.imgur.com/OTNeEik.jpg)
+![](https://i.imgur.com/hpzwkdT.jpg)
 
 ## [My wonderful world of iOS 📱](https://github.com/nikitavoloboev/my-ios#readme)
 If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios#readme) going over what applications I use on iOS as well as how and why I use them.

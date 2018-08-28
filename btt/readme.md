@@ -1,5 +1,5 @@
 # [BetterTouchTool](https://www.boastr.net)
-I mainly use BTT to customize different trackpad gestures either globally or on per app basis. I also use BTT for all my window management needs.
+I mainly use BTT to [customize different trackpad gestures](https://medium.com/@nikitavoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze) either globally or on per app basis. I also use BTT for all my window management needs.
 
 You can find the [PDF file](./gestures.pdf) with all the custom gestures I have made together with a [downloadable Profile](https://cdn.rawgit.com/nikitavoloboev/my-mac-os/master/btt/Main.bttpreset) that you can import to your BetterTouchTool to get all gestures I setup for myself.
 
