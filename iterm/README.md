@@ -1,5 +1,5 @@
 # Night Blue theme for iTerm
-You can install the theme from [here](https://cdn.rawgit.com/nikitavoloboev/my-mac-os/master/iterm/Night%Blue.itermcolors) and open it in iTerm. Here is how it looks:
+You can install the theme from [here](https://cdn.rawgit.com/nikitavoloboev/my-mac-os/master/iterm/Night%20Blue.itermcolors) and open it in iTerm. Here is how it looks:
 
 ![](https://i.imgur.com/Emw7NAj.png)
 
