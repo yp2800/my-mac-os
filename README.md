@@ -430,7 +430,7 @@ I also [share screenshots of all the changes to System Preferences I have made](
 > Searching [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything). Using [Monokai theme](https://www.alfredapp.com/extras/theme/2eFqeKVw04/).
 
 ## Launchpad
-![](https://i.imgur.com/hpzwkdT.jpg)
+![](https://i.imgur.com/x5wukVD.jpg)
 
 ## [My wonderful world of iOS 📱](https://github.com/nikitavoloboev/my-ios#readme)
 If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios#readme) going over what applications I use on iOS as well as how and why I use them.
