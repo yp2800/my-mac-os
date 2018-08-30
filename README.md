@@ -236,7 +236,7 @@ Here is how my library looks:
 #### [Neovim](https://neovim.io) - Text Editor
 - The best text editing experience you will ever get. It is worth learning it as you will start thinking about text editing differently.
 - I use some kind of vim bindings in any app I use and if there is a vim plugin for the app, I often use it. I use [vim editor](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim.html) often when connecting to remote sessions and when I need a console editor.
-- My [Neovim](https://github.com/neovim/neovim) config can be seen [here](nvim/init.vim). I use [Monokai theme](https://github.com/nikitavoloboev/monokai-vim) with [many plugins](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim-plugins.html). Here is how it looks:
+- My [Neovim](https://github.com/neovim/neovim) config can be seen [here](nvim/init.vim). I use [Night Blue theme](https://github.com/nikitavoloboev/vim-night-blue#readme) with [many plugins](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim-plugins.html). Here is how it looks:
 
 ![](https://i.imgur.com/DR2E94n.png)
 
@@ -427,11 +427,11 @@ I also [share screenshots of all the changes to System Preferences I have made](
 
 ## Alfred launcher
 ![](https://i.imgur.com/LmxZ9aa.jpg)
-> Searching [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything). Using [Monokai theme](https://www.alfredapp.com/extras/theme/2eFqeKVw04/).
+> Searching [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything#readme). Using [Night Blue theme](https://www.alfredapp.com/extras/theme/24fhXfBld7/).
 
 ## Night Blue themes
 ![](https://i.imgur.com/iMgxn5p.png)
-> Having a unified theme across apps is amazing
+> Having a [unified theme](https://wiki.nikitavoloboev.xyz/design/night-blue-themes.html) across apps is amazing
 
 ## Launchpad
 ![](https://i.imgur.com/x5wukVD.jpg)
