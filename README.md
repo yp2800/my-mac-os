@@ -429,6 +429,10 @@ I also [share screenshots of all the changes to System Preferences I have made](
 ![](https://i.imgur.com/LmxZ9aa.jpg)
 > Searching [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything). Using [Monokai theme](https://www.alfredapp.com/extras/theme/2eFqeKVw04/).
 
+## Night Blue themes
+![](https://i.imgur.com/iMgxn5p.png)
+> Having a unified theme across apps is amazing
+
 ## Launchpad
 ![](https://i.imgur.com/x5wukVD.jpg)
 
