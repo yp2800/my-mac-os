@@ -1,7 +1,7 @@
 # My wonderful world of macOS [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
 > List of applications and tools that make my macOS experience even more amazing
 
-![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/desktop.png)
+![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/mac.png)
 
 ##### Contents
 - [Applications](#applications)
@@ -333,7 +333,7 @@ Here is how my library looks:
 
 #### [Default Folder X](http://stclairsoft.com/DefaultFolderX/) - Extend & improve open/save dialogues
 - Neat little utility I mostly use to quickly go to various folders from file save windows from hotkeys.
-<img src="https://i.imgur.com/RATGaNJ.png" width="400" alt="img">
+<img src="https://i.imgur.com/Bc4P9nI.png" width="400" alt="img">
 
 #### [iStat Menus](https://bjango.com/mac/istatmenus/) - Mac system monitoring from menu bar
 - Great system monitoring tools which I use to quickly see my CPU/network/memory usage. I find it very valuable to know if my CPU is being abused by some application and if so by which. I then use [ProcessControl](https://github.com/vitorgalvao/alfred-workflows/tree/master/ProcessControl#readme) workflow to quickly kill off misbehaving processes. Often times iStat Menus is deactivated for me to preserve battery.
@@ -422,11 +422,11 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 I also [share screenshots of all the changes to System Preferences I have made](https://imgur.com/a/rlkOyUg).
 
 ## Desktop Screenshot
-![](https://i.imgur.com/5xI4eJO.jpg)
+![](https://i.imgur.com/AAYRWYO.jpg)
 > Using [screenfetch](https://github.com/KittyKatt/screenFetch)
 
 ## Alfred launcher
-![](https://i.imgur.com/LmxZ9aa.jpg)
+![](https://i.imgur.com/U9LFFkS.jpg)
 > Searching [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything#readme). Using [Night Blue theme](https://www.alfredapp.com/extras/theme/24fhXfBld7/).
 
 ## Night Blue themes
@@ -434,7 +434,7 @@ I also [share screenshots of all the changes to System Preferences I have made](
 > Having a [unified theme](https://wiki.nikitavoloboev.xyz/design/night-blue-themes.html) across apps is amazing
 
 ## Launchpad
-![](https://i.imgur.com/x5wukVD.jpg)
+![](https://i.imgur.com/riV5ua4.jpg)
 
 ## [My wonderful world of iOS 📱](https://github.com/nikitavoloboev/my-ios#readme)
 If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios#readme) going over what applications I use on iOS as well as how and why I use them.
