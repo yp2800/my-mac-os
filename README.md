@@ -126,7 +126,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - I have front pages of [Hckrnews](http://hckrnews.com), [Reddit](https://www.reddit.com), [Twitter](https://twitter.com) and many more time sinking websites on the black list.
 <img src="https://i.imgur.com/B9Tsaxf.png" width="500" alt="img">
 
-- I then have a schedule where I can only use these websites for 20 minutes every 2 hours.
+- I then have a schedule where I can only use these websites for 20 minutes every 2 hours. It also turns on Do Not Disturb mode whilst I am in Focus mode.
 <img src="https://i.imgur.com/Cl8Iqzb.png" width="500" alt="img">
 
 - If I go to any of my blocked websites during my `Focus` time, I am greeted with this message.
