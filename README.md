@@ -126,7 +126,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - I have front pages of [Hckrnews](http://hckrnews.com), [Reddit](https://www.reddit.com), [Twitter](https://twitter.com) and many more time sinking websites on the black list.
 <img src="https://i.imgur.com/B9Tsaxf.png" width="500" alt="img">
 
-- I then have a schedule where I can only use these websites for 20 minutes every 2 hours. It also turns on Do Not Disturb mode whilst I am in Focus mode.
+- I then have a schedule where I can only use these websites for 20 minutes every 2 hours.
 <img src="https://i.imgur.com/Cl8Iqzb.png" width="500" alt="img">
 
 - If I go to any of my blocked websites during my `Focus` time, I am greeted with this message.
@@ -411,7 +411,6 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [npx](https://github.com/zkat/npx) - Execute npm package binaries.
 - [devd](https://github.com/cortesi/devd) - Local webserver for developers.
 - [wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the WiFi you're on.
-- [do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli) - Control the macOS `Do Not Disturb` feature.
 - [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes.
 
 ## Preference Panes
