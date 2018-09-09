@@ -123,10 +123,10 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - My menu bar is always hidden so I rarely ever use it and I show most needed info on the [TouchBar](btt#readme) instead.
 
 #### [Focus](https://heyfocus.com) - Block distracting websites
-- I have front pages of [Hckrnews](http://hckrnews.com), [Reddit](https://www.reddit.com), [Twitter](https://twitter.com) and many more time sinking websites on the black list.
+- I use [Focus app](https://heyfocus.com) as a recurring [pomodoro timer](https://en.wikipedia.org/wiki/Pomodoro_Technique) which lets me work in sessions of 80 minutes with 10 min breaks by blocking distracting websites and apps.
+
 <img src="https://i.imgur.com/B9Tsaxf.png" width="500" alt="img">
 
-- I work in Focus sessions of 80 minutes with 10 min breaks. Only on breaks can I visit these websites.
 <img src="https://i.imgur.com/Cl8Iqzb.png" width="500" alt="img">
 
 - If I go to any of my blocked websites during my `Focus` time, I am greeted with this message.
