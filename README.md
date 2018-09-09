@@ -130,7 +130,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 <img src="https://i.imgur.com/Cl8Iqzb.png" width="500" alt="img">
 
 - If I go to any of my blocked websites during my `Focus` time, I am greeted with this message.
-<img src="https://i.imgur.com/F7Cs9Ty.png" width="500" alt="img">
+<img src="https://i.imgur.com/XM0xoHE.png" width="500" alt="img">
 
 #### [Annotate](https://itunes.apple.com/us/app/annotate-capture-screenshot/id918207447?mt=12) - Create and annotate screenshots
 - Best annotation tool I found to exist. After you make a screenshot, it allows for quick edits. Adding arrows, some text, blurring parts of the image as well as ability to quickly save the image or drag it to Dropzone to upload to Imgur to share the link quickly with anyone I want.
