@@ -11,12 +11,12 @@ The Hazel rule for this is simple and looks like this:
 
 With this as the shell script:
 
-![](https://i.imgur.com/9FgVmxm.png)
+![](https://i.imgur.com/ccXYlwx.png)
 
 Here it is in code:
 ```bash
 git add README.md
-git commit -m "update readme"
+git commit -m "readme: update"
 git push
 ```
 
@@ -24,6 +24,7 @@ git push
 I use prefixes for most files. This allows me to write some great rules for my Downloads folder that will file the files where I want them to be based on the prefix.
 
 Here is one example of such rule:
+
 ![](https://i.imgur.com/BmvHX2F.png)
 
 It checks if the file is a PDF file, and has its name starting with `r. `, it will automatically move the file to my `~/Documents/papers` directory synced with iCloud. This rules won't automatically work for you but you can take ideas from some of these rules.
