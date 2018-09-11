@@ -6,7 +6,17 @@
 
 ##### Contents
 
-- [Applications](#applications) - [Productivity](#productivity) - [Code](#code) - [Social](#social) - [Writing](#writing) - [Design](#design) - [Music](#music) - [Images](#images) - [Video](#video) - [Utilities](#utilities) - [Browsers](#browsers)
+- [Applications](#applications)
+  - [Productivity](#productivity)
+  - [Code](#code)
+  - [Social](#social)
+  - [Writing](#writing)
+  - [Design](#design)
+  - [Music](#music)
+  - [Images](#images)
+  - [Video](#video)
+  - [Utilities](#utilities)
+  - [Browsers](#browsers)
 - [Command Line Apps](#command-line-apps)
 - [Preference Panes](#preference-panes)
 - [My wonderful world of iOS](#my-wonderful-world-of-ios-)
@@ -137,7 +147,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 <img src="https://i.imgur.com/B9Tsaxf.png" width="500" alt="img">
 
-<img src="https://i.imgur.com/r6ff6Cr.png" width="500" alt="img">
+<img src="https://i.imgur.com/Cl8Iqzb.png" width="500" alt="img">
 
 - If I go to any of my blocked websites during my `Focus` time, I am greeted with this message.
 
