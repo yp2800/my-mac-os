@@ -147,7 +147,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 <img src="https://i.imgur.com/B9Tsaxf.png" width="500" alt="img">
 
-<img src="https://i.imgur.com/Cl8Iqzb.png" width="500" alt="img">
+<img src="https://i.imgur.com/r6ff6Cr.png" width="500" alt="img">
 
 - If I go to any of my blocked websites during my `Focus` time, I am greeted with this message.
 
