@@ -58,6 +58,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 #### [2Do](http://www.2doapp.com/mac) - Flexible task manager
 
 - I love GTD methodology. This app is phenomenal with helping me [organize my tasks](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html). Here is how my sidebar looks:
+
   <img src="https://i.imgur.com/DUY4OyO.png" width="150">
 
 - It also has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more.
@@ -137,6 +138,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 #### [Bartender](https://www.macbartender.com/) - Menu bar organizer
 
 - Allows you to customize and hide the contents of your menu bar and improve the aesthetics of your OS. Here is how mine looks:
+
   <img src="https://i.imgur.com/hOzJiDK.png" width="500" alt="img">
 
 - My menu bar is always hidden so I rarely ever use it and I show most needed info on the [TouchBar](btt#readme) instead.
@@ -233,7 +235,8 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 <img src="https://i.imgur.com/Emw7NAj.png" width="500" alt="img">
 
 - I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions.
-  <img src="https://i.imgur.com/Hqq4yow.png" width="500" alt="img">
+
+<img src="https://i.imgur.com/Hqq4yow.png" width="500" alt="img">
 
 - I go over how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/iterm.html).
 
@@ -246,7 +249,8 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 #### [Dash](https://kapeli.com/dash) - API Documentation Browser
 
 - Allows you to download any docset that you might want to use, search for any method, class or anything that you need very quickly, comes with the amazing [Alfred workflow](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) to simplify the process of searching for the right things.
-  <img src="https://i.imgur.com/dOB64hB.png" width="500" alt="img">
+
+<img src="https://i.imgur.com/dOB64hB.png" width="500" alt="img">
 
 - I also use [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/master/dash-profile-switch#readme) I made to quickly switch between Dash profiles.
 
