@@ -449,7 +449,6 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [jq](https://github.com/stedolan/jq) - JSON processor.
 - [git](https://github.com/git/git) - Version control.
 - [curl](https://curl.haxx.se/docs/manpage.html) - Transfer data from or to a server.
-- [ccat](https://github.com/jingweno/ccat) - [cat](http://www.linfo.org/cat.html) command with colors.
 - [youtube-dl](https://github.com/rg3/youtube-dl) - Download videos from YouTube and other video sites.
 - [tmux](https://github.com/tmux/tmux) - Terminal multiplexer.
 - [direnv](https://direnv.net/) - Environment switcher for the shell.
@@ -526,13 +525,13 @@ I also [share screenshots of all the changes to System Preferences I have made](
 If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios#readme) going over what applications I use on iOS as well as how and why I use them.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/QBciwtT.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/Ich2ZBl.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/7kb8F2k.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/jCP8a7Q.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/gm8zMLc.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/dGfXpsg.jpg"></a>
 
 ## Similar Setups
 
