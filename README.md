@@ -207,11 +207,6 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - I use [this Alfred workflow](https://github.com/bigluck/alfred2-transmit) to quickly open the cloud storage I need.
   <img src="http://i.imgur.com/RkkcdvA.png" width="400" alt="img">
 
-#### [TotalSpaces2](https://totalspaces.binaryage.com/) - Grid space manager
-
-- Allows me to completely remove the animation of switching between spaces/full screen apps.
-- I now run most applications in full screen and switch between them with [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html).
-
 #### [Paprika Recipe Manager](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222628?ls=1&mt=12)
 
 - Use the app to store the many [vegan recipes](https://github.com/nikitavoloboev/vegan-recipes#readme) I like to make.
