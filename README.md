@@ -82,7 +82,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - I use Timing app to fully automate tracking my time on my computer.
 - The fact that I can combine active and passive tracking together is very powerful and allows me to be more aware of where I spend my time.
 
-![](https://i.imgur.com/1po5oME.png)
+![](https://i.imgur.com/CS5boja.png)
 
 #### [MindNode](https://mindnode.com) - Interactive Mind Mapping
 
@@ -133,7 +133,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - Comes natively with macOS and I started to love using it for exploring and searching through Wikipedia.
 - It is incredibly fast to make the searches and it gives quick autosuggestions for any query I type that I can then select with up and down arrows.
 
-![](https://i.imgur.com/Brw1wLV.png)
+![](https://i.imgur.com/Nj4erv5.png)
 
 #### [Bartender](https://www.macbartender.com/) - Menu bar organizer
 
@@ -231,7 +231,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions.
 
-<img src="https://i.imgur.com/Hqq4yow.png" width="500" alt="img">
+<img src="https://i.imgur.com/Yz1PVpi.png" width="500" alt="img">
 
 - I go over how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/iterm.html).
 
