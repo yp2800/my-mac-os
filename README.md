@@ -267,7 +267,7 @@ Here is how my library looks:
 #### [Tower](https://www.git-tower.com) - Git client
 
 - Use the app to help me version control any project I am working on. Love the ability to search through commits, check out branches with ease and searching through all the Git repositories I have on my mac with quick search.
-  ![](https://i.imgur.com/0rtjf6K.png)
+  ![](https://i.imgur.com/Ez9MmLe.png)
 
 #### [Paw](https://paw.cloud) - HTTP client
 
@@ -295,7 +295,7 @@ Here is how my library looks:
 ![](https://i.imgur.com/YgNVUMH.png)
 
 - The app also has an awesome channel search feature that I use a lot.
-  <img src="http://i.imgur.com/jwVCcMb.png" width="500" alt="img">
+  <img src="https://i.imgur.com/CMBW8Qf.png" width="500" alt="img">
 
 #### [Telegram](https://desktop.telegram.org/) - Messenger
 
@@ -398,7 +398,7 @@ Here is how my library looks:
 #### [Default Folder X](http://stclairsoft.com/DefaultFolderX/) - Extend & improve open/save dialogues
 
 - Neat little utility I mostly use to quickly go to various folders from file save windows from hotkeys.
-  <img src="https://i.imgur.com/Bc4P9nI.png" width="400" alt="img">
+  <img src="https://i.imgur.com/joD1XA9.png" width="400" alt="img">
 
 #### [iStat Menus](https://bjango.com/mac/istatmenus/) - Mac system monitoring from menu bar
 
