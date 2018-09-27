@@ -354,6 +354,10 @@ Here is how my library looks:
 
 <img src="https://i.imgur.com/nB8hHKA.png" width="400" alt="img">
 
+#### [PixelSnap](https://getpixelsnap.com/) - Measure everything on screen
+
+- Use it to quickly get measurements of objects and distances between elements.
+
 ### Music
 
 #### [Spotify](https://www.spotify.com/us/) - Music streaming
