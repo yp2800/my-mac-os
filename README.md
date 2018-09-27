@@ -153,7 +153,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - If I go to any of my blocked websites during my `Focus` time, I am greeted with this message.
 
-<img src="https://i.imgur.com/F7Cs9Ty.png" width="500" alt="img">
+<img src="https://i.imgur.com/JML4ywh.png" width="500" alt="img">
 
 #### [Annotate](https://itunes.apple.com/us/app/annotate-capture-screenshot/id918207447?mt=12) - Create and annotate screenshots
 
