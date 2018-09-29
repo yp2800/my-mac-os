@@ -1,4 +1,4 @@
-# My wonderful world of macOS [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
+# My wonderful world of macOS [![Thanks](http://bit.ly/saythankss)](https://patreon.com/nikitavoloboev)
 
 > List of applications and tools that make my macOS experience even more amazing
 
@@ -554,6 +554,5 @@ I love finding new awesome tools and apps. If you have a favorite tool or app th
 
 You can support me on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
 
-## License
+[![MIT](http://bit.ly/mitbadge)](https://tldrlegal.com/license/mit-license) [![Twitter](http://bit.ly/nikitweet)](https://twitter.com/nikitavoloboev)
 
-MIT © [Nikita Voloboev](https://www.nikitavoloboev.xyz)
