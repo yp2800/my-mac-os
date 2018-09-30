@@ -34,7 +34,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 #### [Alfred](https://www.alfredapp.com) - Launcher
 
-- Alfred is a very powerful launcher that you can program to show anything you want. It saved me a lot of time in my life.
+- Alfred is a powerful launcher that you can program to show anything you want. It saved me a lot of time in my life.
 
   <img src="https://i.imgur.com/uzq1w5g.png" width="700" alt="img">
 
