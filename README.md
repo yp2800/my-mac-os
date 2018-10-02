@@ -128,6 +128,10 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - Makes jumping to the right window I need effortless. I often may have many VS Code instances with different projects running and this lets me switch to the project I need in seconds.
 
+#### [TaskPaper](https://www.taskpaper.com) - Plain text TODOs
+
+- Use the app to [dissect problems I am trying to solve into smaller and smaller parts I can work on](https://wiki.nikitavoloboev.xyz/research/solving-problems.html).
+
 #### [Dictionary](<http://www.wikiwand.com/en/Dictionary_(software)>)
 
 - Comes natively with macOS and I started to love using it for exploring and searching through Wikipedia.
