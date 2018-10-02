@@ -130,7 +130,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 #### [TaskPaper](https://www.taskpaper.com) - Plain text TODOs
 
-- Use the app to [dissect problems I am trying to solve into smaller and smaller parts I can work on](https://wiki.nikitavoloboev.xyz/research/solving-problems.html) and things I am learning and want to learn.
+- Use the app to [dissect problems I am trying to solve into smaller and smaller parts I can work on](https://wiki.nikitavoloboev.xyz/research/solving-problems.html) as well as mark things I am learning and want to learn.
 
 ![](https://i.imgur.com/07paF0e.png)
 
