@@ -530,13 +530,13 @@ I also [share screenshots of all the changes to System Preferences I have made](
 If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios#readme) going over what applications I use on iOS as well as how and why I use them.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/QX0Udzb.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/crA7nS3.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/bXXQ2aV.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/qh3wFtP.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/ETMBGXz.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/C5VsmQS.jpg"></a>
 
 ## Similar Setups
 
