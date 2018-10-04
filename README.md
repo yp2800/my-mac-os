@@ -283,7 +283,7 @@ Here is how my library looks:
 
 - The best text editing experience you will ever get. It is worth learning it as you will start thinking about text editing differently.
 - I use some kind of vim bindings in any app I use and if there is a vim plugin for the app, I often use it. I use [vim editor](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim.html) often when connecting to remote sessions and when I need a console editor.
-- My [Neovim](https://github.com/neovim/neovim) config can be seen [here](nvim/init.vim). I use [Night Blue theme](https://github.com/nikitavoloboev/vim-night-blue#readme) with [many plugins](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim-plugins.html). Here is how it looks:
+- My [Neovim](https://github.com/neovim/neovim) config can be seen [here](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim). I use [Night Blue theme](https://github.com/nikitavoloboev/vim-night-blue#readme) with [many plugins](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim-plugins.html). Here is how it looks:
 
 ![](https://i.imgur.com/DR2E94n.png)
 
