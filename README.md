@@ -2,7 +2,9 @@
 
 > List of applications and tools that make my macOS experience even more amazing
 
-![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/mac.png)
+![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/desktop.png)
+
+> All the apps are in one desktop because there is delay in switching between macOS multiple desktops
 
 ##### Contents
 
@@ -69,9 +71,9 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - I use the app a lot to track various projects I have in my life.
 - I share many boards I made [publicly](https://wiki.nikitavoloboev.xyz/sharing/my-trello.html). Here is an example of a public board for tracking various [things I want to learn](https://trello.com/b/cu32qF3q).
-  ![](https://i.imgur.com/aUqFMP1.jpg)
+  ![](https://i.imgur.com/7sAVX9E.png)
 
-- I nearly always use two labels: **Important** and **Next**. And I mark the cards I am working on and set deadlines on most cards.
+- I assign myself to the cards I am working on now and filter to see only them by [pressing Q key](https://trello.com/shortcuts). I mark cards I want to work on next with `Next` tag.
 
 #### [1Password](https://1password.com) - Password manager
 
@@ -130,9 +132,9 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 #### [TaskPaper](https://www.taskpaper.com) - Plain text TODOs
 
-- Use the app to [dissect problems I am trying to solve into smaller and smaller parts I can work on](https://wiki.nikitavoloboev.xyz/research/solving-problems.html) as well as mark things I am learning and want to learn.
+- Use the app to [dissect problems I am trying to solve into smaller and smaller parts I can work on](https://wiki.nikitavoloboev.xyz/research/solving-problems.html).
 
-![](https://i.imgur.com/07paF0e.png)
+![](https://i.imgur.com/qng2Qw6.png)
 
 #### [Dictionary](<http://www.wikiwand.com/en/Dictionary_(software)>)
 
@@ -517,13 +519,15 @@ I also [share screenshots of all the changes to System Preferences I have made](
 
 ## Night Blue themes
 
-![](https://i.imgur.com/iMgxn5p.png)
+![](https://i.imgur.com/520F11f.png)
 
 > Having a [unified theme](https://wiki.nikitavoloboev.xyz/design/night-blue-themes.html) across apps is amazing
 
 ## Launchpad
 
-![](https://i.imgur.com/riV5ua4.jpg)
+![](https://i.imgur.com/N33JE5T.jpg)
+
+> I use the [small space in my Dock](https://www.imore.com/add-space-your-mac-dock) to separate apps I always have open with apps I seldom open
 
 ## [My wonderful world of iOS 📱](https://github.com/nikitavoloboev/my-ios#readme)
 
