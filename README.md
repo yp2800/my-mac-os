@@ -199,7 +199,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - Amazing networking tool that gives you a clear picture of what connections are incoming to your computer and what are outgoing.
 - Takes a bit of time to set it up correctly and is quite an insightful experience first turning it on and having it notify every couple of seconds that some app is trying to send data to some server and whether you want to allow that.
-- This is essential if you want to take control of what information gets sent out from your computer and what connections have right to connect to your data.
+- This is essential if you want to take control of what information gets sent out from your computer and what connections have the right to connect to your data.
 
 #### [BeardedSpice](https://github.com/beardedspice/beardedspice) - Extend Mac Media Keys
 
