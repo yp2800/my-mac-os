@@ -407,11 +407,6 @@ Here is how my library looks:
 
 - A great tool to quickly get a visual glance over what is taking up your disk space and where.
 
-#### [Default Folder X](http://stclairsoft.com/DefaultFolderX/) - Extend & improve open/save dialogues
-
-- Neat little utility I mostly use to quickly go to various folders from file save windows from hotkeys.
-  <img src="https://i.imgur.com/joD1XA9.png" width="400" alt="img">
-
 #### [iStat Menus](https://bjango.com/mac/istatmenus/) - Mac system monitoring from menu bar
 
 - Great system monitoring tools which I use to quickly see my CPU/network/memory usage. I find it very valuable to know if my CPU is being abused by some application and if so by which. I then use [ProcessControl](https://github.com/vitorgalvao/alfred-workflows/tree/master/ProcessControl#readme) workflow to quickly kill off misbehaving processes. Often times iStat Menus is deactivated for me to preserve battery.
