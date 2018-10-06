@@ -423,6 +423,13 @@ Here is how my library looks:
 - One powerful plus that Chrome does have over safari is the amount of Chrome extensions that you can get. Fortunately the ones most needed for me do [exist on Safari](https://github.com/learn-anything/safari-extensions#readme).
 - My absolute favorite extension on Safari is [sVim](https://github.com/flipxfx/sVim) which gives me full keyboard control over my browser. [Here](https://gist.github.com/nikitavoloboev/c26e6a05e4e426e0542e55b7513b581c) is my config for it.
 
+##### Safari Extensions
+
+- [sVim](https://github.com/flipxfx/sVim) - Adds a custom layer of keybinds you can customize to personalize your browsing experience. [My config](https://gist.github.com/c26e6a05e4e426e0542e55b7513b581c).
+- [Wipr](https://itunes.apple.com/nl/app/wipr/id1320666476?l=en&mt=12) - Ad content blocker that uses [Safari native content blocking API's](https://developer.apple.com/library/content/documentation/Extensions/Conceptual/ContentBlockingRules/Introduction/Introduction.html).
+- [1Password](https://agilebits.com/onepassword/extensions) - [1Password](https://1password.com) is a phenomenal password manager, this extension just gives a seamless interaction of it with the browser.
+- [Cascadea](https://cascadea.app) - Custom style extension. Use it to create dark themes for apps that don't have a dark mode option.
+
 #### [Google Chrome](https://www.google.com/chrome/)
 
 - I only use Chrome for web development due to its superior Chrome Dev tools.
