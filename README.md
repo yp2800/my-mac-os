@@ -522,11 +522,11 @@ I also [share screenshots of all the changes to System Preferences I have made](
 
 ![](https://i.imgur.com/NRqFg6m.jpg)
 
-> I use the [small space in my Dock](https://www.imore.com/add-space-your-mac-dock) to separate apps I always have open with apps I seldom open
+> I add a [small space in my Dock](https://www.imore.com/add-space-your-mac-dock) to separate apps I always have open with apps I seldom open
 
 ## [My wonderful world of iOS 📱](https://github.com/nikitavoloboev/my-ios#readme)
 
-If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios#readme) going over what applications I use on iOS as well as how and why I use them.
+If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios#readme) going over what applications I use on iOS/WatchOS as well as how and why I use them.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="250" heigth="400" src="https://i.imgur.com/crA7nS3.jpg"></a>
