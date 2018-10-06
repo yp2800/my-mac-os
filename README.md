@@ -19,6 +19,7 @@
   - [Video](#video)
   - [Utilities](#utilities)
   - [Browsers](#browsers)
+    - [Safari Extensions](#safari-extensions)
 - [Command Line Apps](#command-line-apps)
 - [Preference Panes](#preference-panes)
 - [My wonderful world of iOS](#my-wonderful-world-of-ios-)
