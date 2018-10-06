@@ -214,7 +214,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - I sometimes use this app to quickly send files from my local file system to the cloud and get a shareable link I can send to people.
 - I use [this Alfred workflow](https://github.com/bigluck/alfred2-transmit) to quickly open the cloud storage I need.
-  <img src="http://i.imgur.com/RkkcdvA.png" width="400" alt="img">
+  <img src="https://i.imgur.com/FdreM6n.png" width="400" alt="img">
 
 #### [Paprika Recipe Manager](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222628?ls=1&mt=12)
 
