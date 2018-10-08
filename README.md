@@ -520,11 +520,11 @@ I also [share screenshots of all the changes to System Preferences I have made](
 
 > Searching [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything#readme). Using [Monokai Night theme](https://www.alfredapp.com/extras/theme/PQVZpeg4Zi/).
 
-## Night Blue themes
+## Monokai Night themes
 
 ![](https://i.imgur.com/520F11f.png)
 
-> Having a [unified theme](https://wiki.nikitavoloboev.xyz/design/night-blue-themes.html) across apps is amazing
+> Having a [unified theme](https://wiki.nikitavoloboev.xyz/design/monokai-night-themes.html) across apps is amazing
 
 ## Launchpad
 
