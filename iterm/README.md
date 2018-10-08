@@ -1,8 +1,9 @@
-# Night Blue theme for iTerm
-You can install the theme from [here](https://cdn.rawgit.com/nikitavoloboev/my-mac-os/master/iterm/Night%20Blue.itermcolors) and open it in iTerm. Here is how it looks:
+# Monokai Night theme for iTerm
 
-![](https://i.imgur.com/Emw7NAj.png)
+You can install the theme from [here](https://cdn.rawgit.com/nikitavoloboev/my-mac-os/master/iterm/Monokai%20Night.itermcolors) and open it in iTerm. Here is how it looks:
 
-It goes well with [Pure Zsh plugin](https://github.com/sindresorhus/pure) and [Night Blue theme for Vim](https://github.com/nikitavoloboev/night-blue-vim#readme).
+![](https://i.imgur.com/SQbqPLN.png)
 
-![](https://i.imgur.com/DR2E94n.png)
+It goes well with [Pure Zsh plugin](https://github.com/sindresorhus/pure) and [Monokai Night theme for Vim](https://github.com/nikitavoloboev/vim-monokai-night#readme).
+
+![](https://i.imgur.com/sLXBvv7.png)
