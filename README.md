@@ -135,7 +135,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - Use the app to [dissect problems I am trying to solve into smaller and smaller parts I can work on](https://wiki.nikitavoloboev.xyz/research/solving-problems.html).
 
-![](https://i.imgur.com/qng2Qw6.png)
+![](https://i.imgur.com/MyFIf09.png)
 
 #### [Dictionary](<http://www.wikiwand.com/en/Dictionary_(software)>)
 
@@ -234,13 +234,13 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - Use Zsh as my shell together with [Antibody](https://github.com/getantibody/antibody) to install [Zsh plugins I use](https://wiki.nikitavoloboev.xyz/unix/shell/zsh/zsh-plugins.html).
 - Assigned w + j with [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) to open the app from Keyboard Maestro in seconds.
-- I made my own [Night Blue theme](iterm#readme) for it.
+- I made my own [Monokai Night theme](iterm#readme) for it.
 
-<img src="https://i.imgur.com/Emw7NAj.png" width="500" alt="img">
+<img src="https://i.imgur.com/SQbqPLN.png" width="500" alt="img">
 
 - I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions.
 
-<img src="https://i.imgur.com/Yz1PVpi.png" width="500" alt="img">
+<img src="https://i.imgur.com/xZm6Y1A.png" width="500" alt="img">
 
 - I go over how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/iterm.html).
 
@@ -288,7 +288,7 @@ Here is how my library looks:
 - I use some kind of vim bindings in any app I use and if there is a vim plugin for the app, I often use it. I use [vim editor](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim.html) often when connecting to remote sessions and when I need a console editor.
 - My [Neovim](https://github.com/neovim/neovim) config can be seen [here](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim). I use [Night Blue theme](https://github.com/nikitavoloboev/vim-night-blue#readme) with [many plugins](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim-plugins.html). Here is how it looks:
 
-![](https://i.imgur.com/DR2E94n.png)
+![](https://i.imgur.com/sLXBvv7.png)
 
 #### [Bee](https://www.neat.io/bee/) - GitHub Issue Tracker
 
