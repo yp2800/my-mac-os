@@ -39,7 +39,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - Alfred is a powerful launcher that you can program to show anything you want. It saved me a lot of time in my life.
 
-  <img src="https://i.imgur.com/uzq1w5g.png" width="700" alt="img">
+<img src="https://i.imgur.com/uzq1w5g.png" width="700" alt="img">
 
 - It has a great [community](http://www.alfredforum.com/) and [amazing workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can use.
 
@@ -63,10 +63,11 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - I love GTD methodology. This app is phenomenal with helping me [organize my tasks](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html). Here is how my sidebar looks:
 
-  <img src="https://i.imgur.com/DUY4OyO.png" width="150">
+<img src="https://i.imgur.com/DUY4OyO.png" width="150">
 
 - It also has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more.
-  <img src="https://i.imgur.com/b9lGFs0.png" width="400" alt="img">
+
+<img src="https://i.imgur.com/b9lGFs0.png" width="400" alt="img">
 
 #### [Trello](https://trello.com) - Project management tool
 
@@ -148,7 +149,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - Allows you to customize and hide the contents of your menu bar and improve the aesthetics of your OS. Here is how mine looks:
 
-  <img src="https://i.imgur.com/hOzJiDK.png" width="500" alt="img">
+<img src="https://i.imgur.com/hOzJiDK.png" width="500" alt="img">
 
 - My menu bar is always hidden so I rarely ever use it and I show most needed info on the [TouchBar](btt#readme) instead.
 
@@ -171,9 +172,10 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 #### [Popclip](https://pilotmoon.com/popclip/) - iOS like mouse text selection popover
 
 - Another great utility I cannot live without, brings up a quick menu whenever some text is selected on which I can do a number of quick actions, like searching on Google, DuckDuckGo, YouTube, Dictionary, Reddit, Google Images or it can translate text selected, copy it or even make a SnippetsLab snippet from it. Here is how it looks for me:
-  <img src="https://i.imgur.com/R6ksJi3.png" width="400" alt="img">
 
-* I share all the extensions I use with it [here](popclip#readme.md).
+<img src="https://i.imgur.com/R6ksJi3.png" width="400" alt="img">
+
+- I share all the extensions I use with it [here](popclip#readme.md).
 
 #### [Noizio](http://noiz.io/) - Ambient sounds
 
@@ -194,7 +196,8 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 #### [Dropzone](https://aptonic.com) - Drag and drop actions
 
 - A quick utility that pops up when I drag some file into it or open it with a hotkey, use it to upload images to [Imgur](http://imgur.com), dropping files into a preset number of folders that I made quickly as well as going to them in an instant.
-  <img src="https://i.imgur.com/5InxMrE.png" width="300" alt="img">
+
+<img src="https://i.imgur.com/5InxMrE.png" width="300" alt="img">
 
 #### [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Control incoming/outgoing network traffic
 
@@ -214,7 +217,8 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - I sometimes use this app to quickly send files from my local file system to the cloud and get a shareable link I can send to people.
 - I use [this Alfred workflow](https://github.com/bigluck/alfred2-transmit) to quickly open the cloud storage I need.
-  <img src="https://i.imgur.com/FdreM6n.png" width="400" alt="img">
+
+<img src="https://i.imgur.com/FdreM6n.png" width="400" alt="img">
 
 #### [Paprika Recipe Manager](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222628?ls=1&mt=12)
 
@@ -299,12 +303,13 @@ Here is how my library looks:
 #### [Textual](https://www.codeux.com/textual/) - IRC Client
 
 - I love IRC and this is the best macOS client for it.
-- I created my own [Night Blue theme](textual#readme) for it that I love.
+- I created my own [Monokai Night theme](textual#readme) for it that I love.
 
-![](https://i.imgur.com/YgNVUMH.png)
+![](https://i.imgur.com/Lpozk8X.png)
 
 - The app also has an awesome channel search feature that I use a lot.
-  <img src="https://i.imgur.com/CMBW8Qf.png" width="500" alt="img">
+
+<img src="https://i.imgur.com/CMBW8Qf.png" width="500" alt="img">
 
 #### [Telegram](https://desktop.telegram.org/) - Messenger
 
@@ -338,12 +343,13 @@ Here is how my library looks:
 
 - The app I use to write all my [Medium](https://medium.com/@nikitavoloboev) articles in.
 - All your writing in one place is the motto and the underlying design of the app. I hook up my [wiki](https://github.com/nikitavoloboev/knowledge) as an external folder and I love how it creates an index of everything that I can search over:
-  <img src="http://i.imgur.com/Aa17RCQ.png" width="500" alt="img">
+
+<img src="http://i.imgur.com/Aa17RCQ.png" width="500" alt="img">
 
 - It also has pretty awesome export functions that let you export the text you write to PDF, ePub and HTML. I mostly use it's ability to export text to Medium.
-- I use [Night Blue](https://styles.ulyssesapp.com/bundle/Night+Blue/5b8573cd4f286f5c23d613d5) theme when I write. Here is how it looks:
+- I use [Monokai Night](https://styles.ulyssesapp.com/bundle/Monokai+Night/5bbcb619b3dafa6b4e6d6bd4) theme when I write. Here is how it looks:
 
-![](https://i.imgur.com/fs7OwNj.png)
+![](https://i.imgur.com/5yfxluP.png)
 
 - I describe my thoughts and approach to writing [here](https://wiki.nikitavoloboev.xyz/writing/writing.html).
 
@@ -373,7 +379,8 @@ Here is how my library looks:
 
 - Found a [lot of great music](https://open.spotify.com/user/nikitavoloboev) with this application and the phenomenal [Alfred Workflow](http://alfred-spotify-mini-player.com/) makes using the application an absolute joy.
 - Quickly finding artists, songs I want to listen, instantly adding the song playing to my [Likes](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn?) playlist or any other playlist I want, seeing what other songs the artist has and more.
-  <img src="https://i.imgur.com/BYGYS9s.png" width="500" alt="img">
+
+<img src="https://i.imgur.com/BYGYS9s.png" width="500" alt="img">
 
 ### Images
 
@@ -510,19 +517,19 @@ I also [share screenshots of all the changes to System Preferences I have made](
 
 ## Desktop Screenshot
 
-![](https://i.imgur.com/AAYRWYO.jpg)
+![](https://i.imgur.com/uKsu94o.png)
 
 > Using [screenfetch](https://github.com/KittyKatt/screenFetch)
 
 ## Alfred launcher
 
-![](https://i.imgur.com/U9LFFkS.jpg)
+![](https://i.imgur.com/k2hrurX.png)
 
 > Searching [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything#readme). Using [Monokai Night theme](https://www.alfredapp.com/extras/theme/PQVZpeg4Zi/).
 
 ## Monokai Night themes
 
-![](https://i.imgur.com/520F11f.png)
+![](https://i.imgur.com/PsZMur5.jpg)
 
 > Having a [unified theme](https://wiki.nikitavoloboev.xyz/design/monokai-night-themes.html) across apps is amazing
 
