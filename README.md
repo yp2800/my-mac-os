@@ -535,7 +535,7 @@ I also [share screenshots of all the changes to System Preferences I have made](
 
 ## Launchpad
 
-![](https://i.imgur.com/NRqFg6m.jpg)
+![](https://i.imgur.com/9KMDYfB.jpg)
 
 > I add a [small space in my Dock](https://www.imore.com/add-space-your-mac-dock) to separate apps I always have open with apps I seldom open
 
