@@ -218,7 +218,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - I sometimes use this app to quickly send files from my local file system to the cloud and get a shareable link I can send to people.
 - I use [this Alfred workflow](https://github.com/bigluck/alfred2-transmit) to quickly open the cloud storage I need.
 
-<img src="https://i.imgur.com/FdreM6n.png" width="400" alt="img">
+<img src="https://i.imgur.com/TfCsokt.png" width="400" alt="img">
 
 #### [Paprika Recipe Manager](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222628?ls=1&mt=12)
 
@@ -258,22 +258,22 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - Allows you to download any docset that you might want to use, search for any method, class or anything that you need very quickly, comes with the amazing [Alfred workflow](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) to simplify the process of searching for the right things.
 
-<img src="https://i.imgur.com/dOB64hB.png" width="500" alt="img">
+<img src="https://i.imgur.com/dItnB52.png" width="500" alt="img">
 
 - I also use [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/master/dash-profile-switch#readme) I made to quickly switch between Dash profiles.
 
-<img src="https://i.imgur.com/CeoPgS6.png" width="500" alt="img">
+<img src="https://i.imgur.com/gCz4s9z.png" width="500" alt="img">
 
 #### [SnippetsLab](https://www.renfei.org/snippets-lab/) - Snippet manager
 
 - I use the app to manage my own personal library of snippets. I prefix all snippets I make. For example vim snippets are prefixed with `vim:`. Git related snippets with `git:` and so on.
 - This lets me then use the [Alfred workflow](https://www.renfei.org/snippets-lab/press-release/whats-new/osx-1.6.html) that the app's author provides to search for these snippets insanely fast.
 
-![](https://i.imgur.com/HKZtsHy.png)
+![](https://i.imgur.com/QCrbftT.png)
 
 Here is how my library looks:
 
-![](https://i.imgur.com/oeK1Un4.png)
+![](https://i.imgur.com/F7j1MSk.png)
 
 - I share my entire library of snippets as [GitHub Gists](https://wiki.nikitavoloboev.xyz/sharing/my-gists.html).
 
@@ -367,7 +367,7 @@ Here is how my library looks:
 
 - A great color picker I use to collect my favorite colors and color schemes.
 
-<img src="https://i.imgur.com/nB8hHKA.png" width="400" alt="img">
+<img src="https://i.imgur.com/ZSiZ5QA.png" width="400" alt="img">
 
 #### [PixelSnap](https://getpixelsnap.com/) - Measure everything on screen
 
@@ -380,7 +380,7 @@ Here is how my library looks:
 - Found a [lot of great music](https://open.spotify.com/user/nikitavoloboev) with this application and the phenomenal [Alfred Workflow](http://alfred-spotify-mini-player.com/) makes using the application an absolute joy.
 - Quickly finding artists, songs I want to listen, instantly adding the song playing to my [Likes](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn?) playlist or any other playlist I want, seeing what other songs the artist has and more.
 
-<img src="https://i.imgur.com/BYGYS9s.png" width="500" alt="img">
+<img src="https://i.imgur.com/tNThVG0.png" width="500" alt="img">
 
 ### Images
 
