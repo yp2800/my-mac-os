@@ -199,7 +199,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 <img src="https://i.imgur.com/5InxMrE.png" width="300" alt="img">
 
-#### [Little Snitch](https://www.obdev.at/products/littlesnitch/index) - Control incoming/outgoing network traffic
+#### [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Control incoming/outgoing network traffic
 
 - Amazing networking tool that gives you a clear picture of what connections are incoming to your computer and what are outgoing.
 - Takes a bit of time to set it up correctly and is quite an insightful experience first turning it on and having it notify every couple of seconds that some app is trying to send data to some server and whether you want to allow that.
@@ -433,7 +433,7 @@ Here is how my library looks:
 ##### Safari Extensions
 
 - [sVim](https://github.com/flipxfx/sVim) - Adds a custom layer of keybinds you can customize to personalize your browsing experience. [My config](https://gist.github.com/c26e6a05e4e426e0542e55b7513b581c).
-- [Wipr](https://itunes.apple.com/nl/app/wipr/id1320666476?l=en&mt=12) - Ad content blocker that uses [Safari native content blocking API's](https://developer.apple.com/library/content/documentation/Extensions/Conceptual/ContentBlockingRules/Introduction/Introduction).
+- [Wipr](https://itunes.apple.com/nl/app/wipr/id1320666476?l=en&mt=12) - Ad content blocker that uses [Safari native content blocking API's](https://developer.apple.com/library/content/documentation/Extensions/Conceptual/ContentBlockingRules/Introduction/Introduction.html).
 - [1Password](https://agilebits.com/onepassword/extensions) - [1Password](https://1password.com) is a phenomenal password manager, this extension just gives a seamless interaction of it with the browser.
 - [Cascadea](https://cascadea.app) - Custom styles extension. Use it to create dark themes for apps that don't have a dark mode option. Also allows importing of [Stylish themes](https://wiki.nikitavoloboev.xyz/web/browsers/stylish-themes).
 
@@ -464,7 +464,7 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, APIs, and sites in seconds to AWS.
 - [jq](https://github.com/stedolan/jq) - JSON processor.
 - [git](https://github.com/git/git) - Version control.
-- [curl](https://curl.haxx.se/docs/manpage) - Transfer data from or to a server.
+- [curl](https://curl.haxx.se/docs/manpage.html) - Transfer data from or to a server.
 - [youtube-dl](https://github.com/rg3/youtube-dl) - Download videos from YouTube and other video sites.
 - [tmux](https://github.com/tmux/tmux) - Terminal multiplexer.
 - [direnv](https://direnv.net/) - Environment switcher for the shell.
@@ -479,7 +479,7 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers.
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
 - [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
-- [imgcat](https://github.com/eddieantonio/imgcat) - Like [cat](http://www.linfo.org/cat) but for images.
+- [imgcat](https://github.com/eddieantonio/imgcat) - Like [cat](http://www.linfo.org/cat.html) but for images.
 - [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal.
 - [hugo](https://github.com/gohugoio/hugo) - Fast and flexible static site generator.
 - [reflex](https://github.com/cespare/reflex) - Run a command when files change.
@@ -510,7 +510,7 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 
 - [GPG Suite](https://gpgtools.org/) - Encrypt, decrypt, sign and verify files or messages.
 - [RCDefaultApp](http://www.rubicode.com/Software/RCDefaultApp/) - Set the default application used for various URL schemes, file extensions, file types, MIME types, and Uniform Type Identifiers.
-- [TinkerTool](https://www.bresink.com/osx/TinkerTool) - Gives you access to additional preference settings Apple has built into macOS.
+- [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - Gives you access to additional preference settings Apple has built into macOS.
 
 I also [share screenshots of all the changes to System Preferences I have made](https://imgur.com/a/rlkOyUg).
 
