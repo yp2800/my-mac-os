@@ -51,17 +51,17 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - I have completely remapped my keyboard with it and every key on my keyboard is a custom modifier key that I can program to do what I want.
 - For example you can make caps lock into an escape key when pressed once but if you hold it, it becomes a [hyper key](http://brettterpstra.com/2017/06/15/a-hyper-key-with-karabiner-elements-full-instructions/). Hyper key means that a key now serves two purposes, once when pressed alone and once when held down. So for example, for remapping caps lock, we can remap it to act as escape when pressed alone once but if we hold down on it, it becomes `⌘ + ⌃` modifier key. So `Caps Lock + F` becomes `⌘ + ⌃ + F`. And so on.
 - I take this idea further and define these kind of hyper keys for **every single key on my keyboard**.
-- I describe how I use Karabiner in detail [here](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) and I generate [my configuration](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/karabiner.edn) with a [Karabiner DSL](https://github.com/yqrashawn/GokuRakuJoudo#readme).
+- I describe how I use Karabiner in detail [here](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner) and I generate [my configuration](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/karabiner.edn) with a [Karabiner DSL](https://github.com/yqrashawn/GokuRakuJoudo#readme).
 
 #### [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Automation tool
 
 - Keyboard Maestro is essentially an IDE for automation. You create macros of actions that you can then easily call from Karabiner.
 - It has a [wonderful community](https://forum.keyboardmaestro.com/) that is happy to help with whatever you are trying to achieve.
-- I share [all the macros I use](https://wiki.nikitavoloboev.xyz/macOS/apps/keyboard-maestro/km-macros.html) with the app.
+- I share [all the macros I use](https://wiki.nikitavoloboev.xyz/macOS/apps/keyboard-maestro/km-macros) with the app.
 
 #### [2Do](http://www.2doapp.com/mac) - Flexible task manager
 
-- I love GTD methodology. This app is phenomenal with helping me [organize my tasks](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html). Here is how my sidebar looks:
+- I love GTD methodology. This app is phenomenal with helping me [organize my tasks](https://wiki.nikitavoloboev.xyz/macOS/apps/2do). Here is how my sidebar looks:
 
 <img src="https://i.imgur.com/DUY4OyO.png" width="150">
 
@@ -72,7 +72,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 #### [Trello](https://trello.com) - Project management tool
 
 - I use the app a lot to track various projects I have in my life.
-- I share many boards I made [publicly](https://wiki.nikitavoloboev.xyz/sharing/my-trello.html). Here is an example of a public board for tracking various [things I want to learn](https://trello.com/b/cu32qF3q).
+- I share many boards I made [publicly](https://wiki.nikitavoloboev.xyz/sharing/my-trello). Here is an example of a public board for tracking various [things I want to learn](https://trello.com/b/cu32qF3q).
   ![](https://i.imgur.com/7sAVX9E.png)
 
 - I assign myself to the cards I am working on now and filter to see only them by [pressing Q key](https://trello.com/shortcuts). I mark cards I want to work on next with `Next` tag.
@@ -134,7 +134,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 #### [TaskPaper](https://www.taskpaper.com) - Plain text TODOs
 
-- Use the app to [dissect problems I am trying to solve into smaller and smaller parts I can work on](https://wiki.nikitavoloboev.xyz/research/solving-problems.html).
+- Use the app to [dissect problems I am trying to solve into smaller and smaller parts I can work on](https://wiki.nikitavoloboev.xyz/research/solving-problems).
 
 ![](https://i.imgur.com/MyFIf09.png)
 
@@ -188,7 +188,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 #### [Reeder](http://reederapp.com/mac/) - RSS Reeder
 
 - The app I use to keep up with my RSS feeds. I use RSS to follow my favorite blogs, stay up to date on new podcast episodes and even track some software releases.
-- I use [Inoreader](https://www.inoreader.com) to sync [blogs I follow](https://wiki.nikitavoloboev.xyz/research/blogs.html) between phone and mac.
+- I use [Inoreader](https://www.inoreader.com) to sync [blogs I follow](https://wiki.nikitavoloboev.xyz/research/blogs) between phone and mac.
 - Here is how Reeder looks like for me:
 
 ![](https://i.imgur.com/UBVuAIC.png)
@@ -199,7 +199,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 <img src="https://i.imgur.com/5InxMrE.png" width="300" alt="img">
 
-#### [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Control incoming/outgoing network traffic
+#### [Little Snitch](https://www.obdev.at/products/littlesnitch/index) - Control incoming/outgoing network traffic
 
 - Amazing networking tool that gives you a clear picture of what connections are incoming to your computer and what are outgoing.
 - Takes a bit of time to set it up correctly and is quite an insightful experience first turning it on and having it notify every couple of seconds that some app is trying to send data to some server and whether you want to allow that.
@@ -228,7 +228,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 #### [VS Code](https://github.com/Microsoft/vscode) - Code editor
 
-- My favorite editor that I use to write code in. I use [many extensions](https://wiki.nikitavoloboev.xyz/text-editors/vs-code/vs-code-extensions.html) for it.
+- My favorite editor that I use to write code in. I use [many extensions](https://wiki.nikitavoloboev.xyz/text-editors/vs-code/vs-code-extensions) for it.
 - My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/vscode/settings.json).
 - I use [VS Code Monokai Night](https://github.com/fabiospampinato/vscode-monokai-night#readme) theme with [Fira Code](https://github.com/tonsky/FiraCode) font. Here is how it looks:
 
@@ -236,23 +236,23 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 #### [iTerm](https://www.iterm2.com/) - Terminal Emulator
 
-- Use Zsh as my shell together with [Antibody](https://github.com/getantibody/antibody) to install [Zsh plugins I use](https://wiki.nikitavoloboev.xyz/unix/shell/zsh/zsh-plugins.html).
-- Assigned w + j with [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) to open the app from Keyboard Maestro in seconds.
+- Use Zsh as my shell together with [Antibody](https://github.com/getantibody/antibody) to install [Zsh plugins I use](https://wiki.nikitavoloboev.xyz/unix/shell/zsh/zsh-plugins).
+- Assigned w + j with [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner) to open the app from Keyboard Maestro in seconds.
 - I made my own [Monokai Night theme](iterm#readme) for it.
 
 <img src="https://i.imgur.com/SQbqPLN.png" width="500" alt="img">
 
 - I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions.
 
-<img src="https://i.imgur.com/xZm6Y1A.png" width="500" alt="img">
+<img src="https://i.imgur.com/kdo0x8Y.png" width="500" alt="img">
 
-- I go over how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/iterm.html).
+- I go over how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/iterm).
 
 #### [Sublime Text](https://www.sublimetext.com) - Text Editor
 
 - Use this editor in addition to VS Code and Neovim for its blazing fast speed of opening files.
-- I use it primarily to edit markdown files like [my wiki](https://wiki.nikitavoloboev.xyz/other/wiki-workflow.html). I also edit config files and open large and small files for quick edits.
-- I use [many plugins](https://wiki.nikitavoloboev.xyz/text-editors/sublime-text/sublime-text-plugins.html) together with [Ayu theme](https://github.com/dempfi/ayu).
+- I use it primarily to edit markdown files like [my wiki](https://wiki.nikitavoloboev.xyz/other/wiki-workflow). I also edit config files and open large and small files for quick edits.
+- I use [many plugins](https://wiki.nikitavoloboev.xyz/text-editors/sublime-text/sublime-text-plugins) together with [Ayu theme](https://github.com/dempfi/ayu).
 
 #### [Dash](https://kapeli.com/dash) - API Documentation Browser
 
@@ -267,7 +267,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 #### [SnippetsLab](https://www.renfei.org/snippets-lab/) - Snippet manager
 
 - I use the app to manage my own personal library of snippets. I prefix all snippets I make. For example vim snippets are prefixed with `vim:`. Git related snippets with `git:` and so on.
-- This lets me then use the [Alfred workflow](https://www.renfei.org/snippets-lab/press-release/whats-new/osx-1.6.html) that the app's author provides to search for these snippets insanely fast.
+- This lets me then use the [Alfred workflow](https://www.renfei.org/snippets-lab/press-release/whats-new/osx-1.6) that the app's author provides to search for these snippets insanely fast.
 
 ![](https://i.imgur.com/QCrbftT.png)
 
@@ -275,7 +275,7 @@ Here is how my library looks:
 
 ![](https://i.imgur.com/F7j1MSk.png)
 
-- I share my entire library of snippets as [GitHub Gists](https://wiki.nikitavoloboev.xyz/sharing/my-gists.html).
+- I share my entire library of snippets as [GitHub Gists](https://wiki.nikitavoloboev.xyz/sharing/my-gists).
 
 #### [Tower](https://www.git-tower.com) - Git client
 
@@ -289,8 +289,8 @@ Here is how my library looks:
 #### [Neovim](https://neovim.io) - Text Editor
 
 - The best text editing experience you will ever get. It is worth learning it as you will start thinking about text editing differently.
-- I use some kind of vim bindings in any app I use and if there is a vim plugin for the app, I often use it. I use [vim editor](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim.html) often when connecting to remote sessions and when I need a console editor.
-- My [Neovim](https://github.com/neovim/neovim) config can be seen [here](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim). I use [Monokai Night theme](https://github.com/nikitavoloboev/vim-monokai-night#readme) with [many plugins](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim-plugins.html). Here is how it looks:
+- I use some kind of vim bindings in any app I use and if there is a vim plugin for the app, I often use it. I use [vim editor](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim) often when connecting to remote sessions and when I need a console editor.
+- My [Neovim](https://github.com/neovim/neovim) config can be seen [here](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim). I use [Monokai Night theme](https://github.com/nikitavoloboev/vim-monokai-night#readme) with [many plugins](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim-plugins). Here is how it looks:
 
 ![](https://i.imgur.com/sLXBvv7.png)
 
@@ -323,7 +323,7 @@ Here is how my library looks:
 #### [Tweetbot](http://tapbots.com/tweetbot/mac/) - Twitter client
 
 - I use the app to stay up to date and communicate on Twitter.
-- Tweetbot is also blocked for me during my [Focus time](https://wiki.nikitavoloboev.xyz/focusing/focusing.html). I can only post tweets but I can't visit the app to see my feeds.
+- Tweetbot is also blocked for me during my [Focus time](https://wiki.nikitavoloboev.xyz/focusing/focusing). I can only post tweets but I can't visit the app to see my feeds.
 - Twitter is my primary way to stay up to date on things and is my favorite social network after GitHub. I curate and publicly share all [Twitter lists](https://twitter.com/nikitavoloboev/lists) I personally use.
 - I have Tweetbot open in full screen with four columns (Mentions/[Top](https://twitter.com/nikitavoloboev/lists/top)/[ML](https://twitter.com/nikitavoloboev/lists/ml)/[Other](https://twitter.com/nikitavoloboev/lists/other1)). Here is how that looks for me:
 
@@ -335,7 +335,7 @@ Here is how my library looks:
 
 - Day One is my digital life journal.
 - My entire life's experiences lives encrypted in the journal. Adding photographs I made, the thoughts I had and events that happened to me.
-- I document and review [my life](https://wiki.nikitavoloboev.xyz/looking-back/looking-back.html) publicly too.
+- I document and review [my life](https://wiki.nikitavoloboev.xyz/looking-back/looking-back) publicly too.
 - The app has integration with [IFTTT](https://ifttt.com/day_one) which I use to automatically log all [my tweets](https://twitter.com/nikitavoloboev) and [Instagram posts](https://instagram.com/nikitavoloboev).
 - If you don't journal, I suggest you to start, it is a very powerful mind cleanser and acts as a wonderful history record of your life.
 
@@ -351,7 +351,7 @@ Here is how my library looks:
 
 ![](https://i.imgur.com/5yfxluP.png)
 
-- I describe my thoughts and approach to writing [here](https://wiki.nikitavoloboev.xyz/writing/writing.html).
+- I describe my thoughts and approach to writing [here](https://wiki.nikitavoloboev.xyz/writing/writing).
 
 #### [Marked](http://marked2app.com) - Preview rendered markdown files
 
@@ -433,9 +433,9 @@ Here is how my library looks:
 ##### Safari Extensions
 
 - [sVim](https://github.com/flipxfx/sVim) - Adds a custom layer of keybinds you can customize to personalize your browsing experience. [My config](https://gist.github.com/c26e6a05e4e426e0542e55b7513b581c).
-- [Wipr](https://itunes.apple.com/nl/app/wipr/id1320666476?l=en&mt=12) - Ad content blocker that uses [Safari native content blocking API's](https://developer.apple.com/library/content/documentation/Extensions/Conceptual/ContentBlockingRules/Introduction/Introduction.html).
+- [Wipr](https://itunes.apple.com/nl/app/wipr/id1320666476?l=en&mt=12) - Ad content blocker that uses [Safari native content blocking API's](https://developer.apple.com/library/content/documentation/Extensions/Conceptual/ContentBlockingRules/Introduction/Introduction).
 - [1Password](https://agilebits.com/onepassword/extensions) - [1Password](https://1password.com) is a phenomenal password manager, this extension just gives a seamless interaction of it with the browser.
-- [Cascadea](https://cascadea.app) - Custom styles extension. Use it to create dark themes for apps that don't have a dark mode option. Also allows importing of [Stylish themes](https://wiki.nikitavoloboev.xyz/web/browsers/stylish-themes.html).
+- [Cascadea](https://cascadea.app) - Custom styles extension. Use it to create dark themes for apps that don't have a dark mode option. Also allows importing of [Stylish themes](https://wiki.nikitavoloboev.xyz/web/browsers/stylish-themes).
 
 #### [Google Chrome](https://www.google.com/chrome/)
 
@@ -464,7 +464,7 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, APIs, and sites in seconds to AWS.
 - [jq](https://github.com/stedolan/jq) - JSON processor.
 - [git](https://github.com/git/git) - Version control.
-- [curl](https://curl.haxx.se/docs/manpage.html) - Transfer data from or to a server.
+- [curl](https://curl.haxx.se/docs/manpage) - Transfer data from or to a server.
 - [youtube-dl](https://github.com/rg3/youtube-dl) - Download videos from YouTube and other video sites.
 - [tmux](https://github.com/tmux/tmux) - Terminal multiplexer.
 - [direnv](https://direnv.net/) - Environment switcher for the shell.
@@ -479,7 +479,7 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers.
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
 - [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
-- [imgcat](https://github.com/eddieantonio/imgcat) - Like [cat](http://www.linfo.org/cat.html) but for images.
+- [imgcat](https://github.com/eddieantonio/imgcat) - Like [cat](http://www.linfo.org/cat) but for images.
 - [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal.
 - [hugo](https://github.com/gohugoio/hugo) - Fast and flexible static site generator.
 - [reflex](https://github.com/cespare/reflex) - Run a command when files change.
@@ -510,7 +510,7 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 
 - [GPG Suite](https://gpgtools.org/) - Encrypt, decrypt, sign and verify files or messages.
 - [RCDefaultApp](http://www.rubicode.com/Software/RCDefaultApp/) - Set the default application used for various URL schemes, file extensions, file types, MIME types, and Uniform Type Identifiers.
-- [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - Gives you access to additional preference settings Apple has built into macOS.
+- [TinkerTool](https://www.bresink.com/osx/TinkerTool) - Gives you access to additional preference settings Apple has built into macOS.
 
 I also [share screenshots of all the changes to System Preferences I have made](https://imgur.com/a/rlkOyUg).
 
@@ -530,7 +530,7 @@ I also [share screenshots of all the changes to System Preferences I have made](
 
 ![](https://i.imgur.com/PsZMur5.jpg)
 
-> Having a [unified theme](https://wiki.nikitavoloboev.xyz/design/monokai-night-themes.html) across apps is amazing
+> Having a [unified theme](https://wiki.nikitavoloboev.xyz/design/monokai-night-themes) across apps is amazing
 
 ## Launchpad
 
