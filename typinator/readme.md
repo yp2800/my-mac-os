@@ -1,6 +1,6 @@
 # My Typinator Sets
 
-I wrote about how I use [Typinator](https://wiki.nikitavoloboev.xyz/macOS/apps/typinator.html) and [Keyboard Maestro](https://wiki.nikitavoloboev.xyz/macOS/apps/keyboard-maestro/keyboard-maestro.html) together to automate writing in an article you can read [here](https://medium.com/@nikitavoloboev/write-once-never-write-again-c2fa1f6c4e8).
+I wrote about how I use [Typinator](https://wiki.nikitavoloboev.xyz/macOS/apps/typinator) and [Keyboard Maestro](https://wiki.nikitavoloboev.xyz/macOS/apps/keyboard-maestro/keyboard-maestro) together to automate writing in an article you can read [here](https://medium.com/@nikitavoloboev/write-once-never-write-again-c2fa1f6c4e8).
 
 Here you can find the different Sets that I use in Typinator to speed up my writing.
 
@@ -16,13 +16,13 @@ The Sets can be found in [this folder](./sets) and here is their explanation. I 
 8. Bash - Bash snippets.
 9. Markdown - Quick expansions of badges and other things.
 10. HTML - HTML snippets.
-11. Fantastical - Expansions for [easing entering of natural input](https://medium.com/@nikitavoloboev/fantastical-natural-input-text-expansions-3ea8cf7ccac3#.pv5937ncr) in [Fantastical app](https://wiki.nikitavoloboev.xyz/macOS/apps/fantastical.html).
+11. Fantastical - Expansions for [easing entering of natural input](https://medium.com/@nikitavoloboev/fantastical-natural-input-text-expansions-3ea8cf7ccac3#.pv5937ncr) in [Fantastical app](https://wiki.nikitavoloboev.xyz/macOS/apps/fantastical).
 12. VS Code - Currently only holds `alfred build` task template. For code snippets, I use VS Code snippet engine itself.
 
 ![](https://i.imgur.com/YYHTdnP.png)
 
 > My Typinator Sets
 
-I use the same trick as in [KM](https://wiki.nikitavoloboev.xyz/macOS/apps/keyboard-maestro/km-macros.html) to indicate what information I should have in my clipboard before activating it by enclosing it inside `{}` like so:
+I use the same trick as in [KM](https://wiki.nikitavoloboev.xyz/macOS/apps/keyboard-maestro/km-macros) to indicate what information I should have in my clipboard before activating it by enclosing it inside `{}` like so:
 
 ![](https://i.imgur.com/CKyQ8gR.png)
