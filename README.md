@@ -509,7 +509,7 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 ## Preference Panes
 
 - [GPG Suite](https://gpgtools.org/) - Encrypt, decrypt, sign and verify files or messages.
-- [RCDefaultApp](http://www.rubicode.com/Software/RCDefaultApp/) - Set the default application used for various URL schemes, file extensions, file types, MIME types, and Uniform Type Identifiers.
+- [SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps/releases/latest) - Set the default application used for various URL schemes, file extensions, file types, MIME types, and Uniform Type Identifiers.
 - [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - Gives you access to additional preference settings Apple has built into macOS.
 
 I also [share screenshots of all the changes to System Preferences I have made](https://imgur.com/a/rlkOyUg).
