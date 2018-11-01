@@ -557,6 +557,7 @@ Here you can find more setups by other people that you can take ideas and inspir
 
 - [Works for me](https://works-for-me.github.io/) - Collection of developer toolkits.
 - [Use This Interviews](https://usesthis.com) - What do people use to get stuff done?
+- [Omar Bahareth's my-mac-os](https://github.com/obahareth/my-mac-os) - Another my-mac-os.
 
 ## Related
 
