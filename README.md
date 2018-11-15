@@ -240,7 +240,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - Assigned w + j with [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner) to open the app from Keyboard Maestro in seconds.
 - I made my own [Monokai Night theme](iterm#readme) for it.
 
-<img src="https://i.imgur.com/SQbqPLN.png" width="500" alt="img">
+<img src="https://i.imgur.com/UujRUMV.png" width="500" alt="img">
 
 - I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions.
 
