@@ -8,6 +8,19 @@
   line-height: 1.7em;
 }
 
+div.line[data-line-type="debug"] {
+  display: none;
+}
+
+div.session_indicator.message_buffer_session_indicator {
+  display: none;
+}
+
+/* TODO: centre it, remove the two white lines and decrease font size */
+div.date_indicator {
+  display: none;
+}
+
 body {
   color: #e7e7e7;
   height: 100%;
@@ -15,8 +28,8 @@ body {
   font-size: 11px;
   overflow: hidden;
   overflow-y: auto;
-  background-color: #1F1F1F;
-  font-family: 'Lucida Grande';
+  background-color: #1f1f1f;
+  font-family: "Lucida Grande";
 }
 
 body div#body_home {
@@ -32,7 +45,7 @@ body div#body_home {
   -webkit-transition: opacity 0.8s linear;
 }
 
-body[viewldata-line-type*='channel'] div#body_home {
+body[viewldata-line-type*="channel"] div#body_home {
   max-height: 96.5%;
 }
 
@@ -41,26 +54,26 @@ body .line {
   clear: both;
 }
 
-body[dir='rtl'] .sender {
+body[dir="rtl"] .sender {
   display: inline-block;
 }
 
 /* Scrolling */
 
-body[data-custom-scroller='true']::-webkit-scrollbar {
+body[data-custom-scroller="true"]::-webkit-scrollbar {
   width: 17px;
 }
 
-body[data-custom-scroller='true']::-webkit-scrollbar:horizontal {
+body[data-custom-scroller="true"]::-webkit-scrollbar:horizontal {
   height: 0;
 }
 
-body[data-custom-scroller='true']::-webkit-scrollbar-track {
+body[data-custom-scroller="true"]::-webkit-scrollbar-track {
   background: #393939;
   box-shadow: inset 1px 0px 0px 0px #4b4b4b;
 }
 
-body[data-custom-scroller='true']::-webkit-scrollbar-thumb {
+body[data-custom-scroller="true"]::-webkit-scrollbar-thumb {
   background-color: #7c7c7c;
   border: 4px solid transparent;
   border-left: 5px solid transparent;
@@ -68,7 +81,7 @@ body[data-custom-scroller='true']::-webkit-scrollbar-thumb {
   background-clip: content-box;
 }
 
-body[data-custom-scroller='true']::-webkit-scrollbar-thumb:hover {
+body[data-custom-scroller="true"]::-webkit-scrollbar-thumb:hover {
   background-color: #b0b0b0;
 }
 
@@ -94,7 +107,7 @@ body div#loading_screen {
 
 /* Time */
 
-body[dir='ltr'] .time {
+body[dir="ltr"] .time {
   font-size: 9px;
   color: #999;
   white-space: nowrap;
@@ -102,7 +115,7 @@ body[dir='ltr'] .time {
   padding-right: 10px;
 }
 
-body[dir='rtl'] .time {
+body[dir="rtl"] .time {
   color: #999;
   white-space: nowrap;
   padding-left: 0.4em;
@@ -194,7 +207,7 @@ a:hover {
   display: inline-block;
   line-height: 14px;
   font-size: 15px;
-  font-family: 'Helvetica Neue' !important;
+  font-family: "Helvetica Neue" !important;
   text-indent: 7px;
   width: 16px;
   height: 16px;
@@ -203,14 +216,14 @@ a:hover {
   padding-left: 0px;
 }
 
-html[data-system-version^='10.9'] .inlineImageCell .closeButton,
-html[data-system-version^='10.8'] .inlineImageCell .closeButton {
+html[data-system-version^="10.9"] .inlineImageCell .closeButton,
+html[data-system-version^="10.8"] .inlineImageCell .closeButton {
   line-height: 13px;
 }
 
 /* Remember Line */
 
-div[id='mark'] {
+div[id="mark"] {
   position: relative;
   clear: both;
   z-index: 295;
@@ -226,27 +239,29 @@ div[id='mark'] {
   cursor: pointer;
 }
 
-body div.line[data-line-type*='privmsg']:not(.selectedUser),
-body div.line[data-line-type*='action']:not(.selectedUser) {
+body div.line[data-line-type*="privmsg"]:not(.selectedUser),
+body div.line[data-line-type*="action"]:not(.selectedUser) {
   transition-property: border-top, border-bottom, background-color;
   transition-duration: 0.5s, 0.5s, 0.5s;
 }
 
-body div.line[data-line-type*='privmsg'] .time:not(.selectedUser),
-body div.line[data-line-type*='action'] .time:not(.selectedUser) {
+body div.line[data-line-type*="privmsg"] .time:not(.selectedUser),
+body div.line[data-line-type*="action"] .time:not(.selectedUser) {
   transition: color 0.5s;
 }
 
-body div.line.selectedUser[data-highlight='false'] .time {
+body div.line.selectedUser[data-highlight="false"] .time {
   transition: color 0.5s ease-in;
   color: #aaa;
 }
 
-body div.line.selectedUser[data-line-type*='privmsg'][data-member-type*='myself'] .time {
+body
+  div.line.selectedUser[data-line-type*="privmsg"][data-member-type*="myself"]
+  .time {
   color: #fff;
 }
 
-body div.line.selectedUser[data-highlight='false'] {
+body div.line.selectedUser[data-highlight="false"] {
   transition-property: border-top, border-bottom, background-color;
   transition-duration: 0.5s, 0.5s, 0.5s;
 
@@ -272,19 +287,19 @@ body div.line.selectedUser[data-highlight='false'] {
   height: auto;
 }
 
-#historic_messages[isreload='false'].loaded {
+#historic_messages[isreload="false"].loaded {
   opacity: 0.6;
 }
 
-#historic_messages[isreload='true'].loaded {
+#historic_messages[isreload="true"].loaded {
   opacity: 1;
 }
 
 /* NOTICE/CTCP/WALLOPS */
 
-body div.line[data-line-type*='ctcp'],
-body div.line[data-line-type*='notice'],
-body div.line[data-line-type*='wallops'] {
+body div.line[data-line-type*="ctcp"],
+body div.line[data-line-type*="notice"],
+body div.line[data-line-type*="wallops"] {
   color: #f00;
   z-index: 191;
   background: #400;
@@ -294,80 +309,77 @@ body div.line[data-line-type*='wallops'] {
   border-bottom: 1px solid #811;
 }
 
-body div[data-line-type*='notice'] .sender {
+body div[data-line-type*="notice"] .sender {
   color: #f00;
 }
 
 /* PRIVMSG */
 
-body div.line[data-line-type*='privmsg'][data-highlight='false'] {
+body div.line[data-line-type*="privmsg"][data-highlight="false"] {
   padding: 3px 5px 3px 5px;
 }
 
-body div.line[data-line-type*='privmsg'][data-highlight='true'],
-body div.line[data-line-type*='action'][data-highlight='true'] {
+body div.line[data-line-type*="privmsg"][data-highlight="true"],
+body div.line[data-line-type*="action"][data-highlight="true"] {
   padding: 2px 5px 2px 5px;
   border-top: 1px solid #988c00;
   border-bottom: 1px solid #988c00;
   background-color: #362c00 !important;
 }
 
-body div[ldata-line-type*='privmsg'] .message {
+body div[ldata-line-type*="privmsg"] .message {
   color: #aaa;
 }
 
-body div[data-line-type*='privmsg'] p[data-member-type*='myself'] .message {
+body div[data-line-type*="privmsg"] p[data-member-type*="myself"] .message {
   color: #fff;
-}
-
-body div[data-line-type*='privmsg'] .sender {
 }
 
 /* ACTION */
 
-body div.line[data-line-type*='action'] {
+body div.line[data-line-type*="action"] {
   padding: 3px 5px 3px 5px;
 }
 
-body div[ldata-line-type*='action'] .message {
+body div[ldata-line-type*="action"] .message {
   color: #aaa;
 }
 
-body div[data-line-type*='action'] .sender {
+body div[data-line-type*="action"] .sender {
   color: #aaa;
 }
 
-body div[data-line-type*='action'] p[data-member-type*='myself'] .sender,
-body div[data-line-type*='action'] p[data-member-type*='myself'] .message {
+body div[data-line-type*="action"] p[data-member-type*="myself"] .sender,
+body div[data-line-type*="action"] p[data-member-type*="myself"] .message {
   color: #ff6f6f;
 }
 
-body[dir='ltr'] div[data-line-type*='action'] .sender:before {
-  content: '\2022';
+body[dir="ltr"] div[data-line-type*="action"] .sender:before {
+  content: "\2022";
   margin-right: 0.4em;
 }
 
-body[dir='ltr'] div[data-line-type*='action'] .sender:after {
-  content: '';
+body[dir="ltr"] div[data-line-type*="action"] .sender:after {
+  content: "";
   /* margin-right: 0.4em; */
 }
 
-body[dir='rtl'] div[data-line-type*='action'] .sender:before {
-  content: '\2022';
+body[dir="rtl"] div[data-line-type*="action"] .sender:before {
+  content: "\2022";
   margin-left: 0.4em;
 }
 
-body[dir='rtl'] div[data-line-type*='action'] .sender:after {
-  content: '';
+body[dir="rtl"] div[data-line-type*="action"] .sender:after {
+  content: "";
   /* margin-left: 0.4em; */
 }
 
 /* DEBUG/INVITE */
 
-body div.line[data-line-type*='invite'],
-body div.line[data-line-type*='debug'],
-body div.line[data-line-type*='dcc-file-transfer'],
-body div.line[data-line-type*='off-the-record-encryption-status'] {
+body div.line[data-line-type*="invite"],
+body div.line[data-line-type*="debug"],
+body div.line[data-line-type*="dcc-file-transfer"],
+body div.line[data-line-type*="off-the-record-encryption-status"] {
   color: #777;
   z-index: 190;
   background: #222;
@@ -378,7 +390,7 @@ body div.line[data-line-type*='off-the-record-encryption-status'] {
 }
 
 /* off-the-record-encryption-status Message Event */
-body div.line[data-line-type*='off-the-record-encryption-status'] .message {
+body div.line[data-line-type*="off-the-record-encryption-status"] .message {
   color: #ff0000;
   font-weight: 700;
 }
@@ -387,88 +399,93 @@ body div.line[data-line-type*='off-the-record-encryption-status'] .message {
 /* 720, 721, 722 are used by ShadowIRCd for Oper MOTD. */
 /* 372, 375, 376 are normal MOTD shared by several IRCds. */
 
-body div.line[data-command='372'],
-body div.line[data-command='721'] {
+body div.line[data-command="372"],
+body div.line[data-command="721"] {
   border: none;
   padding-top: 3px;
   padding-bottom: 3px;
 }
 
-body div.line[data-command='375'],
-body div.line[data-command='720'] {
+body div.line[data-command="375"],
+body div.line[data-command="720"] {
   /* Start. */
   border-bottom: none;
   padding-top: 2px;
   padding-bottom: 3px;
 }
 
-body div.line[data-command='376'],
-body div.line[data-command='722'] {
+body div.line[data-command="376"],
+body div.line[data-command="722"] {
   /* End. */
   border-top: none;
   padding-top: 3px;
   padding-bottom: 3px;
 }
 
-body div.line[data-command='372'] .message,
-body div.line[data-command='375'] .message,
-body div.line[data-command='376'] .message body div.line[data-command='720'] .message,
-body div.line[data-command='721'] .message,
-body div.line[data-command='722'] .message {
-  font-family: 'Menlo' !important;
+body div.line[data-command="372"] .message,
+body div.line[data-command="375"] .message,
+body
+  div.line[data-command="376"]
+  .message
+  body
+  div.line[data-command="720"]
+  .message,
+body div.line[data-command="721"] .message,
+body div.line[data-command="722"] .message {
+  font-family: "Menlo" !important;
 }
 
 /* GENERAL EVENT */
 
-body div.line[data-line-type*='join'],
-body div.line[data-line-type*='part'],
-body div.line[data-line-type*='kick'],
-body div.line[data-line-type*='quit'],
-body div.line[data-line-type*='kill'],
-body div.line[data-line-type*='nick'],
-body div.line[data-line-type*='mode'],
-body div.line[data-line-type*='topic'],
-body div.line[data-line-type*='website'] {
+body div.line[data-line-type*="join"],
+body div.line[data-line-type*="part"],
+body div.line[data-line-type*="kick"],
+body div.line[data-line-type*="quit"],
+body div.line[data-line-type*="kill"],
+body div.line[data-line-type*="nick"],
+body div.line[data-line-type*="mode"],
+body div.line[data-line-type*="topic"],
+body div.line[data-line-type*="website"] {
   padding: 3px 5px 3px 5px;
   color: #666;
 }
 
-body[dir='ltr'] div[data-line-type*='join'] .message:before {
-  content: '→';
+body[dir="ltr"] div[data-line-type*="join"] .message:before {
+  content: "→";
   color: #0c0;
   /* margin-right: 0.4em; */
 }
 
-body[dir='ltr'] div[data-line-type*='kick'] .message:before,
-body[dir='ltr'] div[data-line-type*='part'] .message:before,
-body[dir='ltr'] div[data-line-type*='quit'] .message:before {
-  content: '←';
+body[dir="ltr"] div[data-line-type*="kick"] .message:before,
+body[dir="ltr"] div[data-line-type*="part"] .message:before,
+body[dir="ltr"] div[data-line-type*="quit"] .message:before {
+  content: "←";
   color: #e00;
   /* margin-right: 0.4em; */
 }
 
-body[dir='ltr'] div[data-line-type*='nick'] .message:before {
-  content: '•';
+body[dir="ltr"] div[data-line-type*="nick"] .message:before {
+  content: "•";
   color: #0c0;
   /* margin-right: 0.4em; */
 }
 
-body[dir='rtl'] div[data-line-type*='join'] .message:before {
-  content: '→';
+body[dir="rtl"] div[data-line-type*="join"] .message:before {
+  content: "→";
   color: #0c0;
   /* margin-left: 0.4em; */
 }
 
-body[dir='rtl'] div[data-line-type*='kick'] .message:before,
-body[dir='rtl'] div[data-line-type*='part'] .message:before,
-body[dir='rtl'] div[data-line-type*='quit'] .message:before {
-  content: '←';
+body[dir="rtl"] div[data-line-type*="kick"] .message:before,
+body[dir="rtl"] div[data-line-type*="part"] .message:before,
+body[dir="rtl"] div[data-line-type*="quit"] .message:before {
+  content: "←";
   color: #e00;
   /* margin-left: 0.4em; */
 }
 
-body[dir='rtl'] div[data-line-type*='nick'] .message:before {
-  content: '•';
+body[dir="rtl"] div[data-line-type*="nick"] .message:before {
+  content: "•";
   color: #0c0;
   /* margin-left: 0.4em; */
 }
@@ -478,161 +495,161 @@ body[dir='rtl'] div[data-line-type*='nick'] .message:before {
 body .inline_nickname {
 }
 
-body div[data-line-type*='privmsg'] .sender[data-member-type*='myself'] {
+body div[data-line-type*="privmsg"] .sender[data-member-type*="myself"] {
   color: #ff6f6f;
 }
 
-body .sender[data-member-type*='normal'][colornumber='0'],
-body .inline_nickname[colornumber='0'] {
+body .sender[data-member-type*="normal"][colornumber="0"],
+body .inline_nickname[colornumber="0"] {
   color: #ff91fe;
 }
 
-body .sender[data-member-type*='normal'][colornumber='1'],
-body .inline_nickname[colornumber='1'] {
+body .sender[data-member-type*="normal"][colornumber="1"],
+body .inline_nickname[colornumber="1"] {
   color: #ca91ff;
 }
 
-body .sender[data-member-type*='normal'][colornumber='2'],
-body .inline_nickname[colornumber='2'] {
+body .sender[data-member-type*="normal"][colornumber="2"],
+body .inline_nickname[colornumber="2"] {
   color: #9194ff;
 }
 
-body .sender[data-member-type*='normal'][colornumber='3'],
-body .inline_nickname[colornumber='3'] {
+body .sender[data-member-type*="normal"][colornumber="3"],
+body .inline_nickname[colornumber="3"] {
   color: #91d2ff;
 }
 
-body .sender[data-member-type*='normal'][colornumber='4'],
-body .inline_nickname[colornumber='4'] {
+body .sender[data-member-type*="normal"][colornumber="4"],
+body .inline_nickname[colornumber="4"] {
   color: #91ffcf;
 }
 
-body .sender[data-member-type*='normal'][colornumber='5'],
-body .inline_nickname[colornumber='5'] {
+body .sender[data-member-type*="normal"][colornumber="5"],
+body .inline_nickname[colornumber="5"] {
   color: #91ff94;
 }
 
-body .sender[data-member-type*='normal'][colornumber='6'],
-body .inline_nickname[colornumber='6'] {
+body .sender[data-member-type*="normal"][colornumber="6"],
+body .inline_nickname[colornumber="6"] {
   color: #c0ff91;
 }
 
-body .sender[data-member-type*='normal'][colornumber='7'],
-body .inline_nickname[colornumber='7'] {
+body .sender[data-member-type*="normal"][colornumber="7"],
+body .inline_nickname[colornumber="7"] {
   color: #f9ff91;
 }
 
-body .sender[data-member-type*='normal'][colornumber='8'],
-body .inline_nickname[colornumber='8'] {
+body .sender[data-member-type*="normal"][colornumber="8"],
+body .inline_nickname[colornumber="8"] {
   color: #ffc291;
 }
 
-body .sender[data-member-type*='normal'][colornumber='9'],
-body .inline_nickname[colornumber='9'] {
+body .sender[data-member-type*="normal"][colornumber="9"],
+body .inline_nickname[colornumber="9"] {
   color: #ff4bac;
 }
 
-body .sender[data-member-type*='normal'][colornumber='10'],
-body .inline_nickname[colornumber='10'] {
+body .sender[data-member-type*="normal"][colornumber="10"],
+body .inline_nickname[colornumber="10"] {
   color: #e85bf9;
 }
 
-body .sender[data-member-type*='normal'][colornumber='11'],
-body .inline_nickname[colornumber='11'] {
+body .sender[data-member-type*="normal"][colornumber="11"],
+body .inline_nickname[colornumber="11"] {
   color: #9e69ff;
 }
 
-body .sender[data-member-type*='normal'][colornumber='12'],
-body .inline_nickname[colornumber='12'] {
+body .sender[data-member-type*="normal"][colornumber="12"],
+body .inline_nickname[colornumber="12"] {
   color: #7f99f9;
 }
 
-body .sender[data-member-type*='normal'][colornumber='13'],
-body .inline_nickname[colornumber='13'] {
+body .sender[data-member-type*="normal"][colornumber="13"],
+body .inline_nickname[colornumber="13"] {
   color: #4bc6ff;
 }
 
-body .sender[data-member-type*='normal'][colornumber='14'],
-body .inline_nickname[colornumber='14'] {
+body .sender[data-member-type*="normal"][colornumber="14"],
+body .inline_nickname[colornumber="14"] {
   color: #4bffdb;
 }
 
-body .sender[data-member-type*='normal'][colornumber='15'],
-body .inline_nickname[colornumber='15'] {
+body .sender[data-member-type*="normal"][colornumber="15"],
+body .inline_nickname[colornumber="15"] {
   color: #4bff93;
 }
 
-body .sender[data-member-type*='normal'][colornumber='16'],
-body .inline_nickname[colornumber='16'] {
+body .sender[data-member-type*="normal"][colornumber="16"],
+body .inline_nickname[colornumber="16"] {
   color: #4bff4f;
 }
 
-body .sender[data-member-type*='normal'][colornumber='17'],
-body .inline_nickname[colornumber='17'] {
+body .sender[data-member-type*="normal"][colornumber="17"],
+body .inline_nickname[colornumber="17"] {
   color: #97ff4b;
 }
 
-body .sender[data-member-type*='normal'][colornumber='18'],
-body .inline_nickname[colornumber='18'] {
+body .sender[data-member-type*="normal"][colornumber="18"],
+body .inline_nickname[colornumber="18"] {
   color: #e3ff4b;
 }
 
-body .sender[data-member-type*='normal'][colornumber='19'],
-body .inline_nickname[colornumber='19'] {
+body .sender[data-member-type*="normal"][colornumber="19"],
+body .inline_nickname[colornumber="19"] {
   color: #ffb94b;
 }
 
-body .sender[data-member-type*='normal'][colornumber='20'],
-body .inline_nickname[colornumber='20'] {
+body .sender[data-member-type*="normal"][colornumber="20"],
+body .inline_nickname[colornumber="20"] {
   color: #ff824b;
 }
 
-body .sender[data-member-type*='normal'][colornumber='21'],
-body .inline_nickname[colornumber='21'] {
+body .sender[data-member-type*="normal"][colornumber="21"],
+body .inline_nickname[colornumber="21"] {
   color: #d05e2c;
 }
 
-body .sender[data-member-type*='normal'][colornumber='22'],
-body .inline_nickname[colornumber='22'] {
+body .sender[data-member-type*="normal"][colornumber="22"],
+body .inline_nickname[colornumber="22"] {
   color: #cab732;
 }
 
-body .sender[data-member-type*='normal'][colornumber='23'],
-body .inline_nickname[colornumber='23'] {
+body .sender[data-member-type*="normal"][colornumber="23"],
+body .inline_nickname[colornumber="23"] {
   color: #97de10;
 }
 
-body .sender[data-member-type*='normal'][colornumber='24'],
-body .inline_nickname[colornumber='24'] {
+body .sender[data-member-type*="normal"][colornumber="24"],
+body .inline_nickname[colornumber="24"] {
   color: #95c990;
 }
 
-body .sender[data-member-type*='normal'][colornumber='25'],
-body .inline_nickname[colornumber='25'] {
+body .sender[data-member-type*="normal"][colornumber="25"],
+body .inline_nickname[colornumber="25"] {
   color: #04bb5f;
 }
 
-body .sender[data-member-type*='normal'][colornumber='26'],
-body .inline_nickname[colornumber='26'] {
+body .sender[data-member-type*="normal"][colornumber="26"],
+body .inline_nickname[colornumber="26"] {
   color: #09c1cc;
 }
 
-body .sender[data-member-type*='normal'][colornumber='27'],
-body .inline_nickname[colornumber='27'] {
+body .sender[data-member-type*="normal"][colornumber="27"],
+body .inline_nickname[colornumber="27"] {
   color: #5baeed;
 }
 
-body .sender[data-member-type*='normal'][colornumber='28'],
-body .inline_nickname[colornumber='28'] {
+body .sender[data-member-type*="normal"][colornumber="28"],
+body .inline_nickname[colornumber="28"] {
   color: #9d4ef6;
 }
 
-body .sender[data-member-type*='normal'][colornumber='29'],
-body .inline_nickname[colornumber='29'] {
+body .sender[data-member-type*="normal"][colornumber="29"],
+body .inline_nickname[colornumber="29"] {
   color: #ac69cb;
 }
 
-body .sender[data-member-type*='normal'][colornumber='30'],
-body .inline_nickname[colornumber='30'] {
+body .sender[data-member-type*="normal"][colornumber="30"],
+body .inline_nickname[colornumber="30"] {
   color: #b902c9;
 }
