@@ -329,6 +329,10 @@ Here is how my library looks:
 
 ![](https://i.imgur.com/n60bl8w.jpg)
 
+#### [Sblack](https://www.sblack.online/) - Slack client (native)
+
+- Use it to replace the official bloated mess that Slack app is. Love its dark mode feature, fast startup time and lower RAM usage.
+
 ### Writing
 
 #### [Day One](http://dayoneapp.com/) - Digital journal
