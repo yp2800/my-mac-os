@@ -157,9 +157,9 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - I use [Focus app](https://heyfocus.com) as a recurring [pomodoro timer](https://en.wikipedia.org/wiki/Pomodoro_Technique) which lets me work in sessions of 80 minutes with 10 min breaks by blocking [distracting websites](https://gist.github.com/nikitavoloboev/57340528a6dfb3eb498dce647ed6841f) and apps.
 
-<img src="https://i.imgur.com/B9Tsaxf.png" width="500" alt="img">
+<img src="https://i.imgur.com/H7TMqgS.png" width="500" alt="img">
 
-<img src="https://i.imgur.com/r6ff6Cr.png" width="500" alt="img">
+<img src="https://i.imgur.com/MZGyqQe.png" width="500" alt="img">
 
 - If I go to any of my blocked websites during my `Focus` time, I am greeted with this message.
 
