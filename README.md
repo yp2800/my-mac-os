@@ -2,7 +2,7 @@
 
 > List of applications and tools that make my macOS experience even more amazing
 
-![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/mac.png)
+![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/desktop.png)
 
 > All the apps are in one desktop because there is delay in switching between macOS multiple desktops
 
@@ -538,7 +538,7 @@ I also [share screenshots of all the changes to System Preferences I have made](
 
 ## Launchpad
 
-![](https://i.imgur.com/9KMDYfB.jpg)
+![](https://i.imgur.com/J8szqco.jpg)
 
 > I add a [small space in my Dock](https://www.imore.com/add-space-your-mac-dock) to separate apps I always have open with apps I seldom open
 
