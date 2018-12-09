@@ -39,7 +39,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - Alfred is a powerful launcher that you can program to show anything you want. It saved me a lot of time in my life.
 
-<img src="https://i.imgur.com/uzq1w5g.png" width="700" alt="img">
+<img src="https://i.imgur.com/5h1BMVO.png" width="700" alt="img">
 
 - It has a great [community](http://www.alfredforum.com/) and [amazing workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can use.
 
@@ -63,7 +63,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - I love GTD methodology. This app is phenomenal with helping me [organize my tasks](https://wiki.nikitavoloboev.xyz/macOS/apps/2do). Here is how my sidebar looks:
 
-<img src="https://i.imgur.com/DUY4OyO.png" width="150">
+<img src="https://i.imgur.com/Rnxd5ti.png" width="150">
 
 - It also has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more.
 
@@ -73,7 +73,8 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - I use the app a lot to track various projects I have in my life.
 - I share many boards I made [publicly](https://wiki.nikitavoloboev.xyz/sharing/my-trello). Here is an example of a public board for tracking various [things I want to learn](https://trello.com/b/cu32qF3q).
-  ![](https://i.imgur.com/7sAVX9E.png)
+
+![](https://i.imgur.com/oDw8Gb0.jpg)
 
 - I assign myself to the cards I am working on now and filter to see only them by [pressing Q key](https://trello.com/shortcuts). I mark cards I want to work on next with `Next` tag.
 
@@ -87,7 +88,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - I use Timing app to fully automate tracking my time on my computer.
 - The fact that I can combine active and passive tracking together is very powerful and allows me to be more aware of where I spend my time.
 
-![](https://i.imgur.com/CS5boja.png)
+![](https://i.imgur.com/KE7Fk35.png)
 
 #### [MindNode](https://mindnode.com) - Interactive Mind Mapping
 
@@ -128,7 +129,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - Allows me to fuzzy search through all the currently active windows that I have.
 
-![](https://i.imgur.com/hwlVhMK.png)
+![](https://i.imgur.com/ZiRGtFc.png)
 
 - Makes jumping to the right window I need effortless. I often may have many VS Code instances with different projects running and this lets me switch to the project I need in seconds.
 
@@ -136,7 +137,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - Use the app to [dissect problems I am trying to solve into smaller and smaller parts I can work on](https://wiki.nikitavoloboev.xyz/research/solving-problems).
 
-![](https://i.imgur.com/MyFIf09.png)
+![](https://i.imgur.com/2pGHIOu.png)
 
 #### [Dictionary](<http://www.wikiwand.com/en/Dictionary_(software)>)
 
@@ -149,7 +150,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - Allows you to customize and hide the contents of your menu bar and improve the aesthetics of your OS. Here is how mine looks:
 
-<img src="https://i.imgur.com/hOzJiDK.png" width="500" alt="img">
+<img src="https://i.imgur.com/ER32snR.png" width="500" alt="img">
 
 - My menu bar is always hidden so I rarely ever use it and I show most needed info on the [TouchBar](btt#readme) instead.
 
@@ -179,7 +180,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 #### [Noizio](http://noiz.io/) - Ambient sounds
 
-- I never listen to music when I want to focus on something as it is distracting. Instead I listen to sounds of rain, train or fire.
+- I sometimes like listening to sounds of rain, train or fire to focus. Although Nils Frahm [is better](https://open.spotify.com/track/2OroSHoRb4Sev1Jw82GN07).to music when I want to focus on something as it is distracting. Instead I listen to sounds of rain, train or fire.
 
 #### [Hammerspoon](http://www.hammerspoon.org) - Automation tool
 
@@ -325,9 +326,9 @@ Here is how my library looks:
 - I use the app to stay up to date and communicate on Twitter.
 - Tweetbot is also blocked for me during my [Focus time](https://wiki.nikitavoloboev.xyz/focusing/focusing). I can only post tweets but I can't visit the app to see my feeds.
 - Twitter is my primary way to stay up to date on things and is my favorite social network after GitHub. I curate and publicly share all [Twitter lists](https://twitter.com/nikitavoloboev/lists) I personally use.
-- I have Tweetbot open in full screen with four columns (Mentions/[Top](https://twitter.com/nikitavoloboev/lists/top)/[ML](https://twitter.com/nikitavoloboev/lists/ml)/[Other](https://twitter.com/nikitavoloboev/lists/other1)). Here is how that looks for me:
+- I have Tweetbot open in full screen with three columns (Mentions/[Top](https://twitter.com/nikitavoloboev/lists/top)/[Software](https://twitter.com/nikitavoloboev/lists/softeare)). Here is how that looks for me:
 
-![](https://i.imgur.com/n60bl8w.jpg)
+![](https://i.imgur.com/OO7hz6i.png)
 
 #### [Sblack](https://www.sblack.online/) - Slack client (native)
 
