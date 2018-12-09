@@ -180,7 +180,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 #### [Noizio](http://noiz.io/) - Ambient sounds
 
-- I sometimes like listening to sounds of rain, train or fire to focus. Although Nils Frahm [is better](https://open.spotify.com/track/2OroSHoRb4Sev1Jw82GN07).to music when I want to focus on something as it is distracting. Instead I listen to sounds of rain, train or fire.
+- I sometimes like listening to sounds of rain, train or fire to focus. Although Nils Frahm [is better](https://open.spotify.com/track/2OroSHoRb4Sev1Jw82GN07).
 
 #### [Hammerspoon](http://www.hammerspoon.org) - Automation tool
 
