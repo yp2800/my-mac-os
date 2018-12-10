@@ -441,6 +441,7 @@ Here is how my library looks:
 - [Wipr](https://itunes.apple.com/nl/app/wipr/id1320666476?l=en&mt=12) - Ad content blocker that uses [Safari native content blocking API's](https://developer.apple.com/library/content/documentation/Extensions/Conceptual/ContentBlockingRules/Introduction/Introduction.html).
 - [1Password](https://agilebits.com/onepassword/extensions) - [1Password](https://1password.com) is a phenomenal password manager, this extension just gives a seamless interaction of it with the browser.
 - [Cascadea](https://cascadea.app) - Custom styles extension. Use it to create dark themes for apps that don't have a dark mode option. Also allows importing of [Stylish themes](https://wiki.nikitavoloboev.xyz/web/browsers/stylish-themes).
+- [Dark Reader](https://darkreader.org/safari/) - On websites that don't have a nice Stylish theme, I like to use Dark Reader to turn all the websites I visit to dark mode. It works surprisingly well.
 
 #### [Google Chrome](https://www.google.com/chrome/)
 
