@@ -458,7 +458,7 @@ Here is how my library looks:
 
 ## Command Line Apps
 
-I use [Nix](https://nixos.org/nix/) package manager to install all the [packages I use on my system](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034).
+I use [Nix](https://nixos.org/nix/) package manager to install all the [packages I use on my system](https://github.com/nikitavoloboev/dotfiles/blob/master/nix/darwin.nix#L6).
 
 I curate a list of [interesting CLI tools](https://github.com/learn-anything/command-line-tools#readme) you can use. Below are some command line tools I personally use and love.
 
