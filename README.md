@@ -372,7 +372,7 @@ Here is how my library looks:
 
 - A great color picker I use to collect my favorite colors and color schemes.
 
-<img src="https://i.imgur.com/ZSiZ5QA.png" width="400" alt="img">
+<img src="https://i.imgur.com/i8lJ1HO.png" width="400" alt="img">
 
 #### [PixelSnap](https://getpixelsnap.com/) - Measure everything on screen
 
