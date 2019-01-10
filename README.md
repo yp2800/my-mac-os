@@ -139,7 +139,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 ![](https://i.imgur.com/2pGHIOu.png)
 
-#### [Dictionary](<http://www.wikiwand.com/en/Dictionary_(software)>)
+#### [Dictionary](<http://en.wikipedia.org/wiki/Dictionary_(software)>)
 
 - Comes natively with macOS and I started to love using it for exploring and searching through Wikipedia.
 - It is incredibly fast to make the searches and it gives quick autosuggestions for any query I type that I can then select with up and down arrows.
