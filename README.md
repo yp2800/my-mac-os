@@ -511,6 +511,7 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [devd](https://github.com/cortesi/devd) - Local webserver for developers.
 - [wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the WiFi you're on.
 - [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes.
+- [ran](https://github.com/m3ng9i/ran) - Simple static web server written in Go.
 
 ## Preference Panes
 
