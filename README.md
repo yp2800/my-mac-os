@@ -393,7 +393,8 @@ Here is how my library looks:
 
 - I use Pixave as my own personal image library. I sort images in groups and I have powerful search I can use to find any image I need.
 - Here is how my library looks like:
-  ![](https://i.imgur.com/MjGFvSb.jpg)
+
+![](https://i.imgur.com/whsKA9y.jpg)
 
 - The red tag means that the image was uploaded to my [Instagram page](https://instagram.com/prettiways).
 
