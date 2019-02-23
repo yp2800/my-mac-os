@@ -67,7 +67,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - It also has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more.
 
-<img src="https://i.imgur.com/b9lGFs0.png" width="400" alt="img">
+<img src="https://i.imgur.com/QuBsexM.png" width="400" alt="img">
 
 #### [Trello](https://trello.com) - Project management tool
 
