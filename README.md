@@ -74,7 +74,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - I use the app a lot to track various projects I have in my life.
 - I share many boards I made [publicly](https://wiki.nikitavoloboev.xyz/sharing/my-trello). Here is an example of a public board for tracking various [things I want to learn](https://trello.com/b/cu32qF3q).
 
-![](https://i.imgur.com/oDw8Gb0.jpg)
+![](https://i.imgur.com/0l8Ivd5.jpg)
 
 - I assign myself to the cards I am working on now and filter to see only them by [pressing Q key](https://trello.com/shortcuts). I mark cards I want to work on next with `Next` tag.
 
