@@ -344,20 +344,6 @@ Here is how my library looks:
 - The app has integration with [IFTTT](https://ifttt.com/day_one) which I use to automatically log all [my tweets](https://twitter.com/nikitavoloboev) and [Instagram posts](https://instagram.com/nikitavoloboev).
 - If you don't journal, I suggest you to start, it is a very powerful mind cleanser and acts as a wonderful history record of your life.
 
-#### [Ulysses](http://www.ulyssesapp.com/) - Writing app
-
-- The app I use to write all my [Medium](https://medium.com/@nikitavoloboev) articles in.
-- All your writing in one place is the motto and the underlying design of the app. I hook up my [wiki](https://github.com/nikitavoloboev/knowledge) as an external folder and I love how it creates an index of everything that I can search over:
-
-<img src="http://i.imgur.com/Aa17RCQ.png" width="500" alt="img">
-
-- It also has pretty awesome export functions that let you export the text you write to PDF, ePub and HTML. I mostly use it's ability to export text to Medium.
-- I use [Monokai Night](https://styles.ulyssesapp.com/bundle/Monokai+Night/5bbcb619b3dafa6b4e6d6bd4) theme when I write. Here is how it looks:
-
-![](https://i.imgur.com/5yfxluP.png)
-
-- I describe my thoughts and approach to writing [here](https://wiki.nikitavoloboev.xyz/writing/writing).
-
 #### [Marked](http://marked2app.com) - Preview rendered markdown files
 
 - If I ever need to preview a readme or any other markdown file that I wrote or just want to read, this app is the best application for that I found. It also features live updating and quite a lot of customizable features.
