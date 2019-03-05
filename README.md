@@ -537,13 +537,13 @@ I also [share screenshots of all the changes to System Preferences I have made](
 If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios#readme) going over what applications I use on iOS/WatchOS as well as how and why I use them.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/ia8SBRz.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/F1ptA7V.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/FuI1LgO.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/dXPfp7Q.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/3mVKnV0.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/UitATDh.jpg"></a>
 
 ## Similar Setups
 
