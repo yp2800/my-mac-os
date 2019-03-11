@@ -268,9 +268,9 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 #### [SnippetsLab](https://www.renfei.org/snippets-lab/) - Snippet manager
 
 - I use the app to manage my own personal library of snippets. I prefix all snippets I make. For example vim snippets are prefixed with `vim:`. Git related snippets with `git:` and so on.
-- This lets me then use the [Alfred workflow](https://www.renfei.org/snippets-lab/press-release/whats-new/osx-1.6) that the app's author provides to search for these snippets insanely fast.
+- The app also provides an awesome Assistant to quickly search through the snippet database:
 
-![](https://i.imgur.com/QCrbftT.png)
+![](https://i.imgur.com/ax2NZ5q.png)
 
 Here is how my library looks:
 
