@@ -17,3 +17,7 @@ Then go to Textual app. Go to preferences and in Styles click on `Browse Styles`
 ![](https://i.imgur.com/q5m1cGa.png)
 
 Put the downloaded folder inside the folder. You can read [this](https://help.codeux.com/textual/Styles.kb) for more information.
+
+## Monokai Night family
+
+This theme has been ported to [many other apps](https://wiki.nikitavoloboev.xyz/design/monokai-night-themes).

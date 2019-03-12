@@ -7,3 +7,7 @@ You can install the theme from [here](https://cdn.jsdelivr.net/gh/nikitavoloboev
 It goes well with [Pure Zsh plugin](https://github.com/sindresorhus/pure) and [Monokai Night theme for Vim](https://github.com/nikitavoloboev/vim-monokai-night#readme).
 
 ![](https://i.imgur.com/sLXBvv7.png)
+
+## Monokai Night family
+
+This theme has been ported to [many other apps](https://wiki.nikitavoloboev.xyz/design/monokai-night-themes).
