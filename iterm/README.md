@@ -1,6 +1,6 @@
-# Monokai Night theme for iTerm
+# Monokai Night theme for [iTerm](https://www.iterm2.com)
 
-You can install the theme from [here](https://cdn.rawgit.com/nikitavoloboev/my-mac-os/master/iterm/Monokai%20Night.itermcolors) and open it in iTerm. Here is how it looks:
+You can install the theme from [here](https://cdn.jsdelivr.net/gh/nikitavoloboev/my-mac-os@master/iterm/Monokai%20Night.itermcolors) and open it in iTerm. Here is how it looks:
 
 ![](https://i.imgur.com/ItDUF98.png)
 

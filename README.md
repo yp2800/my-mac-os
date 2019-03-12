@@ -96,9 +96,9 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 ![](https://raw.githubusercontent.com/learn-anything/learn-anything/2017/media/header.png)
 
-- I also use MindNode to visualize topics and their relations as an [interactive mind map](https://my.mindnode.com/dPmKpWZgTpZsaG4Rf1yaz7rXbYhnuqPDDpdss4w2#1594.8,-1084.6,1).
+- I also use MindNode to visualize topics and their relations as an [interactive mind map](https://my.mindnode.com/dPmKpWZgTpZsaG4Rf1yaz7rXbYhnuqPDDpdss4w2#1594.8,-1084.6,1). I use [Monokai Night](mindnode#readme) theme for it.
 
-![](https://i.imgur.com/uzNNYiz.png)
+![](https://i.imgur.com/Y7rqrKt.png)
 
 #### [Typinator](http://www.ergonis.com/products/typinator/) - Text expansions
 
