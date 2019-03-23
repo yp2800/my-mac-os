@@ -192,7 +192,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - I use [Inoreader](https://www.inoreader.com) to sync [blogs I follow](https://wiki.nikitavoloboev.xyz/research/blogs) between phone and mac.
 - Here is how Reeder looks like for me:
 
-![](https://i.imgur.com/XrURYlC.png)
+![](https://i.imgur.com/kT3WJtF.png)
 
 #### [Dropzone](https://aptonic.com) - Drag and drop actions
 
