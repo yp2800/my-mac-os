@@ -196,7 +196,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 #### [Dropzone](https://aptonic.com) - Drag and drop actions
 
-- A quick utility that pops up when I drag some file into it or open it with a hotkey, use it to upload images to [Imgur](http://imgur.com), dropping files into a preset number of folders that I made quickly as well as going to them in an instant.
+- A quick utility that pops up when I drag some file into it or open it with a hotkey. I use its [actions](https://atika.github.io/dropzone3-actions/) to [upload images to Imgur](https://www.dropbox.com/sh/yh78jmjw8ra43qb/AAAFJ0ba1WRkNY45FDjYPL00a?dl=1), [upload videos to YouTube](https://atika.github.io/dropzone3-actions/youtube-uploader-aptonic-software-action.html) & [searching images with Google](https://atika.github.io/dropzone3-actions/image-search-aptonic-software-action.html). I also use it to drop files into a preset number of common folders.
 
 <img src="https://i.imgur.com/5InxMrE.png" width="300" alt="img">
 
