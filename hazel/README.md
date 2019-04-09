@@ -1,6 +1,8 @@
 # Hazel rules
 
-I currently use Hazel to instantly commit any changes I make to all the [curated lists](https://github.com/learn-anything/curated-lists#readme) I maintain. As well as CSV files of [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches#readme) and [Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share#readme).
+I use [many Hazel rules](https://www.dropbox.com/sh/evudbskz1crl133/AADopIq0eO2bYARL8-yPKJcTa?dl=0).
+
+Currently I use Hazel to instantly commit any changes I make to all the [curated lists](https://github.com/learn-anything/curated-lists#readme) I maintain. As well as CSV files of [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches#readme) and [Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share#readme).
 
 I also automate committing the README of this [my macOS repo](https://github.com/nikitavoloboev/my-mac-os#readme) & [iOS](https://github.com/nikitavoloboev/my-ios#readme) repo as I want to instantly push any changes I make.
 
