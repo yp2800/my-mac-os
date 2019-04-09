@@ -4,7 +4,7 @@ I wrote about how I use [Typinator](https://wiki.nikitavoloboev.xyz/macOS/apps/t
 
 Here you can find the different Sets that I use in Typinator to speed up my writing.
 
-The Sets can be found in [this folder](./sets) and here is their explanation. I activate nearly all the snippets from Typinator quick search and thus most snippets won't have any kind of trigger.
+You can also find & download all the Typinator sets I use from [here](https://www.dropbox.com/sh/zf7nl9dmdwtj0sb/AAD40ljAyy-8Fe34m9heeCQRa?dl=0) and here is their explanation.
 
 1. Words - Single word expansions of words with more than 5-6 characters.
 2. Phrases - Some phrases I find myself saying often.
