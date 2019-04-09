@@ -11,3 +11,7 @@ It goes well with [Pure Zsh plugin](https://github.com/sindresorhus/pure) and [M
 ## Monokai Night family
 
 This theme has been ported to [many other apps](https://wiki.nikitavoloboev.xyz/design/monokai-night-themes).
+
+## iTerm settings
+
+I also share [my iTerm settings](https://www.dropbox.com/s/wx9ijtq4me8fttp/com.googlecode.iterm2.plist?dl=1).
