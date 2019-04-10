@@ -6,7 +6,7 @@ I used [PopMaker](http://brettterpstra.com/2014/05/12/popmaker-popclip-extension
 
 Here are all the extensions I have activated:
 
-![](https://i.imgur.com/3x35mIC.png)
+![](https://i.imgur.com/w736lg5.png)
 
 And here it is in action:
 
