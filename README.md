@@ -295,10 +295,6 @@ Here is how my library looks:
 
 ![](https://i.imgur.com/sLXBvv7.png)
 
-#### [Bee](https://www.neat.io/bee/) - GitHub Issue Tracker
-
-- Use the app to stay on top of all issues across my GitHub repos. All issues I want to work on soon are put into **Next** queue and I work through each one, one by one.
-
 ### Social
 
 #### [Textual](https://www.codeux.com/textual/) - IRC Client
