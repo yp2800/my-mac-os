@@ -501,13 +501,13 @@ I also [share screenshots of all the changes to System Preferences I have made](
 
 ## Monokai Night themes
 
-![](https://i.imgur.com/PsZMur5.jpg)
+![](https://i.imgur.com/Xffv68c.jpg)
 
 > Having a [unified theme](https://wiki.nikitavoloboev.xyz/design/monokai-night-themes) across apps is amazing
 
 ## Launchpad
 
-![](https://i.imgur.com/J8szqco.jpg)
+![](https://i.imgur.com/b7ZN816.jpg)
 
 > I add a [small space in my Dock](https://www.imore.com/add-space-your-mac-dock) to separate apps I always have open with apps I seldom open
 
