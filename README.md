@@ -212,13 +212,6 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - A torrent client that I use. Very minimal in its UI but very powerful and has all the features that I need.
 
-#### [Transmit](https://www.panic.com/transmit/) - Transfer files
-
-- I sometimes use this app to quickly send files from my local file system to the cloud and get a shareable link I can send to people.
-- I use [this Alfred workflow](https://github.com/bigluck/alfred2-transmit) to quickly open the cloud storage I need.
-
-<img src="https://i.imgur.com/TfCsokt.png" width="400" alt="img">
-
 #### [Paprika Recipe Manager](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222628?ls=1&mt=12)
 
 - Use the app to store the many [vegan recipes](https://github.com/nikitavoloboev/vegan-recipes#readme) I like to make.
