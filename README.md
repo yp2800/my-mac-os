@@ -96,7 +96,11 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 ![](https://raw.githubusercontent.com/learn-anything/learn-anything/2017/media/header.png)
 
-- I also use MindNode to visualize topics and their relations as an [interactive mind map](https://my.mindnode.com/dPmKpWZgTpZsaG4Rf1yaz7rXbYhnuqPDDpdss4w2#1594.8,-1084.6,1). I use [Monokai Night](mindnode#readme) theme for it.
+- I also use MindNode to [visually break down problems I am trying to solve](../research/solving-problems.md).
+
+![](https://i.imgur.com/qHAJdYk.png)
+
+- And I visualize topics and their relations as an [interactive mind map](https://my.mindnode.com/dPmKpWZgTpZsaG4Rf1yaz7rXbYhnuqPDDpdss4w2#1594.8,-1084.6,1). I use [Monokai Night](https://github.com/nikitavoloboev/my-mac-os/tree/master/mindnode#readme) theme for it.
 
 ![](https://i.imgur.com/Y7rqrKt.png)
 
@@ -132,12 +136,6 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 ![](https://i.imgur.com/ZiRGtFc.png)
 
 - Makes jumping to the right window I need effortless. I often may have many VS Code instances with different projects running and this lets me switch to the project I need in seconds.
-
-#### [TaskPaper](https://www.taskpaper.com) - Plain text TODOs
-
-- Use the app to [dissect problems I am trying to solve into smaller and smaller parts I can work on](https://wiki.nikitavoloboev.xyz/research/solving-problems).
-
-![](https://i.imgur.com/2pGHIOu.png)
 
 #### [Dictionary](<http://en.wikipedia.org/wiki/Dictionary_(software)>)
 
