@@ -273,7 +273,7 @@ Here is how my library looks:
 
 - Use the app to help me version control any project I am working on. Love the ability to search through commits, check out branches with ease and searching through all the Git repositories I have on my mac with quick search.
 
-![](https://i.imgur.com/Ez9MmLe.png)
+![](https://i.imgur.com/fwCDoKR.png)
 
 #### [Paw](https://paw.cloud) - HTTP client
 
