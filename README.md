@@ -395,10 +395,6 @@ Here is how my library looks:
 
 - Great system monitoring tools which I use to quickly see my CPU/network/memory usage. I find it very valuable to know if my CPU is being abused by some application and if so by which. I then use [ProcessControl](https://github.com/vitorgalvao/alfred-workflows/tree/master/ProcessControl#readme) workflow to quickly kill off misbehaving processes. Often times iStat Menus is deactivated for me to preserve battery.
 
-#### [PodcastMenu](https://github.com/insidegui/PodcastMenu) - Puts Overcast in menu bar
-
-- Allows you to listen and control playback of podcasts from [Overcast](https://overcast.fm) right from your menu bar.
-
 ### Browsers
 
 #### [Safari](https://www.apple.com/lae/safari/)
