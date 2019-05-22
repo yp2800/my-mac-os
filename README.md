@@ -158,7 +158,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 <img src="https://i.imgur.com/H7TMqgS.png" width="500" alt="img">
 
-<img src="https://i.imgur.com/MZGyqQe.png" width="500" alt="img">
+<img src="https://i.imgur.com/5lLgPaU.png" width="500" alt="img">
 
 - If I go to any of my blocked websites during my `Focus` time, I am greeted with this message.
 
@@ -178,7 +178,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 #### [Noizio](http://noiz.io/) - Ambient sounds
 
-- I sometimes like listening to sounds of rain, train or fire to focus. Although Nils Frahm [is better](https://open.spotify.com/track/2OroSHoRb4Sev1Jw82GN07).
+- I sometimes like listening to sounds of rain, train or fire to focus.
 
 #### [Hammerspoon](http://www.hammerspoon.org) - Automation tool
 
