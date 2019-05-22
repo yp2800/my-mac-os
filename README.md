@@ -265,7 +265,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 Here is how my library looks:
 
-![](https://i.imgur.com/F7j1MSk.png)
+![](https://i.imgur.com/4IstV5v.png)
 
 - I share my entire library of snippets as [GitHub Gists](https://wiki.nikitavoloboev.xyz/sharing/my-gists).
 
