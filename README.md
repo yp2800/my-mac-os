@@ -133,7 +133,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - Allows me to fuzzy search through all the currently active windows that I have.
 
-![](https://i.imgur.com/ZiRGtFc.png)
+![](https://i.imgur.com/VdNRlGM.png)
 
 - Makes jumping to the right window I need effortless. I often may have many VS Code instances with different projects running and this lets me switch to the project I need in seconds.
 
