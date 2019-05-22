@@ -495,7 +495,7 @@ I also [share screenshots of all the changes to System Preferences I have made](
 
 ## Alfred launcher
 
-![](https://i.imgur.com/k2hrurX.png)
+![](https://i.imgur.com/zsxhm46.png)
 
 > Searching [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything#readme). Using [Monokai Night theme](https://www.alfredapp.com/extras/theme/PQVZpeg4Zi/).
 
