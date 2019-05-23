@@ -4,22 +4,16 @@ I wrote about how I use [Typinator](https://wiki.nikitavoloboev.xyz/macOS/apps/t
 
 Here you can find the different Sets that I use in Typinator to speed up my writing.
 
-You can also find & download all the Typinator sets I use from [here](https://www.dropbox.com/sh/zf7nl9dmdwtj0sb/AAD40ljAyy-8Fe34m9heeCQRa?dl=0) and here is their explanation.
+You can also find & download all the Typinator sets I use from [here](https://www.dropbox.com/sh/7cfwu8q2nstqw65/AACPu7r1GIWn4_WE7pFwJ_n4a?dl=0) and here is their explanation.
 
-1. Words - Single word expansions of words with more than 5-6 characters.
-2. Phrases - Some phrases I find myself saying often.
-3. Sentences - Common sentences I found myself saying.
+1. Smart - Snippets with more complex embeddings like AppleScript output.
+2. Words - Single word expansions.
+3. Phrases - Some phrases I find myself saying often.
 4. Questions - Common questions I found myself asking.
-5. Corrections - Simple corrections like expanding 'eg ' to 'e.g.'.
-6. Smart paste - Snippets with more complex embeddings like AppleScript output.
-7. Dates - Expanding current date in different formats like DD/MM/YYYY.
-8. Bash - Bash snippets.
-9. Markdown - Quick expansions of badges and other things.
-10. HTML - HTML snippets.
-11. Fantastical - Expansions for [easing entering of natural input](https://medium.com/@nikitavoloboev/fantastical-natural-input-text-expansions-3ea8cf7ccac3#.pv5937ncr) in [Fantastical app](https://wiki.nikitavoloboev.xyz/macOS/apps/fantastical).
-12. VS Code - Currently only holds `alfred build` task template. For code snippets, I use VS Code snippet engine itself.
+5. Dates - Expanding current date in different formats like DD/MM/YYYY.
+6. Fantastical - Expansions for [easing entering of natural input](https://medium.com/@nikitavoloboev/fantastical-natural-input-text-expansions-3ea8cf7ccac3#.pv5937ncr) in [Fantastical app](https://wiki.nikitavoloboev.xyz/macOS/apps/fantastical).
 
-![](https://i.imgur.com/YYHTdnP.png)
+![](https://i.imgur.com/V8FHOj4.png)
 
 > My Typinator Sets
 
