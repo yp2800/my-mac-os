@@ -182,7 +182,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 #### [Hammerspoon](http://www.hammerspoon.org) - Automation tool
 
-- Powerful automation engine I am still exploring. My config for it can be seen [here](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/).
+- Powerful automation engine I am [still exploring](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/).
 
 #### [Reeder](http://reederapp.com/mac/) - RSS Reeder
 
