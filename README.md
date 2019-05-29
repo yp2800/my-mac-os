@@ -39,7 +39,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - Alfred is a powerful launcher that you can program to show anything you want. It saved me a lot of time in my life.
 
-<img src="https://i.imgur.com/5h1BMVO.png" width="700" alt="img">
+<img src="https://i.imgur.com/Bx5FLnO.png" width="700" alt="img">
 
 - It has a great [community](http://www.alfredforum.com/) and [amazing workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can use.
 
