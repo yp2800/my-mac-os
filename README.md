@@ -88,7 +88,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - I use Timing app to fully automate tracking my time on my computer.
 - The fact that I can combine active and passive tracking together is very powerful and allows me to be more aware of where I spend my time.
 
-![](https://i.imgur.com/FaFZsbC.png)
+![](https://i.imgur.com/w4ERlN0.png)
 
 #### [MindNode](https://mindnode.com) - Interactive Mind Mapping
 
@@ -519,10 +519,10 @@ If you found this interesting, I also have [similar repository](https://github.c
     <img width="250" heigth="400" src="https://i.imgur.com/epEvkSB.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/DN7ZVeo.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/IPoHziD.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/h8rXXJQ.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/LIsjWC3.jpg"></a>
 
 ## Similar Setups
 
