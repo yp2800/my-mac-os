@@ -519,10 +519,10 @@ If you found this interesting, I also have [similar repository](https://github.c
     <img width="250" heigth="400" src="https://i.imgur.com/epEvkSB.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/UTPvEPx.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/YfXcijI.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/KVpy6GO.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/fQkc3gz.jpg"></a>
 
 ## Similar Setups
 
