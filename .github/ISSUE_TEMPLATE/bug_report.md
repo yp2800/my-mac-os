@@ -3,7 +3,7 @@ name: Bug report 🐞
 about: Something isn't working as expected?
 ---
 
-<!-- Thanks for submitting a bug report. Please search existing issues to avoid creating duplicates. -->
+<!-- Please search existing issues to avoid creating duplicates. -->
 
 ## Bug Summary 🐞
 <!-- A clear and concise description of what the bug is. -->

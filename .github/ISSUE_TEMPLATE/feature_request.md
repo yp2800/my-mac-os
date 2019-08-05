@@ -4,7 +4,7 @@ about: Suggest a new idea for the project
 
 ---
 
-<!-- Thanks for submitting a feature request. Please search existing issues to avoid creating duplicates. -->
+<!-- Please search existing issues to avoid creating duplicates. -->
 
 ## Feature Summary 💡
 <!-- A clear and concise description of the feature proposal -->
