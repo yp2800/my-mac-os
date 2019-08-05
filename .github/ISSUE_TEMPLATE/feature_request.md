@@ -6,8 +6,8 @@ about: Suggest a new idea for the project
 
 <!-- Thanks for submitting a feature request. Please search existing issues to avoid creating duplicates. -->
 
-## Summary
-<!-- Summarize the feature in a few sentences: -->
+## Feature 💡
+<!-- A clear and concise description of the feature proposal -->
 
 
 
@@ -17,6 +17,6 @@ about: Suggest a new idea for the project
 
 
 ## How do you propose to implement this?
-<!-- Can you add this and submit a PR? Please think about how this could be added. -->
+<!-- You have examples or an idea how it can be implemented? Can you add this and submit a PR? -->
 
 
