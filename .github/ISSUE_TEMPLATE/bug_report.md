@@ -6,7 +6,7 @@ about: Something isn't working as expected?
 <!-- Please search existing issues to avoid creating duplicates. -->
 
 ## Bug Summary 🐞
-<!-- A clear and concise description of what the bug is: -->
+<!-- A clear and concise description of what the bug is. -->
 
 
 
