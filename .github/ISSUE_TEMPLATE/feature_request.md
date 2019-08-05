@@ -7,7 +7,7 @@ about: Suggest a new idea for the project
 <!-- Please search existing issues to avoid creating duplicates. -->
 
 ## Feature Summary 💡
-<!-- A clear and concise description of the feature proposal -->
+<!-- A clear and concise description of the feature proposal: -->
 
 
 
@@ -17,6 +17,6 @@ about: Suggest a new idea for the project
 
 
 ## How do you propose to implement this?
-<!-- You have examples or an idea how it can be implemented? Can you add this and submit a PR? -->
+<!-- Please think about how this could be added. Can you add this and submit a PR? -->
 
 

@@ -6,7 +6,7 @@ about: Something isn't working as expected?
 <!-- Please search existing issues to avoid creating duplicates. -->
 
 ## Bug Summary 🐞
-<!-- A clear and concise description of what the bug is. -->
+<!-- A clear and concise description of what the bug is: -->
 
 
 
@@ -21,6 +21,6 @@ about: Something isn't working as expected?
 
 
 ## How do you propose to implement this?
-<!-- You have examples or an idea how it can be implemented? Can you add this and submit a PR? -->
+<!-- Please think about how this could be fixed. Can you add this and submit a PR? -->
 
 
