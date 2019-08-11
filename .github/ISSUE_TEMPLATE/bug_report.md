@@ -16,7 +16,7 @@ about: Something isn't working as expected?
 1. 
 2. 
 
-<!-- If you have code sample, error messages, stack traces, please provide it here as well. -->
+<!-- If you have code sample, error messages, stack traces, please provide it here as well -->
 
 
 ## How do you propose to implement this?
