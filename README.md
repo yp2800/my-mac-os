@@ -314,7 +314,7 @@ Here is how my library looks:
 - I use the app to stay up to date and communicate on Twitter.
 - Tweetbot is also blocked for me during my [Focus time](https://wiki.nikitavoloboev.xyz/focusing). I can only post tweets but I can't visit the app to see my feeds.
 - Twitter is my primary way to stay up to date on things and is my favorite social network after GitHub. I curate and publicly share all [Twitter lists](https://twitter.com/nikitavoloboev/lists) I personally use.
-- I have Tweetbot open in full screen with two columns (Mentions or [Other](https://twitter.com/nikitavoloboev/lists/other) / [Top](https://twitter.com/nikitavoloboev/lists/top)). Here is how that looks for me:
+- I have Tweetbot open in full screen with two columns (Mentions or [Other](https://twitter.com/nikitavoloboev/lists/list) / [Top](https://twitter.com/nikitavoloboev/lists/top)). Here is how that looks for me:
 
 ![](https://i.imgur.com/7vLi5Po.png)
 
