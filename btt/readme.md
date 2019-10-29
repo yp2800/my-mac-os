@@ -6,13 +6,14 @@ You can find the [PDF file](./gestures.pdf) with all the custom gestures I have 
 
 I also use BTT to modify my TouchBar. Here is how it looks:
 
-![](https://i.imgur.com/JFynngQ.png)
+![](https://i.imgur.com/Ubna3yL.png)
 
 It includes, from left to right:
 
-1. A coffee cup when I am on break. My breaks are scheduled throughout the day with [Focus](https://wiki.nikitavoloboev.xyz/focusing/focusing).
+1. A coffee cup when I am on break. My breaks are scheduled throughout the day with [Focus](https://wiki.nikitavoloboev.xyz/focusing).
 2. My [current active TODO](https://github.com/nikitavoloboev/small-workflows/tree/master/todo-task#readme)
-3. Battery percentage
+3. Current or next event in [my Calendar](https://wiki.nikitavoloboev.xyz/macOS/apps/fantastical)
 4. Current time, day and month number
+5. Battery percentage
 
 This is also included in the above preset.
