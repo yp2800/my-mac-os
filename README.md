@@ -6,7 +6,7 @@
 
 > All the apps are in one desktop because there is delay in switching between macOS multiple desktops
 
-##### Contents
+#### Contents
 
 - [Applications](#applications)
   - [Productivity](#productivity)
