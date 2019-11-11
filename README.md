@@ -148,7 +148,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - Allows you to customize and hide the contents of your menu bar and improve the aesthetics of your OS. Here is how mine looks:
 
-<img src="https://i.imgur.com/dBKrRw2.png" width="500" alt="img">
+<img src="https://i.imgur.com/6PgH3eK.png" width="500" alt="img">
 
 - My menu bar is always hidden so I rarely ever use it and I show most needed info on the [TouchBar](btt#readme) instead.
 
