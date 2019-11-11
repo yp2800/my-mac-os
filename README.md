@@ -63,7 +63,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - I love GTD methodology. This app is phenomenal with helping me [organize my tasks](https://wiki.nikitavoloboev.xyz/macOS/apps/2do). Here is how my sidebar looks:
 
-<img src="https://i.imgur.com/0mfAKLK.png" width="150">
+<img src="https://i.imgur.com/s60rWyb.png" width="150">
 
 - It also has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more.
 
@@ -74,7 +74,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - I use the app a lot to track various projects I have in my life.
 - I share many boards I made [publicly](https://wiki.nikitavoloboev.xyz/sharing/my-trello). Here is an example of a public board for tracking various [things I want to learn](https://trello.com/b/cu32qF3q).
 
-![](https://i.imgur.com/0l8Ivd5.jpg)
+![](https://i.imgur.com/U0KSBJT.png)
 
 - I assign myself to the cards I am working on now and filter to see only them by [pressing Q key](https://trello.com/shortcuts). I mark cards I want to work on next with `Next` tag.
 
@@ -96,7 +96,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 ![](https://raw.githubusercontent.com/learn-anything/2017-release/master/media/header.png)
 
-- I also use MindNode to [visually break down problems I am trying to solve](../research/solving-problems.md).
+- I use MindNode to [visually break down problems I am trying to solve](../research/solving-problems.md).
 
 ![](https://i.imgur.com/qHAJdYk.png)
 
@@ -116,7 +116,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - I share [all the different gestures I have setup to use with the app](btt#readme) that you can view and download.
 - I also use the app to modify how my TouchBar looks.
 
-![](https://i.imgur.com/BqBGuXq.png)
+![](https://i.imgur.com/Ubna3yL.png)
 
 #### [PDF Expert](https://pdfexpert.com/) - PDF reader/editor
 
@@ -127,7 +127,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - I use the app to manage events in my life.
 - I take great use of Fantastical's natural language input and I use [many Typinator expansions](https://medium.com/@nikitavoloboev/fantastical-natural-input-text-expansions-3ea8cf7ccac3#.pv5937ncr) to ease this process.
-- I always view my events from `Week` view. And show 5 days only with all 24h shown for all days. This lets me have a perspective over what I have to do now. What deadlines I have to complete soon. And gives me the freedom to adjust my schedule in light of upcoming deadlines and events.
+- I always view my events from `Week` view. And show 5 days with 16h shown for all days. This lets me have a perspective over what I have to do now. What deadlines I have to complete soon. And gives me the freedom to adjust my schedule in light of upcoming deadlines and events.
 
 #### [Contexts](https://contexts.co) - Window switcher
 
@@ -178,7 +178,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 #### [Noizio](http://noiz.io/) - Ambient sounds
 
-- I sometimes like listening to sounds of rain, train or fire to focus.
+- I use it to play sounds of rain when focusing.
 
 #### [Hammerspoon](http://www.hammerspoon.org) - Automation tool
 
@@ -214,7 +214,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 #### [Paprika Recipe Manager](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222628?ls=1&mt=12)
 
-- Use the app to store the many [vegan recipes](https://github.com/nikitavoloboev/vegan-recipes#readme) I like to make.
+- Use the app to store the many [vegan recipes](https://wiki.nikitavoloboev.xyz/health/nutrition/recipes) I like to make.
 
 ### Code
 
