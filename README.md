@@ -302,7 +302,7 @@ Here is how my library looks:
 
 #### [Telegram](https://desktop.telegram.org/) - Messenger
 
-- The app has a very clean interface, a native client for macOS and stickers. Chats are not encrypted by default and don't use [approved cryptography](https://security.stackexchange.com/questions/49782/is-telegram-secure) but the client is amazing and fast.
+- My favorite messenger app due to its clean interface, a native client and stickers. I use few [KM macros](https://wiki.nikitavoloboev.xyz/macOS/apps/keyboard-maestro/km-macros) & quick jump search to instantly jump to chats.
 
 #### [Spark](https://sparkmailapp.com) - Email client
 
