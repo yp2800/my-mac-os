@@ -38,7 +38,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - Alfred is a powerful launcher that you can program to show anything you want. It saved me a lot of time in my life.
 
-<img src="https://i.imgur.com/Bx5FLnO.png" width="700" alt="img">
+<img src="https://i.imgur.com/MdIcKlh.png" width="700" alt="img">
 
 - It has a great [community](http://www.alfredforum.com/) and [amazing workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can use.
 
@@ -62,7 +62,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - I love GTD methodology. This app is phenomenal with helping me [organize my tasks](https://wiki.nikitavoloboev.xyz/macOS/apps/2do). Here is how my sidebar looks:
 
-<img src="https://i.imgur.com/s60rWyb.png" width="150">
+<img src="https://i.imgur.com/BhIoLNU.png" width="150">
 
 - It also has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more.
 
@@ -219,7 +219,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/vscode/settings.json).
 - I use VS Code [Monokai Night](https://github.com/fabiospampinato/vscode-monokai-night#readme) theme with [Fira Code](https://github.com/tonsky/FiraCode) font. Here is how it looks:
 
-![](https://i.imgur.com/hOgSQ7F.png)
+![](https://i.imgur.com/2jPtdRE.png)
 
 #### [iTerm](https://www.iterm2.com/) - Terminal Emulator
 
