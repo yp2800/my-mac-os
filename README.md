@@ -12,7 +12,6 @@
   - [Productivity](#productivity)
   - [Code](#code)
   - [Social](#social)
-  - [Writing](#writing)
   - [Design](#design)
   - [Music](#music)
   - [Images](#images)
@@ -180,10 +179,6 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - I use it to play sounds of rain when focusing.
 
-#### [Hammerspoon](http://www.hammerspoon.org) - Automation tool
-
-- Powerful automation engine I am [still exploring](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/).
-
 #### [Reeder](http://reederapp.com/mac/) - RSS Reeder
 
 - The app I use to keep up with my RSS feeds. I use RSS to follow my favorite blogs, stay up to date on new podcast episodes and even track some software releases.
@@ -317,25 +312,11 @@ Here is how my library looks:
 
 ![](https://i.imgur.com/uMoGfGx.png)
 
-### Writing
-
-#### [Day One](http://dayoneapp.com/) - Digital journal
-
-- Day One is my digital life journal.
-- My entire life's experiences lives encrypted in the journal. Adding photographs I made, the thoughts I had and events that happened to me.
-- I document and review [my life](https://wiki.nikitavoloboev.xyz/looking-back) publicly too.
-- The app has integration with [IFTTT](https://ifttt.com/day_one) which I use to automatically log all [my tweets](https://twitter.com/nikitavoloboev) and [Instagram posts](https://instagram.com/nikitavoloboev).
-- If you don't journal, I suggest you to start, it is a very powerful mind cleanser and acts as a wonderful history record of your life.
-
-#### [Marked](http://marked2app.com) - Preview rendered markdown files
-
-- If I ever need to preview a readme or any other markdown file that I wrote or just want to read, this app is the best application for that I found. It also features live updating and quite a lot of customizable features.
-
 ### Design
 
-#### [Sketch](https://www.sketchapp.com/) - Design tool
+#### [Figma](https://www.figma.com) - Design tool
 
-- Use the app to quickly prototype new designs. I also enjoy using [Figma](https://www.figma.com) a lot.
+- Use the app to quickly prototype & collaborate on designs.
 
 #### [Sip](https://sipapp.io/) - Collect, organize & share colors
 
@@ -411,22 +392,13 @@ Here is how my library looks:
 - [Cascadea](https://cascadea.app) - Custom styles extension. Use it to create dark themes for apps that don't have a dark mode option. Also allows importing of [Stylish themes](https://wiki.nikitavoloboev.xyz/web/browsers/stylish-themes).
 - [Dark Reader](https://darkreader.org/safari/) - On websites that don't have a nice Stylish theme, I like to use Dark Reader to turn all the websites I visit to dark mode. It works surprisingly well.
 
-#### [Google Chrome](https://www.google.com/chrome/)
+#### [Google Chrome Canary](https://www.google.com/chrome/canary/)
 
-- I only use Chrome for web development due to its superior Chrome Dev tools.
-- I also love the variety of [Chrome extensions](https://github.com/learn-anything/chrome-extensions#readme) that people have built and shared.
-
-#### [Beaker Browser](https://beakerbrowser.com)
-
-- Experimental Peer to Peer browser. Experimenting with using it more and more as I find the [technology and the implications of it fascinating](https://www.youtube.com/watch?v=-ep0ZIe6i10).
-
-#### [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
-
-- Use it for web development for its superior Dev Tools in debugging CSS Grid. Prefer Chrome Dev tools still.
+- I sometimes use it for websites that work best on chrome. Plus it has variety of [useful extensions](https://github.com/learn-anything/chrome-extensions#readme).
 
 ## Command Line Apps
 
-I use [Nix](https://nixos.org/nix/) package manager to install all the [packages I use on my system](https://github.com/nikitavoloboev/dotfiles/blob/master/nix/darwin.nix#L6).
+I use [Nix](https://nixos.org/nix/) package manager together with [brew](https://brew.sh) to install all the [packages I use on my system](https://github.com/nikitavoloboev/dotfiles/blob/master/nix/darwin.nix#L6).
 
 I curate a list of [interesting CLI tools](https://github.com/learn-anything/command-line-tools#readme) you can use. Below are some command line tools I personally use and love.
 
