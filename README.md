@@ -381,6 +381,12 @@ Here is how my library looks:
 
 ### Utilities
 
+#### [Polypane](https://polypane.app) - Browser for developers & designers
+
+- Use it for designing websites as it allows me to see both mobile and desktop views at the same time in a minimal interface with handy grid interface.
+
+![](https://i.imgur.com/PtRBkfU.png)
+
 #### [Hazel](https://www.noodlesoft.com) - Automated File Organization
 
 - Use it to fully automate my filing process and automatically commit changes in [many curated lists](https://github.com/learn-anything/curated-lists#readme).
@@ -388,11 +394,7 @@ Here is how my library looks:
 
 #### [DaisyDisk](https://daisydiskapp.com) - Visualize taken disk space
 
-- A great tool to quickly get a visual glance over what is taking up your disk space and where.
-
-#### [iStat Menus](https://bjango.com/mac/istatmenus/) - Mac system monitoring from menu bar
-
-- Great system monitoring tools which is usually turned off for me and only works as a widget in Notification Centre to preserve battery. I use [ProcessControl](https://github.com/vitorgalvao/alfred-workflows/tree/master/ProcessControl#readme) workflow to quickly kill off misbehaving processes.
+- Great tool to quickly get a visual glance over what is taking up your disk space and where.
 
 ### Browsers
 
