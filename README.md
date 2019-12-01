@@ -367,39 +367,33 @@ Here is how my library looks:
 - Use it to fully automate my filing process and automatically commit changes in [many curated lists](https://github.com/learn-anything/curated-lists#readme).
 - I share most Hazel rules and how I use them [here](hazel#readme).
 
-#### [DaisyDisk](https://daisydiskapp.com) - Visualize taken disk space
-
-- Great tool to quickly get a visual glance over what is taking up your disk space and where.
-
 ### Browsers
 
 #### [Safari](https://www.apple.com/lae/safari/)
 
-- My favorite browser. It is incredibly fast, doesn't have the baggage of all the Google Chrome tracking and is native to macOS so it is extremely optimized and doesn't kill your battery.
-- One powerful plus that Chrome does have over safari is the amount of Chrome extensions that you can get. Fortunately the ones most needed for me do [exist on Safari](https://github.com/learn-anything/safari-extensions#readme).
+- My favorite browser. It is incredibly fast & cares about my privacy unlike Chrome.
 
 ##### Safari Extensions
 
 - [sVim](https://github.com/flipxfx/sVim) - Adds a custom layer of keybinds you can customize to personalize your browsing experience. [My config](https://gist.github.com/c26e6a05e4e426e0542e55b7513b581c).
 - [Wipr](https://itunes.apple.com/nl/app/wipr/id1320666476?l=en&mt=12) - Ad content blocker that uses [Safari native content blocking API's](https://developer.apple.com/library/content/documentation/Extensions/Conceptual/ContentBlockingRules/Introduction/Introduction.html).
 - [1Password](https://agilebits.com/onepassword/extensions) - [1Password](https://1password.com) is a phenomenal password manager, this extension just gives a seamless interaction of it with the browser.
-- [Cascadea](https://cascadea.app) - Custom styles extension. Use it to create dark themes for apps that don't have a dark mode option. Also allows importing of [Stylish themes](https://wiki.nikitavoloboev.xyz/web/browsers/stylish-themes).
-- [Dark Reader](https://darkreader.org/safari/) - On websites that don't have a nice Stylish theme, I like to use Dark Reader to turn all the websites I visit to dark mode. It works surprisingly well.
 
 #### [Google Chrome Canary](https://www.google.com/chrome/canary/)
 
-- I use it to develop websites with Dev Tools and [Pesticide](http://pesticide.io) extension. Chrome has lots of other [useful extensions](https://github.com/learn-anything/chrome-extensions#readme).
+- Use it to develop websites with Dev Tools and [Pesticide](http://pesticide.io) & [React Dev Tools](https://reactjs.org/blog/2019/08/15/new-react-devtools.html) extensions. Chrome has few [other extensions I like](https://wiki.nikitavoloboev.xyz/web/browsers/google-chrome).
 
 ## Command Line Apps
 
-I use [Nix](https://nixos.org/nix/) package manager together with [brew](https://brew.sh) to install all the [packages I use on my system](https://github.com/nikitavoloboev/dotfiles/blob/master/nix/darwin.nix#L6).
+I use [Nix](https://nixos.org/nix/) & [brew](https://brew.sh) package managers to install all the [tools I use on my system](https://github.com/nikitavoloboev/dotfiles/blob/master/nix/darwin.nix#L6).
 
-I curate a list of [interesting CLI tools](https://github.com/learn-anything/command-line-tools#readme) you can use. Below are some command line tools I personally use and love.
+I curate a list of [interesting CLI tools](https://github.com/learn-anything/command-line-tools#readme). Below are ones I love & use daily:
 
-- [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
-- [ripgrep](https://github.com/BurntSushi/ripgrep) - Search text for patterns fast.
-- [fd](https://github.com/sharkdp/fd) - Simple, fast and user-friendly alternative to 'find'.
 - [exa](https://github.com/ogham/exa) - Replacement for ls written in rust.
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - Search text for patterns fast.
+- [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
+- [fd](https://github.com/sharkdp/fd) - Simple, fast and user-friendly alternative to 'find'.
+- [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications.
 - [bat](https://github.com/sharkdp/bat) - Cat clone with wings.
 - [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, APIs, and sites in seconds to AWS.
 - [jq](https://github.com/stedolan/jq) - JSON processor.
@@ -423,11 +417,9 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [hugo](https://github.com/gohugoio/hugo) - Fast and flexible static site generator.
 - [reflex](https://github.com/cespare/reflex) - Run a command when files change.
 - [modd](https://github.com/cortesi/modd) - Flexible tool for responding to file system changes.
-- [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
 - [now](https://github.com/zeit/now-cli) - Real time global deployments served over HTTP/2.
 - [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
 - [hub](https://github.com/github/hub) - GitHub wrapper.
-- [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications.
 - [xsv](https://github.com/BurntSushi/xsv) - Fast CSV command line toolkit written in Rust.
 - [pv](https://ivarch.com/programs/pv.shtml) - Pipe Viewer.
 - [m-cli](https://github.com/rgcr/m-cli) - Useful utils for macOS.
