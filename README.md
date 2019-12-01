@@ -362,12 +362,6 @@ Here is how my library looks:
 
 ### Utilities
 
-#### [Polypane](https://polypane.app) - Browser for developers & designers
-
-- Use it for designing websites as it allows me to see both mobile and desktop views at the same time in a minimal interface with handy grid interface.
-
-![](https://i.imgur.com/PtRBkfU.png)
-
 #### [Hazel](https://www.noodlesoft.com) - Automated File Organization
 
 - Use it to fully automate my filing process and automatically commit changes in [many curated lists](https://github.com/learn-anything/curated-lists#readme).
@@ -394,7 +388,7 @@ Here is how my library looks:
 
 #### [Google Chrome Canary](https://www.google.com/chrome/canary/)
 
-- I sometimes use it for websites that work best on chrome. Plus it has variety of [useful extensions](https://github.com/learn-anything/chrome-extensions#readme).
+- I use it to develop websites with Dev Tools and [Pesticide](http://pesticide.io) extension. Chrome has lots of other [useful extensions](https://github.com/learn-anything/chrome-extensions#readme).
 
 ## Command Line Apps
 
