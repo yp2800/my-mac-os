@@ -84,8 +84,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 #### [Timing](https://timingapp.com/?) - Automatic time tracker
 
-- I use Timing app to fully automate tracking my time on my computer.
-- The fact that I can combine active and passive tracking together is very powerful and allows me to be more aware of where I spend my time.
+- I use Timing app to fully automate tracking time I spend on my computer.
 
 ![](https://i.imgur.com/w4ERlN0.png)
 
