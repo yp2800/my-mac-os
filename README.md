@@ -228,10 +228,6 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 <img src="https://i.imgur.com/ItDUF98.png" width="500" alt="img">
 
-- I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions.
-
-<img src="https://i.imgur.com/kdo0x8Y.png" width="500" alt="img">
-
 - I go over how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/iterm).
 
 #### [Sublime Text](https://www.sublimetext.com) - Text Editor
