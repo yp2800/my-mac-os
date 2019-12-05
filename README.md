@@ -240,11 +240,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - Allows you to download any docset that you might want to use, search for any method, class or anything that you need very quickly, comes with the amazing [Alfred workflow](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) to simplify the process of searching for the right things.
 
-<img src="https://i.imgur.com/dItnB52.png" width="500" alt="img">
-
-- I also use [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/master/dash-profile-switch#readme) I made to quickly switch between Dash profiles.
-
-<img src="https://i.imgur.com/gCz4s9z.png" width="500" alt="img">
+<img src="https://i.imgur.com/Km4wFRr.png" width="500" alt="img">
 
 #### [SnippetsLab](https://www.renfei.org/snippets-lab/) - Snippet manager
 
