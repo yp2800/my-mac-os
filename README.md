@@ -472,7 +472,7 @@ If you found this interesting, I also have [similar repository](https://github.c
     <img width="250" heigth="400" src="https://i.imgur.com/UlNRSvm.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/KhAJjOf.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/qsinsMT.jpg"></a>
 
 ## Similar Setups
 
