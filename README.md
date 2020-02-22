@@ -242,19 +242,6 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 <img src="https://i.imgur.com/Km4wFRr.png" width="500" alt="img">
 
-#### [SnippetsLab](https://www.renfei.org/snippets-lab/) - Snippet manager
-
-- I use the app to manage my own personal library of snippets. I prefix all snippets I make. For example vim snippets are prefixed with `vim:`. Git related snippets with `git:` and so on.
-- The app also provides an awesome Assistant to quickly search through the snippet database:
-
-![](https://i.imgur.com/ax2NZ5q.png)
-
-Here is how my library looks:
-
-![](https://i.imgur.com/4IstV5v.png)
-
-- I share my entire library of snippets as [GitHub Gists](https://wiki.nikitavoloboev.xyz/sharing/my-gists).
-
 #### [Tower](https://www.git-tower.com) - Git client
 
 - Use the app to help me version control any project I am working on. Love the ability to search through commits, check out branches with ease and searching through all the Git repositories I have on my mac with quick search.
@@ -263,7 +250,7 @@ Here is how my library looks:
 
 #### [Paw](https://paw.cloud) - HTTP client
 
-- Use the tool to quickly make HTTP requests and test out API endpoints.
+- Use it to quickly make HTTP requests and test out API endpoints.
 
 #### [Neovim](https://neovim.io) - Text Editor
 
@@ -297,9 +284,7 @@ Here is how my library looks:
 
 #### [Tweetbot](http://tapbots.com/tweetbot/mac/) - Twitter client
 
-- I use the app to stay up to date and communicate on Twitter.
-- Tweetbot is also blocked for me during my [Focus time](https://wiki.nikitavoloboev.xyz/focusing). I can only post tweets but I can't visit the app to see my feeds.
-- I have Tweetbot open in full screen with two columns (Mentions or [Other](https://twitter.com/nikitavoloboev/lists/list) & [Timeline](https://twitter.com/nikitavoloboev/following)). Here is how that looks for me:
+- Use it to stay up to date and communicate on Twitter. I have Tweetbot open in full screen with two columns (Mentions or [Other](https://twitter.com/nikitavoloboev/lists/list) & [Timeline](https://twitter.com/nikitavoloboev/following)). Here is how that looks for me:
 
 ![](https://i.imgur.com/uMoGfGx.png)
 
@@ -332,7 +317,7 @@ Here is how my library looks:
 
 #### [Pixave](http://www.littlehj.com/mac) - Image/GIF/Video organizer
 
-- I use Pixave as my own personal image library. I sort images in groups and I have powerful search I can use to find any image I need.
+- Use Pixave as my own personal image library. I sort images in groups and I have powerful search I can use to find any image I need.
 - Here is how my library looks:
 
 ![](https://i.imgur.com/I7x3cUX.jpg)
