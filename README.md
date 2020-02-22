@@ -4,7 +4,7 @@
 
 ![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/desktop.png)
 
-> All the apps are in one desktop because there is delay in switching between macOS multiple desktops
+> All the apps are in one desktop because there is delay in switching between macOS multiple desktops. Dock is hidden.
 
 #### Contents
 
