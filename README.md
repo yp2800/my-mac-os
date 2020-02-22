@@ -86,7 +86,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 - I use Timing app to fully automate tracking time I spend on my computer.
 
-![](https://i.imgur.com/w4ERlN0.png)
+![](https://i.imgur.com/K2wrkjS.png)
 
 #### [MindNode](https://mindnode.com) - Interactive Mind Mapping
 
