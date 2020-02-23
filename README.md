@@ -2,7 +2,7 @@
 
 > List of applications and tools that make my macOS experience even more amazing
 
-![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/desktop.png)
+![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/mac.png)
 
 > All apps are in one desktop since there is delay in switching between macOS multiple desktops. Dock is hidden.
 
@@ -451,13 +451,15 @@ I also [share screenshots of all the changes to System Preferences I have made](
 If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios#readme) going over what applications I use on iOS/WatchOS as well as how and why I use them.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/ilRD4qd.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/UAyhhWw.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/35sybVW.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/nMFbdVG.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/Mu9LmtS.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/pIWSV76.jpg"></a>
+
+![](https://i.imgur.com/bOX8rP8.jpg)
 
 ## Similar Setups
 
