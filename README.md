@@ -454,10 +454,10 @@ If you found this interesting, I also have [similar repository](https://github.c
     <img width="250" heigth="400" src="https://i.imgur.com/UAyhhWw.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/coHk3uL.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/oU2lGrf.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/E2Z28hT.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/YCz0G4Q.jpg"></a>
 
 ## Similar Setups
 
