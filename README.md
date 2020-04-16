@@ -1,4 +1,4 @@
-# My wonderful world of macOS [![Thanks](http://bit.ly/saythankss)](https://github.com/sponsors/nikitavoloboev)
+# My wonderful world of macOS [![Thanks](https://bit.ly/saythankss)](https://github.com/sponsors/nikitavoloboev)
 
 > List of applications and tools that make my macOS experience even more amazing
 
@@ -40,7 +40,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 <img src="https://i.imgur.com/MdIcKlh.png" width="700" alt="img">
 
-- It has a great [community](http://www.alfredforum.com/) and [amazing workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can use.
+- It has a great [community](https://www.alfredforum.com/) and [amazing workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can use.
 
 - I wrote [an article](https://medium.com/@nikitavoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language and [AwGo](https://github.com/deanishe/awgo) library.
 
@@ -58,7 +58,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - It has a [wonderful community](https://forum.keyboardmaestro.com/) that is happy to help with whatever you are trying to achieve.
 - I share [all the macros I use](https://wiki.nikitavoloboev.xyz/macOS/apps/keyboard-maestro/km-macros) with the app.
 
-#### [2Do](http://www.2doapp.com/mac) - Flexible task manager
+#### [2Do](https://www.2doapp.com/mac) - Flexible task manager
 
 - I love GTD methodology. This app is phenomenal with helping me [organize my tasks](https://wiki.nikitavoloboev.xyz/macOS/apps/2do). Here is how my sidebar looks:
 
@@ -162,9 +162,9 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 <img src="https://i.imgur.com/JML4ywh.png" width="500" alt="img">
 
-#### [Annotate](https://itunes.apple.com/us/app/annotate-capture-screenshot/id918207447?mt=12) - Create and annotate screenshots
+#### [CleanShot](https://getcleanshot.com) - Create & annotate screenshots/recordings
 
-- Best annotation tool I found to exist. After you make a screenshot, it allows for quick edits. Adding arrows, some text, blurring parts of the image as well as ability to quickly save the image or drag it to Dropzone to upload to Imgur to share the link quickly with anyone I want.
+- After you make a screenshot, it allows for quick edits (arrows, text, blurring).
 
 #### [Popclip](https://pilotmoon.com/popclip/) - iOS like mouse text selection popover
 
@@ -284,7 +284,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 #### [Tweetbot](http://tapbots.com/tweetbot/mac/) - Twitter client
 
-- Use it to stay up to date and communicate on Twitter. I have Tweetbot open in full screen with two columns (Mentions or [Other](https://twitter.com/nikitavoloboev/lists/list) & [Timeline](https://twitter.com/nikitavoloboev/following)). Here is how that looks for me:
+- Use it to stay up to date and communicate on Twitter. I have Tweetbot open in full screen with two columns (Mentions or [Other](https://twitter.com/i/lists/1131319788012285952) & [Timeline](https://twitter.com/nikitavoloboev/following)). Here is how that looks for me:
 
 ![](https://i.imgur.com/uMoGfGx.png)
 
