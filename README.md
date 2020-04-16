@@ -14,9 +14,7 @@
   - [Social](#social)
   - [Design](#design)
   - [Music](#music)
-  - [Images](#images)
   - [Video](#video)
-  - [Utilities](#utilities)
   - [Browsers](#browsers)
     - [Safari Extensions](#safari-extensions)
 - [Command Line Apps](#command-line-apps)
@@ -82,26 +80,6 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - Generate all of my passwords with it and keep everything in a secured and encrypted vault kept secure by my one master password.
 - No longer need to remember passwords and I now have a unique password for every website that I am signed up on whilst [activating two factor authentication](https://support.1password.com/one-time-passwords/) wherever possible.
 
-#### [Timing](https://timingapp.com/?) - Automatic time tracker
-
-- I use Timing app to fully automate tracking time I spend on my computer.
-
-![](https://i.imgur.com/K2wrkjS.png)
-
-#### [MindNode](https://mindnode.com) - Interactive Mind Mapping
-
-- An application which allowed me to originally create all of the maps for [Learn Anything](https://learn-anything.xyz).
-
-![](https://raw.githubusercontent.com/learn-anything/2017-release/master/media/header.png)
-
-- I use MindNode to [visually break down problems I am trying to solve](../research/solving-problems.md).
-
-![](https://i.imgur.com/qHAJdYk.png)
-
-- And I visualize topics and their relations as an [interactive mind map](https://my.mindnode.com/fFxApNMuV2GmAzkBYxcD5quSFBM5wevdSMcRTz7H#1464.4,-1059.5,0). I use [Monokai Night](https://github.com/nikitavoloboev/my-mac-os/tree/master/mindnode#readme) theme for it.
-
-![](https://i.imgur.com/Y7rqrKt.png)
-
 #### [Typinator](http://www.ergonis.com/products/typinator/) - Text expansions
 
 - I use the app to [fully automate writing repetitive text](https://medium.com/@nikitavoloboev/write-once-never-write-again-c2fa1f6c4e8).
@@ -142,26 +120,6 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 ![](https://i.imgur.com/Nj4erv5.png)
 
-#### [Bartender](https://www.macbartender.com/) - Menu bar organizer
-
-- Allows you to customize and hide the contents of your menu bar and improve the aesthetics of your OS. Here is how mine looks:
-
-<img src="https://i.imgur.com/0spRNfF.png" width="500" alt="img">
-
-- My menu bar is always hidden so I rarely ever use it and I show most needed info on the [TouchBar](btt#readme) instead.
-
-#### [Focus](https://heyfocus.com) - Block distracting websites
-
-- I use [Focus app](https://heyfocus.com) as a recurring [pomodoro timer](https://en.wikipedia.org/wiki/Pomodoro_Technique) which lets me work in sessions of 80 minutes with 10 min breaks by blocking [distracting websites](https://gist.github.com/nikitavoloboev/57340528a6dfb3eb498dce647ed6841f) and apps.
-
-<img src="https://i.imgur.com/H7TMqgS.png" width="500" alt="img">
-
-<img src="https://i.imgur.com/5lLgPaU.png" width="500" alt="img">
-
-- If I go to any of my blocked websites during my `Focus` time, I am greeted with this message.
-
-<img src="https://i.imgur.com/JML4ywh.png" width="500" alt="img">
-
 #### [CleanShot](https://getcleanshot.com) - Create & annotate screenshots/recordings
 
 - After you make a screenshot, it allows for quick edits (arrows, text, blurring).
@@ -186,29 +144,9 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 ![](https://i.imgur.com/2Ruad9G.png)
 
-#### [Dropzone](https://aptonic.com) - Drag and drop actions
-
-- A quick utility that pops up when I drag some file into it or open it with a hotkey. I use its [actions](https://atika.github.io/dropzone3-actions/) to [upload images to Imgur](https://www.dropbox.com/sh/yh78jmjw8ra43qb/AAAFJ0ba1WRkNY45FDjYPL00a?dl=1), [upload videos to YouTube](https://atika.github.io/dropzone3-actions/youtube-uploader-aptonic-software-action.html) & [searching images with Google](https://atika.github.io/dropzone3-actions/image-search-aptonic-software-action.html). I also use it to drop files into a preset number of common folders.
-
-<img src="https://i.imgur.com/5InxMrE.png" width="300" alt="img">
-
-#### [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Control incoming/outgoing network traffic
-
-- Amazing networking tool that gives you a clear picture of what connections are incoming to your computer and what are outgoing.
-- Takes a bit of time to set it up correctly and is quite an insightful experience first turning it on and having it notify every couple of seconds that some app is trying to send data to some server and whether you want to allow that.
-- This is essential if you want to take control of what information gets sent out from your computer and what connections have the right to connect to your data.
-
-#### [BeardedSpice](https://github.com/beardedspice/beardedspice) - Extend Mac Media Keys
-
-- Enhance play/pause as well as previous/next playback keys to not only work in iTunes and Spotify but work for SoundCloud, YouTube and many other services.
-
 #### [Transmission](https://www.transmissionbt.com/) - BitTorrent client
 
 - A torrent client that I use. Very minimal in its UI but very powerful and has all the features that I need.
-
-#### [Paprika Recipe Manager](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222628?ls=1&mt=12)
-
-- Use the app to store the many [vegan recipes](https://wiki.nikitavoloboev.xyz/health/nutrition/recipes) I like to make.
 
 ### Code
 
@@ -262,20 +200,9 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 ### Social
 
-#### [Textual](https://www.codeux.com/textual/) - IRC Client
-
-- I love IRC and this is the best macOS client for it.
-- I created my own [Monokai Night theme](textual#readme) for it that I love.
-
-![](https://i.imgur.com/Lpozk8X.png)
-
-- The app also has an awesome channel search feature that I use a lot.
-
-<img src="https://i.imgur.com/CMBW8Qf.png" width="500" alt="img">
-
 #### [Telegram](https://desktop.telegram.org/) - Messenger
 
-- My favorite messenger app due to its clean interface, a native client and stickers. I use few [KM macros](https://wiki.nikitavoloboev.xyz/macOS/apps/keyboard-maestro/km-macros) & quick jump search to instantly jump to chats.
+- My favorite messenger.
 
 #### [Spark](https://sparkmailapp.com) - Email client
 
@@ -287,6 +214,19 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - Use it to stay up to date and communicate on Twitter. I have Tweetbot open in full screen with two columns (Mentions or [Other](https://twitter.com/i/lists/1131319788012285952) & [Timeline](https://twitter.com/nikitavoloboev/following)). Here is how that looks for me:
 
 ![](https://i.imgur.com/uMoGfGx.png)
+
+#### [Textual](https://www.codeux.com/textual/) - IRC Client
+
+- I love IRC and this is the best macOS client for it.
+- I created my own [Monokai Night theme](textual#readme) for it that I love.
+
+![](https://i.imgur.com/Lpozk8X.png)
+
+- The app also has an awesome channel search feature that I use a lot.
+
+<img src="https://i.imgur.com/CMBW8Qf.png" width="500" alt="img">
+
+app due to its clean interface, a native client and stickers. I use few [KM macros](https://wiki.nikitavoloboev.xyz/macOS/apps/keyboard-maestro/km-macros) & quick jump search to instantly jump to chats.
 
 ### Design
 
@@ -313,17 +253,6 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 <img src="https://i.imgur.com/tNThVG0.png" width="500" alt="img">
 
-### Images
-
-#### [Pixave](http://www.littlehj.com/mac) - Image/GIF/Video organizer
-
-- Use Pixave as my own personal image library. I sort images in groups and I have powerful search I can use to find any image I need.
-- Here is how my library looks:
-
-![](https://i.imgur.com/I7x3cUX.jpg)
-
-- The red tag means that the image was uploaded to my [Instagram page](https://instagram.com/prettiways).
-
 ### Video
 
 #### [IINA](https://github.com/lhc70000/iina) - Video player
@@ -336,13 +265,6 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 - An open source screen recorder I use to record GIFs.
 - Has keyboard support so I can quickly start and end recording of the GIF in one hotkey.
 
-### Utilities
-
-#### [Hazel](https://www.noodlesoft.com) - Automated File Organization
-
-- Use it to fully automate my filing process and automatically commit changes in [many curated lists](https://github.com/learn-anything/curated-lists#readme).
-- I share most Hazel rules and how I use them [here](hazel#readme).
-
 ### Browsers
 
 #### [Safari](https://www.apple.com/lae/safari/)
@@ -351,7 +273,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 ##### Safari Extensions
 
-- [sVim](https://github.com/flipxfx/sVim) - Adds a custom layer of keybinds you can customize to personalize your browsing experience. [My config](https://gist.github.com/c26e6a05e4e426e0542e55b7513b581c).
+- [Vimari](https://github.com/televator-apps/vimari) - Adds custom layer of keybinds you can customize to personalize the browsing experience like hinting and moving between tabs.
 - [Wipr](https://itunes.apple.com/nl/app/wipr/id1320666476?l=en&mt=12) - Ad content blocker that uses [Safari native content blocking API's](https://developer.apple.com/library/content/documentation/Extensions/Conceptual/ContentBlockingRules/Introduction/Introduction.html).
 - [1Password](https://agilebits.com/onepassword/extensions) - [1Password](https://1password.com) is a phenomenal password manager, this extension just gives a seamless interaction of it with the browser.
 
@@ -361,9 +283,9 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 ## Command Line Apps
 
-I use [Nix](https://nixos.org/nix/) & [brew](https://brew.sh) package managers to install all the [tools I use on my system](https://github.com/nikitavoloboev/dotfiles/blob/master/nix/darwin.nix#L6).
+I use [brew](https://brew.sh) package manager to install all the [tools I use on my system](https://github.com/nikitavoloboev/dotfiles/blob/master/magefile.go).
 
-I curate a list of [interesting CLI tools](https://github.com/learn-anything/command-line-tools#readme). Below are ones I love & use daily:
+I curate a list of [interesting CLI tools](https://github.com/learn-anything/command-line-tools#readme). Below are ones I love & use often:
 
 - [exa](https://github.com/ogham/exa) - Replacement for ls written in rust.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - Search text for patterns fast.
@@ -416,11 +338,10 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 
 ## Preference Panes
 
-- [GPG Suite](https://gpgtools.org/) - Encrypt, decrypt, sign and verify files or messages.
 - [SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps/releases/latest) - Set the default application used for various URL schemes, file extensions, file types, MIME types, and Uniform Type Identifiers.
 - [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - Gives you access to additional preference settings Apple has built into macOS.
 
-I also [share screenshots of all the changes to System Preferences I have made](https://imgur.com/a/KoVAxFQ).
+I also [share screenshots of changes to System Preferences I made](https://imgur.com/a/KoVAxFQ).
 
 ## Desktop Screenshot
 
