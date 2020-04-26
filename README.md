@@ -26,7 +26,7 @@
 
 ## Applications
 
-I use a lot of apps on my mac. Below is a list of my favorite tools with descriptions how I use them.
+I use a lot of apps on my mac. Below is a list of my favorite tools with descriptions of how I use them.
 
 I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together with my [iOS setup](https://github.com/nikitavoloboev/my-ios). And I made a [Telegram group](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw) to discuss all things macOS/iOS.
 
