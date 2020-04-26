@@ -1,19 +1,18 @@
 # [BetterTouchTool](https://www.boastr.net)
 
-I mainly use BTT to [customize different trackpad gestures](https://medium.com/@nikitavoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze) either globally or on per app basis. I also use BTT for all my window management needs.
+I use BTT to [customize different trackpad gestures](https://medium.com/@nikitavoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze) either globally or on per app basis. I also use BTT for all my window management needs (move window left/right or maximize).
 
-You can find the [PDF file](./gestures.pdf) with all the custom gestures I have made together with a [downloadable Profile](https://cdn.jsdelivr.net/gh/nikitavoloboev/my-mac-os@master/btt/Main.bttpreset) that you can import to your BetterTouchTool to get all gestures I setup for myself.
+You can download my [BTT Profile](https://cdn.jsdelivr.net/gh/nikitavoloboev/my-mac-os@master/btt/Main.bttpreset) and import it to your BetterTouchTool to get all gestures I setup for myself (or just look around and see what you like). Gestures that save me most time are moving between tabs with three finger gestures (+ closing/opening tabs with up & down gestures).
 
 I also use BTT to modify my TouchBar. Here is how it looks:
 
-![](https://i.imgur.com/Ubna3yL.png)
+![](https://i.imgur.com/fkHgrNg.png)
 
-It includes, from left to right:
+It shows, from left to right:
 
-1. A coffee cup when I am on break. My breaks are scheduled throughout the day with [Focus](https://wiki.nikitavoloboev.xyz/focusing).
-2. My [current active TODO](https://github.com/nikitavoloboev/small-workflows/tree/master/todo-task#readme)
-3. Current or next event in [my Calendar](https://wiki.nikitavoloboev.xyz/macOS/apps/fantastical)
-4. Current time, day and month number
-5. Battery percentage
+1. All day event (if there is any).
+2. Current or next event in [my Calendar](https://wiki.nikitavoloboev.xyz/macOS/apps/fantastical)
+3. Current time, day and month number
+4. Battery percentage
 
-This is also included in the above preset.
+Can easily tell that it's an all day event as it won't have time stamps shown below the event title.

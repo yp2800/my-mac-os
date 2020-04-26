@@ -26,15 +26,15 @@
 
 ## Applications
 
-I use a lot of applications on my mac. Below is a list of the ones that I love and use the most in my day to day life.
+I use a lot of apps on my mac. Below is a list of my favorite tools with descriptions how I use them.
 
-I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) together with my [iOS setup](https://github.com/nikitavoloboev/my-ios#readme). And I made a [Telegram group](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw) to discuss all things macOS/iOS.
+I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together with my [iOS setup](https://github.com/nikitavoloboev/my-ios). And I made a [Telegram group](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw) to discuss all things macOS/iOS.
 
 ### Productivity
 
 #### [Alfred](https://www.alfredapp.com) - Launcher
 
-- Alfred is a powerful launcher that you can program to show anything you want. It saved me a lot of time in my life.
+- Alfred is a powerful launcher that you can program to show anything you want. It save me a lot of time as I use it to search through anything instantly.
 
 <img src="https://i.imgur.com/MdIcKlh.png" width="700" alt="img">
 
@@ -44,8 +44,8 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles#readme) to
 
 #### [Karabiner](https://pqrs.org/osx/karabiner/) - Keyboard remapping
 
-- Karabiner is an absolutely amazing app that [lets you remap keys at a very low level on macOS](https://medium.com/@nikitavoloboev/karabiner-god-mode-7407a5ddc8f6).
-- I have completely remapped my keyboard with it and every key on my keyboard is a custom modifier key that I can program to do what I want.
+- Karabiner is life changing tool that [lets you remap keys at a very low level on macOS](https://medium.com/@nikitavoloboev/karabiner-god-mode-7407a5ddc8f6).
+- I completely remapped my keyboard with it and every key on my keyboard is a custom modifier key that I can program to do what I want.
 - For example you can make caps lock into an escape key when pressed once but if you hold it, it becomes a [hyper key](https://medium.com/@nikitavoloboev/karabiner-god-mode-7407a5ddc8f6). Hyper key means that a key now serves two purposes, once when pressed alone and once when held down. So for example, for remapping caps lock, we can remap it to act as escape when pressed alone once but if we hold down on it, it becomes `⌘ + ⌃` modifier key. So `Caps Lock + F` becomes `⌘ + ⌃ + F`. And so on.
 - I take this idea further and define these kind of hyper keys for **every single key on my keyboard**.
 - I describe how I use Karabiner in detail [here](https://wiki.nikitavoloboev.xyz/macos/macos-apps/karabiner) and I generate [my configuration](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/karabiner.edn) with a [Karabiner DSL](https://github.com/yqrashawn/GokuRakuJoudo#readme).
