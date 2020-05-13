@@ -345,7 +345,7 @@ I also [share screenshots of changes to System Preferences I made](https://imgur
 
 ## Desktop Screenshot
 
-![](https://i.imgur.com/uKsu94o.png)
+![](https://i.imgur.com/petNhFp.jpg)
 
 > Using [screenfetch](https://github.com/KittyKatt/screenFetch)
 
