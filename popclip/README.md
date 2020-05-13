@@ -1,13 +1,11 @@
 # PopClip extensions
 
-You can install PopClip extensions I use by cloning the repository and in PopClip dir, double clicking on the extensions you want to install to PopClip.
+Here are the extensions I have activated:
 
-I used [PopMaker](http://brettterpstra.com/2014/05/12/popmaker-popclip-extension-generator/) to create the simple web searches extensions.
-
-Here are all the extensions I have activated:
-
-![](https://i.imgur.com/w736lg5.png)
+![](https://i.imgur.com/PS3HFvS.png)
 
 And here it is in action:
 
-![](https://i.imgur.com/27khhEM.png)
+<img src="https://i.imgur.com/dxt2qjK.png" width="400" alt="img">
+
+Everything I use comes by default with PopClip except YouTube extension which you can find in this folder. I used [PopMaker](http://brettterpstra.com/2014/05/12/popmaker-popclip-extension-generator/) tool to create this web search extension.
