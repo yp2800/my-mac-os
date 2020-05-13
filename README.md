@@ -128,7 +128,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 
 - Brings up a quick menu whenever some text is selected on which I can do a number of quick actions, like searching selected text on Google, YouTube or copy the text. Here is how it looks for me:
 
-<img src="hhttps://i.imgur.com/dxt2qjK.png" width="400" alt="img">
+<img src="https://i.imgur.com/dxt2qjK.png" width="400" alt="img">
 
 - I share all the extensions I use with it [here](popclip#readme.md).
 
