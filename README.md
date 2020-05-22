@@ -164,7 +164,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 - Assigned w + j with [Karabiner](https://wiki.nikitavoloboev.xyz/macos/macos-apps/karabiner) to open the app from Keyboard Maestro in seconds.
 - I made my own [Monokai Night theme](iterm#readme) for it.
 
-<img src="https://i.imgur.com/ItDUF98.png" width="500" alt="img">
+<img src="https://i.imgur.com/vp9Z8lD.png" width="500" alt="img">
 
 - I go over how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/iterm).
 
